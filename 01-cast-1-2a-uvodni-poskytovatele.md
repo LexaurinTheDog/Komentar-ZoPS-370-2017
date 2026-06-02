@@ -710,9 +710,9 @@ V kombinaci s § 21 a § 22 ZoPS (peněžní prostředky uživatelů nejsou vkla
 
 ### § 9 — Podmínky pro udělení povolení
 
-> **§ 9 odst. 1**
+> **§ 9**
 >
-> *Česká národní banka udělí povolení k činnosti platební instituce žadateli,*
+> *(1) Česká národní banka udělí povolení k činnosti platební instituce žadateli,*
 >
 > *- a) který je právnickou osobou,*
 >
@@ -734,13 +734,17 @@ V kombinaci s § 21 a § 22 ZoPS (peněžní prostředky uživatelů nejsou vkla
 >
 > *- j) na němž mají kvalifikovanou účast pouze osoby, které jsou důvěryhodné a způsobilé zajistit řádné a obezřetné vedení platební instituce,*
 >
-> *- k) jehož úzké propojení s jinou osobou nebrání účinnému výkonu dohledu nad činností platební instituce; (...)*
+> *- k) jehož úzké propojení s jinou osobou nebrání účinnému výkonu dohledu nad činností platební instituce; při úzkém propojení s osobou, která se řídí právním řádem státu, který není členským státem, nesmí tento právní řád ani způsob jeho uplatňování bránit účinnému výkonu dohledu nad činností platební instituce,*
 >
 > *- l) který bude provozovat v České republice alespoň část svého podnikání týkajícího se poskytování platebních služeb,*
 >
 > *- m) jehož vedoucí osoby v oblasti poskytování platebních služeb jsou odborně způsobilé a mají dostatečné zkušenosti z hlediska řádného a obezřetného poskytování platebních služeb a*
 >
 > *- n) jehož vedoucí osoby jsou důvěryhodné z hlediska řádného a obezřetného poskytování platebních služeb.*
+>
+> *(2) Odstavec 1 písm. b) se nepoužije, jestliže z mezinárodní smlouvy, která je součástí právního řádu, vyplývá povinnost umožnit žadateli se sídlem ve státě, který není členským státem, poskytovat v České republice platební služby za obdobných podmínek jako osobám se sídlem v České republice a jestliže právní řád státu, v němž má žadatel sídlo, nebrání účinné ochraně peněžních prostředků, které byly platební instituci svěřeny k provedení platební transakce. Pro platební instituci se sídlem ve státě, který není členským státem, se § 32 až 40 nepoužijí.*
+>
+> *(3) Žádost o udělení povolení k činnosti platební instituce může za právnickou osobu, která dosud nevznikla, podat a v řízení o této žádosti činit úkony ten, kdo byl zakladatelským právním jednáním určen jako statutární orgán. Česká národní banka udělí této právnické osobě povolení k činnosti platební instituce, lze-li důvodně předpokládat, že bude splňovat podmínky podle odstavce 1 v den svého vzniku. Nevznikne-li právnická osoba do 6 měsíců ode dne, kdy rozhodnutí o udělení povolení k činnosti platební instituce nabylo právní moci, hledí se na toto povolení, jako by nebylo uděleno.*
 
 **Výklad:**
 
@@ -926,9 +930,9 @@ Odkaz na **čl. 26 odst. 1 písm. a) až e) CRR** definuje strukturu kapitálu *
 >
 > *(1) Platební instituce průběžně udržuje kapitál alespoň ve výši počátečního kapitálu stanovené v § 15.*
 >
-> *(2) Platební instituce, jejíž povolení k činnosti se vztahuje na platební služby podle § 3 odst. 1 písm. a), b), c), d), e) nebo f), zároveň s plněním povinnosti podle odstavce 1 průběžně udržuje kapitál alespoň ve výši odpovídající kapitálovému požadavku ke krytí rizik (dále jen „kapitálová přiměřenost").*
+> *(2) Platební instituce, jejíž povolení k činnosti se vztahuje na platební služby podle § 3 odst. 1 písm. a), b), c), d), e) nebo f), zároveň s plněním povinnosti podle odstavce 1 průběžně udržuje kapitál alespoň ve výši odpovídající kapitálovému požadavku ke krytí rizik (dále jen „kapitálová přiměřenost“).*
 >
-> *(3) Česká národní banka v rozhodnutí o udělení povolení k činnosti platební instituce určí přístup, který bude platební instituce uvedená v odstavci 2 uplatňovat při výpočtu kapitálové přiměřenosti a který je vhodný z hlediska řádného poskytování platebních služeb nebo vzhledem k poměrům platební instituce. (...)*
+> *(3) Česká národní banka v rozhodnutí o udělení povolení k činnosti platební instituce určí přístup, který bude platební instituce uvedená v odstavci 2 uplatňovat při výpočtu kapitálové přiměřenosti a který je vhodný z hlediska řádného poskytování platebních služeb nebo vzhledem k poměrům platební instituce. Určený přístup může Česká národní banka později změnit, jestliže se změní okolnosti nebo podmínky, za nichž byl přístup určen.*
 >
 > *(4) Česká národní banka může na základě vyhodnocení řídicího a kontrolního systému platební instituce rozhodnout, že platební instituce uvedená v odstavci 2 je povinna průběžně udržovat kapitálovou přiměřenost ve výši až o 20 % vyšší, nebo až o 20 % nižší, než je stanoveno v odstavci 2.*
 >
@@ -1023,39 +1027,57 @@ Důvody nesouhlasu: **netjistá důvěryhodnost nebo způsobilost** nabyvatele (
 
 #### § 20 — Komponenty řídicího a kontrolního systému (ŘaKS)
 
-> **§ 20 odst. 1**
+> **§ 20**
 >
-> *Řídicí a kontrolní systém platební instituce zahrnuje*
+> *(1) Řídicí a kontrolní systém platební instituce zahrnuje*
 >
 > *- a) strategické a operativní řízení,*
 >
-> *- b) organizační uspořádání, včetně vnitřních předpisů (...),*
+> *- b) organizační uspořádání, včetně vnitřních předpisů, které jej upravují, s řádným, průhledným a uceleným vymezením činností, včetně činností orgánů platební instituce a s nimi spojených působností a rozhodovacích pravomocí; v rámci organizačního uspořádání se současně vymezí funkce, jejichž výkon je vzájemně neslučitelný,*
 >
-> *- c) systém řízení rizik, který vždy zahrnuje (1) přistupování platební instituce k rizikům (...) a (2) rozpoznávání, vyhodnocování, měření, sledování, ohlašování a omezování rizik, včetně přijímání opatření vedoucích k omezení výskytu nebo dopadů výskytu rizik, a zohledňuje oznamovací povinnost podle kapitoly III nařízení Evropského parlamentu a Rady (EU) 2022/2554,*
+> *- c) systém řízení rizik, který vždy zahrnuje*
 >
-> *- d) systém vnitřní kontroly (...),*
+> *  - 1. přistupování platební instituce k rizikům, kterým je nebo může být vystavena, včetně rizik vyplývajících z vnitřního nebo vnějšího prostředí a rizika likvidity, a*
+>
+> *  - 2. rozpoznávání, vyhodnocování, měření, sledování, ohlašování a omezování rizik, včetně přijímání opatření vedoucích k omezení výskytu nebo dopadů výskytu rizik, a zohledňuje oznamovací povinnost podle kapitoly III nařízení Evropského parlamentu a Rady (EU) 2022/255418),*
+>
+> *- d) systém vnitřní kontroly, který vždy zahrnuje*
+>
+> *  - 1. kontrolu podřízených pracovníků nadřízenými pracovníky,*
+>
+> *  - 2. průběžnou kontrolu dodržování právních povinností platební instituce a*
+>
+> *  - 3. vnitřní audit zajišťující nezávislou a objektivní vnitřní kontrolu výkonu činnosti platební instituce a předkládání jasných doporučení k zajištění nápravy takto zjištěných nedostatků příslušné úrovni řízení,*
 >
 > *- e) řádné administrativní a účetní postupy,*
 >
-> *- f) mechanismy řízení a kontroly při využívání informačních a komunikačních technologií v souladu s přímo použitelným předpisem Evropské unie upravujícím digitální provozní odolnost finančního sektoru,*
+> *- f) mechanismy řízení a kontroly při využívání informačních a komunikačních technologií v souladu s přímo použitelným předpisem Evropské unie upravujícím digitální provozní odolnost finančního sektoru18),*
 >
 > *- g) systém vnitřní a vnější komunikace,*
 >
 > *- h) sledování, vyhodnocování a aktualizaci vnitřních předpisů,*
 >
-> *- i) řízení střetů zájmů (...),*
+> *- i) řízení střetů zájmů při výkonu činnosti, včetně jejich zjišťování a zamezování,*
 >
-> *- j) kontrolní a bezpečnostní opatření při zpracování a evidenci informací (...),*
+> *- j) kontrolní a bezpečnostní opatření při zpracování a evidenci informací a při zohlednění jejich charakteru, zahrnující kontrolní a bezpečnostní opatření pro zabezpečení a prověření prostředků pro přenos informací, minimalizaci rizika poškození dat a neautorizovaného přístupu a zabránění úniku informací za účelem zachování důvěrnosti dat v každém okamžiku,*
 >
 > *- k) vyřizování stížností a reklamací,*
 >
-> *- l) zajišťování plynulého výkonu činnosti (...),*
+> *- l) zajišťování plynulého výkonu činnosti a trvalého fungování platební instituce na finančním trhu v souladu s předmětem a plánem její činnosti, zahrnující opatření a postupy zajišťující řádné a plynulé poskytování služeb a testování těchto opatření; opatření a postupy zahrnují politiky a plány podle přímo použitelného předpisu Evropské unie upravujícího digitální provozní odolnost finančního sektoru18),*
 >
-> *- m) systém výběru pověřených zástupců (...),*
+> *- m) systém výběru pověřených zástupců zajišťující plnění požadavků podle § 25 odst. 1 písm. a) a b),*
 >
-> *- n) kontrolu činnosti pověřených zástupců (...), a*
+> *- n) kontrolu činnosti pověřených zástupců, jejichž prostřednictvím platební instituce poskytuje platební služby, a*
 >
 > *- o) pravidla pro vedení evidence peněžních prostředků, které byly platební instituci svěřeny k provedení platební transakce.*
+>
+> *(2) Řídicí a kontrolní systém musí být účinný, ucelený a přiměřený povaze, rozsahu a složitosti rizik spojených s modelem podnikání a činností platební instituce v jeho celku i částech.*
+>
+> *(3) Platební instituce ověřuje a pravidelně hodnotí účinnost, ucelenost a přiměřenost řídicího a kontrolního systému v jeho celku i částech a zjednává bez zbytečného odkladu odpovídající nápravu.*
+>
+> *(4) Prováděcí právní předpis stanoví způsob plnění požadavků na řídicí a kontrolní systém platební instituce.*
+>
+> *Ochrana peněžních prostředků určených pro platební transakce*
 
 **Výklad:**
 
@@ -1105,15 +1127,25 @@ Odst. 2: ŘaKS musí být „**účinný, ucelený a přiměřený povaze, rozsa
 
 #### § 22 — Pravidla oddělené evidence a uložení
 
-> **§ 22 odst. 1**
+> **§ 22**
 >
-> *Peněžní prostředky, které byly platební instituci svěřeny k provedení platební transakce, musí být*
+> *(1) Peněžní prostředky, které byly platební instituci svěřeny k provedení platební transakce, musí být*
 >
 > *- a) evidovány odděleně od vlastních peněžních prostředků platební instituce a od peněžních prostředků jiných osob s výjimkou ostatních peněžních prostředků, které byly platební instituci svěřeny k provedení platební transakce, a*
 >
 > *- b) po uplynutí pracovního dne následujícího po dni, kdy je platební instituce obdržela, uloženy na samostatném účtu platební instituce u banky, centrální banky členského státu, spořitelního a úvěrního družstva, zahraniční banky se sídlem v členském státě nebo zahraniční banky se sídlem v jiném než členském státě, která podléhá dohledu srovnatelnému s dohledem České národní banky, nebo musí být investovány do likvidních aktiv s nízkým rizikem, nepředá-li je platební instituce příjemci nebo v rámci provedení platební transakce jinému poskytovateli.*
 >
-> *(2) Odstavec 1 se nepoužije, jestliže je ve prospěch platební instituce uzavřena pojistná smlouva nebo poskytnuto srovnatelné zajištění (...).*
+> *(2) Odstavec 1 se nepoužije, jestliže je ve prospěch platební instituce uzavřena pojistná smlouva nebo poskytnuto srovnatelné zajištění, na jejichž základě mají uživatelé právo na plnění ve výši odpovídající právu na vydání peněžních prostředků svěřených platební instituci k provedení platební transakce v případě, že platební instituce není schopna toto právo uspokojit sama, zejména v případě vydání rozhodnutí o úpadku platební instituce.*
+>
+> *(3) Uzavřít pojistnou smlouvu podle odstavce 2 jako pojistitel může pouze pojišťovna nebo zahraniční osoba s obdobným předmětem podnikání se sídlem v členském státě nebo se sídlem v jiném než členském státě, která podléhá dohledu srovnatelnému s dohledem České národní banky, jestliže tyto osoby nejsou členy stejné skupiny jako platební instituce.*
+>
+> *(4) Poskytnout srovnatelné zajištění podle odstavce 2 může pouze banka, spořitelní a úvěrní družstvo nebo zahraniční banka nebo zahraniční osoba s obdobným předmětem podnikání se sídlem v jiném členském státě nebo se sídlem v jiném než členském státě, která podléhá dohledu srovnatelnému s dohledem České národní banky, jestliže tyto osoby nejsou členy stejné skupiny jako platební instituce.*
+>
+> *(5) Aktivy s nízkým rizikem se pro účely tohoto zákona rozumí*
+>
+> *- a) dluhové cenné papíry, které by podle standardizovaného přístupu pro úvěrové riziko podle čl. 336 odst. 1 tabulky č. 1 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 obdržely rizikovou váhu do výše 50 %, a*
+>
+> *- b) cenné papíry vydané standardním fondem, který investuje výhradně do cenných papírů podle písmene a).*
 
 **Výklad:**
 

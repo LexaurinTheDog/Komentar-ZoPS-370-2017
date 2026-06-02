@@ -920,7 +920,33 @@ Zahrnutí platebních institucí a EMI (písm. o–r) bylo zavedeno **novelou PS
 >
 > *- c) práva a povinnosti účastníků platebního systému s neodvolatelností zúčtování vyplývající z jejich účasti v tomto systému,*
 >
-> *(…)*
+> *- d) způsob a podmínky zajištění závazků vyplývajících z účasti v platebním systému s neodvolatelností zúčtování,*
+>
+> *- e) způsob a podmínky zúčtování včetně stanovení postupu při opravě chyb vzniklých během zúčtování,*
+>
+> *- f) náležitosti příkazu k zúčtování, způsob a podmínky jeho zadávání do platebního systému s neodvolatelností zúčtování,*
+>
+> *- g) údaje, které účastník platebního systému s neodvolatelností zúčtování poskytuje provozovateli platebního systému s neodvolatelností zúčtování k plnění jeho povinností, a způsob jejich poskytování,*
+>
+> *- h) opatření, která může provozovatel platebního systému s neodvolatelností zúčtování uplatnit vůči účastníkovi platebního systému s neodvolatelností zúčtování, a postup při jejich uplatňování,*
+>
+> *- i) časový harmonogram provádění zúčtování, včetně rozvrhu jednotlivých fází, v nichž zúčtování probíhá,*
+>
+> *- j) vymezení provozního dne,*
+>
+> *- k) okamžik, ke kterému se příkaz k zúčtování považuje za přijatý platebním systémem s neodvolatelností zúčtování,*
+>
+> *- l) okamžik, ke kterému se příkaz k zúčtování zadaný do platebního systému s neodvolatelností zúčtování považuje za jednostranně neodvolatelný, a technické podmínky pro zabezpečení jeho neodvolatelnosti,*
+>
+> *- m) měnu, v níž se zúčtování provádí, a*
+>
+> *- n) pravidla přístupu k rizikům, která zahrnují alespoň*
+>
+> *  - 1. rizika, kterým platební systém s neodvolatelností zúčtování je nebo může být vystaven, včetně systémového rizika, operačního rizika, rizika likvidity a úvěrového rizika,*
+>
+> *  - 2. postupy rozpoznávání, vyhodnocování, měření, sledování a ohlašování rizik a*
+>
+> *  - 3. postupy přijímání opatření vedoucích k omezení rizik včetně stanovení vhodných podmínek pro účast v platebním systému s neodvolatelností zúčtování.*
 
 **Výklad:**
 
@@ -934,11 +960,9 @@ Klíčový pojem **neodvolatelnost příkazu** (§ 112 odst. 2 písm. l): pravid
 
 **§ 115 — Neodvolatelnost příkazu:** Klíčové ustanovení SFD:
 
-> *(1) Od okamžiku stanoveného v pravidlech systému nelze příkaz k zúčtování jednostranně odvolat.*
+> *(1) Změna pravidel systému nabývá účinnosti okamžikem uveřejnění, nestanoví-li provozovatel platebního systému s neodvolatelností zúčtování pozdější okamžik účinnosti. Změnu pravidel systému nelze uveřejnit, dokud Česká národní banka k této změně neudělí souhlas.*
 >
-> *(2) Rozhodnutí o úpadku nebo rozhodnutí či jiný zásah orgánu veřejné moci směřující k zastavení nebo omezení zúčtování (…) nemají vliv na*
->
-> *- a) platnost, účinnost či vymahatelnost příkazu k zúčtování, jestliže byl tento příkaz přijat platebním systémem s neodvolatelností zúčtování před vydáním tohoto rozhodnutí (…)*
+> *(2) Účastníkem řízení o udělení souhlasu ke změně pravidel systému je pouze provozovatel platebního systému s neodvolatelností zúčtování. Nevydá-li Česká národní banka rozhodnutí o žádosti o udělení souhlasu ke změně pravidel systému do 1 měsíce ode dne, kdy jí žádost došla, platí, že souhlas byl udělen.*
 
 Účinky neodvolatelnosti:
 - (a) **platnost a vymahatelnost** příkazu přijatého před úpadkem,
@@ -1112,11 +1136,19 @@ Klíčové **B2B opt-out**: poskytovatel a **nespotřebitelský uživatel** (typ
 >
 > *- a) kterým lze podle rámcové smlouvy dát příkaz k*
 >
->   *- 1. platební transakci v částce odpovídající nejvýše 30 eurům,*
+> *  - 1. platební transakci v částce odpovídající nejvýše 30 eurům,*
 >
->   *- 2. vnitrostátní platební transakci v částce odpovídající nejvýše 60 eurům, nebo*
+> *  - 2. vnitrostátní platební transakci v částce odpovídající nejvýše 60 eurům, nebo*
 >
->   *- 3. platební transakci, která se týká elektronických peněz, v částce odpovídající nejvýše 500 eurům, nebo (…)*
+> *  - 3. platební transakci, která se týká elektronických peněz, v částce odpovídající nejvýše 500 eurům, nebo*
+>
+> *- b) který má podle rámcové smlouvy výdajový limit nebo uchovává peněžní prostředky v částce odpovídající nejvýše*
+>
+> *  - 1. 150 eurům,*
+>
+> *  - 2. 300 eurům, jestliže lze tímto platebním prostředkem podle rámcové smlouvy dát příkaz pouze k vnitrostátní platební transakci, nebo*
+>
+> *  - 3. 500 eurům, jestliže lze tímto platebním prostředkem podle rámcové smlouvy dát příkaz pouze k platební transakci, která se týká elektronických peněz.*
 
 **Výklad:**
 
