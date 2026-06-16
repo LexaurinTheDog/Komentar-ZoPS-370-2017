@@ -882,6 +882,11 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 
 **Výklad:** **Obligatorní odnětí** (odst. 1): žádost nebo závažné porušení. **Fakultativní odnětí** (odst. 2): pozbytí podmínek licence, neaktivita (6 / 12 měsíců), uvedení nepravdivých údajů, opakovaná porušení. Odnětí je **kapitálním sankčním aktem** — vede k zániku oprávnění poskytovat regulovanou činnost. ČNB má povinnost notifikovat **EBA** (odst. 3).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 A 38/2024 - 139](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747322) — 30. 10. 2025
+  > „… odnětí povolení k činnosti platební instituce není trestem ve smyslu § 35 přestupkového zákona, ale opatřením správního dozoru, jehož účelem je ochrana třetích osob a veřejného zájmu spočívajícího v tom, aby platební služby neposkytovaly subjekty, které nesplňují regulatorní požadavky. … Proporcionalitu užití tohoto krajního opatření dovodil a legislativně zakotvil již samotný zákonodárce při přijetí právní úpravy obsažené v § 244 odst. 1 písm. b) ZPS"
+
 ### § 245 — Zúžení povolení
 
 **Výklad:** Mezistupeň mezi opatřením k nápravě a úplným odnětím — ČNB **zúží rozsah platebních služeb**, k jejichž poskytování má PI licenci (např. odebere PIS-povolení, ponechá ostatní). Žádost (obligatorní) nebo závažné porušení / nepravdivé údaje (fakultativní).
@@ -1127,6 +1132,11 @@ Díl 1 — **Přechodná ustanovení** (§§ 264–278).
 #### § 265 — Registrace poskytovatele platebních služeb malého rozsahu — transition
 
 **Výklad:** Pro PSP malého rozsahu **prodloužený transition** — **12 měsíců** souběh, **9 měsíců** na doložení podmínek. Důvod: nižší kapitálové a procesní zázemí těchto subjektů.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Af 15/2019 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/670348) — 20. 5. 2021
+  > „… uvedené ustanovení stanoví speciální právní úpravu pro subjekty, které splňují příslušné podmínky v něm uvedené …, a stanoví svébytný právní režim při vydání povolení k činnosti poskytovatele platebních služeb malého rozsahu, který nemůže využít nikdo jiný. … ust. § 265 odst. 3 zákona o platebním styku stanoví přesná pravidla, jak postupovat, a mj. stanoví povinnost žalované odejmout povolení osobě, která splnění podmínek podle zákona o platebním styku nedoloží v zákonné lhůtě 9 měsíců"
 
 #### §§ 266–267 — Povolení IEP / vydavatele EP malého rozsahu — transition
 
