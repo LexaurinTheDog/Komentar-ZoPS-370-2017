@@ -71,6 +71,43 @@ ZoPS není uzavřeným kodexem — jeho aplikace předpokládá současné použ
 - **zákon č. 500/2004 Sb., správní řád** (viz [Komentář k SŘ](/home/vojtech/Komentar-SR-500-2004/)) — subsidiárně pro řízení o povolení a dohledu, neupravuje-li ZoPS jinak;
 - **GDPR a zákon č. 110/2019 Sb., o zpracování osobních údajů** (viz [Komentář k GDPR](/home/vojtech/Komentar-GDPR-110-2019/)) — pro zpracování osobních údajů uživatelů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Litevská společnost „FinPay UAB" s povolením platební instituce uděleným litevským orgánem dohledu chce v ČR nabízet aplikaci, která uživatelům umožní iniciovat platby z jejich účtů u českých bank a zobrazovat zůstatky z více účtů. Zároveň provozuje internetovou stránku, kde porovnává poplatky českých bank za vedení účtu. Marketingově se prezentuje jako subjekt „mimo dosah českého práva, neboť podléhá pouze litevskému dohledu". Český uživatel se domáhá ochrany podle ZoPS po chybně provedené platbě.
+
+**2. Právní otázka.** Vztahuje se ZoPS (a které jeho části) na činnost zahraniční platební instituce působící v ČR přes single passport, a jak § 1 vymezuje věcný rozsah aplikace zákona na jednotlivé činnosti (přístup k účtu, srovnávací stránky)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 — předmět úpravy; písm. a) (činnost osob oprávněných poskytovat platební služby vč. činnosti v zahraničí), písm. c) (práva a povinnosti poskytovatele a uživatele), písm. e) (provozovatel srovnávacích stránek), písm. h) (přístup k platebnímu účtu).
+- *Související ustanovení téhož zákona:* § 40 (zahraniční PI z jiného členského státu v ČR), § 130 a násl. (přístup třetích stran k účtu), § 230 a násl. (srovnávací stránky).
+- *Související předpisy:* PSD2 (2015/2366/EU) — zejména čl. 2 (působnost) a čl. 107 (kogentnost ochrany uživatele); PAD (2014/92/EU) pro srovnávací stránky.
+- *Judikatura:* SDEU C-191/17 ING-DiBa (pojem platebního účtu jako předpoklad aplikace ochranných pravidel); obecně nosný závěr, že transpoziční ustanovení nelze vykládat izolovaně od směrnice (zásada eurokonformního výkladu, např. Pfeiffer).
+
+**4. Subsumpce.** Činnost FinPay UAB spadá pod písm. a) (poskytování platebních služeb vč. PIS) a písm. h) (přístup k platebnímu účtu); provoz srovnávací stránky pod písm. e). Ochranná smluvní pravidla (písm. c)) jsou kogentní a aplikují se na vztah k českému uživateli bez ohledu na sídlo poskytovatele. Sporné není „zda" se ZoPS aplikuje, nýbrž „které části" — část institucionální (povolení) podléhá domovskému dohledu, část konduitní (chování na trhu, ochrana uživatele) hostitelskému režimu.
+
+**5. Řešení.** Tvrzení o „vynětí z českého práva" je nesprávné. Ochranná pravidla části třetí (práva a povinnosti vůči uživateli) se uplatní na platby provedené v ČR. Pro institucionální dohled je příslušný litevský orgán; ČNB plní hostitelskou roli. Uživatel se může domáhat nápravy chybně provedené transakce podle českých transpozičních pravidel (§ 173 a násl.); spor podléhá i jurisdikci finančního arbitra.
+
+**6. Varianty.** (a) Kdyby FinPay neměl žádné povolení v žádném státě, šlo by o neoprávněné podnikání — aplikoval by se § 5 a sankce. (b) Kdyby šlo o čistě technického zprostředkovatele bez příjmu peněz a bez iniciace plateb (pouhé IT rozhraní), nešlo by o platební službu (§ 3 odst. 3 písm. g)) a ZoPS by se v institucionální rovině neuplatnil.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „lex loci sídla":* zahraniční PI tvrdí, že podléhá výlučně domovskému právu. Neutralizace: PSD2 výslovně rozděluje dohled na home/host a kogentní ochranná pravidla (čl. 107 PSD2) chrání uživatele v místě poskytnutí služby; § 1 písm. c) zakládá práva uživatele bez ohledu na sídlo.
+- *Protiargument „srovnávací stránky nejsou regulovány":* provozovatel může tvrdit, že jde o pouhou informační službu. Neutralizace: § 1 písm. e) výslovně podřizuje srovnávací stránky úplat regulaci (transpozice PAD).
+- *Slabé místo:* § 1 je úvodní/programové ustanovení — sám o sobě nezakládá konkrétní práva; nutno vždy spojit s konkrétním hmotněprávním ustanovením (riziko argumentace „pouze" § 1).
+
+#### H. Praktický závěr
+
+Ustanovení § 1 slouží jako mapa zákona — určuje, zda určitá činnost vůbec spadá do působnosti ZoPS, a jako transpoziční/navazovací doložka otevírá dveře eurokonformnímu výkladu. V praxi je výchozím bodem každé analýzy: nejprve subsumovat činnost pod některé z písmen a)–h), pak najít konkrétní hmotněprávní ustanovení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá posuzovaná činnost pod některé z písmen a)–h) § 1? (Pokud ne, ZoPS se neaplikuje.)
+- [ ] Jde o transponovanou (směrnicovou) nebo navazující (nařízení) materii? — určuje metodu výkladu.
+- [ ] Jde o domácí, nebo zahraniční subjekt? — určuje rozdělení dohledu home/host.
+- [ ] Je dotčen vztah k uživateli (kogentní ochrana, písm. c), d))?
+- [ ] Nutno přibrat související zákony (o bankách, o ČNB, OZ, AML, správní řád)?
+
+**Typicky rozhodné důkazy / podklady:** povolení/licence subjektu a stát jeho vydání, výpis ze seznamů ČNB/EBA, smluvní dokumentace s uživatelem, doložení místa poskytnutí služby, identifikace dotčené platební služby dle § 3.
+
 ---
 
 ### § 2 — Vymezení některých pojmů
@@ -377,6 +414,43 @@ Odst. 4 zavádí pojmosloví pro **Část třetí ZoPS — platební systémy s 
 
 > **Praktický význam:** Pravidla o platebních systémech s neodvolatelností zúčtování chrání **systémovou stabilitu finančního trhu**. Bez nich by úpadek významné banky znamenal řetězovou eliminaci nezúčtovaných transakcí ze systému a šíření nákazy. Neodvolatelnost je proto klíčovým **macroprudenciálním** prvkem regulace.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka vede klientovi „spořicí účet", z něhož lze peníze převést pouze zpět na jeden předem určený běžný účet téhož klienta; jiné platby (úhrady třetím osobám, inkasa, karty) nejsou možné. Klient současně používá mobilní aplikaci třetí strany (PFM), která agreguje zůstatky z jeho běžného i spořicího účtu, a při nákupu v e-shopu zaplatí tlačítkem „zaplatit z účtu", které iniciuje převod přímo z jeho banky. Po neautorizovaném výběru klient namítá porušení pravidel o platebním účtu i u spořicího účtu.
+
+**2. Právní otázka.** Je předmětný „spořicí účet" platebním účtem ve smyslu § 2 odst. 1 písm. b), a které definiční pojmy (PISP, AISP, ověření, citlivý údaj) určují právní režim PFM aplikace a platebního tlačítka?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 1 písm. b) (platební účet), písm. k) (PIS), písm. l) (AIS); § 2 odst. 3 písm. l)–n) (ověření, osobní bezpečnostní prvek, citlivý údaj o platbách).
+- *Související ustanovení téhož zákona:* § 3 odst. 1 písm. g), h) (PIS/AIS jako platební služby), § 173 (jedinečný identifikátor), § 223 (SCA).
+- *Související předpisy:* PSD2 čl. 4 (definice); nařízení v přenesené pravomoci (EU) 2018/389 (RTS SCA a bezpečná komunikace).
+- *Judikatura:* SDEU C-191/17 ING-DiBa (test platebního účtu — nutnost možnosti platit třetím osobám); SDEU C-375/15 BAWAG (trvalý nosič dat — § 2 odst. 3 písm. h)).
+
+**4. Subsumpce.** Spořicí účet, který umožňuje pouze pohyb na jeden referenční účet a neumožňuje platby třetím osobám, podle testu ING-DiBa **není** platebním účtem — nevztahuje se na něj smluvní ochrana části třetí ani open banking. PFM aplikace čtoucí zůstatky naplňuje znaky AIS (písm. l)); platební tlačítko v e-shopu naplňuje znaky PIS (písm. k)) — iniciace příkazu jménem plátce poskytovatelem odlišným od banky, přes internet.
+
+**5. Řešení.** Ochrana proti neautorizované transakci se uplatní u běžného (platebního) účtu, nikoli u spořicího účtu, který platebním účtem není. AISP směl číst zůstatky jen po výslovném souhlasu a po silné autentizaci; banka nesměla přístup blokovat. Pro odpovědnost za neautorizovaný výběr je rozhodné, zda proběhlo řádné ověření (§ 2 odst. 3 písm. l)) a zda nebyl kompromitován osobní bezpečnostní prvek.
+
+**6. Varianty.** (a) Pokud by ze spořicího účtu šlo platit i třetím osobám (např. trvalým příkazem komukoli), stal by se platebním účtem a ochrana by se uplatnila. (b) Pokud by „tlačítko" jen přesměrovalo klienta do internetbankingu banky bez iniciace příkazu třetí stranou, nešlo by o PIS, nýbrž o standardní úhradu (§ 2 odst. 1 písm. f)).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „každý účet je platební":* banka/uživatel může tvrdit, že i spořicí účet slouží transakcím. Neutralizace: rozhodující je materiální test ING-DiBa — možnost běžných plateb vůči třetím osobám; pouhý pohyb na referenční účet nestačí.
+- *Protiargument „AISP nepotřebuje souhlas, data jsou klientova":* neutralizace: § 2 odst. 3 písm. n) sice vyjímá jedinečný identifikátor a jméno z citlivých údajů, ale přístup je vždy podmíněn výslovným souhlasem uživatele a SCA (§ 223; RTS 2018/389).
+- *Slabé místo:* hranice mezi „souborem postupů" (platební prostředek, písm. d)) a pouhými přihlašovacími údaji bývá v praxi sporná; bez přesné smluvní dokumentace hrozí nejistá kvalifikace.
+
+#### H. Praktický závěr
+
+§ 2 je definiční jádro celého zákona — jeho pojmy předurčují, který režim (ochranný, open banking, SCA) se uplatní. Klíčové je správně kvalifikovat účet (platební vs. neplatební) a roli třetích stran (PISP/AISP), neboť na tom závisí rozsah povinností i odpovědnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Umožňuje účet platby třetím osobám? → platební účet (test ING-DiBa).
+- [ ] Iniciuje platbu třetí strana jménem plátce přes internet? → PIS.
+- [ ] Čte třetí strana jen data o účtu? → AIS.
+- [ ] Proběhlo řádné ověření a SCA? (znalost + vlastnictví + inherence)
+- [ ] Jde o citlivý údaj o platbách (PIN, CVV), nebo o vyňatý jedinečný identifikátor/jméno?
+
+**Typicky rozhodné důkazy / podklady:** produktové podmínky účtu (funkční rozsah plateb), smlouva s PISP/AISP a doklad o souhlasu uživatele, logy autentizace (SCA), technický popis platebního prostředku, výpis jedinečného identifikátoru použitého v příkazu.
+
 ---
 
 ### § 3 — Platební služba: katalog osmi kategorií a negativní vymezení
@@ -455,6 +529,43 @@ Odst. 3 (písm. a) až g)) vylučuje z působnosti ZoPS činnosti, které sice z
 - **Písm. f)** — *cashback* (vyplacení hotovosti obchodníkem při placení kartou) a vybírání ATM, neposkytuje-li ATM provozovatel jiné služby.
 - **Písm. g)** — *technical service providers* (TSP) — provozovatelé, kteří podporují platební služby, ale nedostávají peněžní prostředky do držby (typicky platební brány bez vlastního accountu, technické platformy pro internet banking). **Pozor:** výjimka **neplatí** pro PISP/AISP — tj. provoz služby nepřímého dání platebního příkazu nebo služby informování o platebním účtu *je* platební službou bez ohledu na to, že PISP technicky peníze nedrží.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel sítě obchodů vydává „dárkovou kartu", kterou lze uplatnit ve stovkách nezávislých e-shopů sdružených v marketingové platformě. Telekomunikační operátor zároveň nabízí placení digitálního obsahu (hry, e-knihy) přefakturací na vyúčtování, jednotlivá platba do 40 EUR, měsíčně do 250 EUR. Třetí subjekt provozuje „platební bránu", která pouze přesměrovává data mezi e-shopem a bankou, sama peníze nedrží, ale nabízí i tlačítko „zaplať z účtu" iniciující převod. ČNB posuzuje, kdo z nich potřebuje povolení.
+
+**2. Právní otázka.** Které z popsaných činností jsou platební službou podle § 3 odst. 1 a které spadají do negativního vymezení § 3 odst. 3 (zejména closed-loop výjimka, digital content exception, výjimka technického poskytovatele)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 odst. 1 (katalog osmi služeb), odst. 2 (bezhotovostní obchod s měnou), odst. 3 písm. c) (closed-loop), písm. e) (digital content), písm. g) (TSP).
+- *Související ustanovení téhož zákona:* § 5 (kdo smí poskytovat), § 2 odst. 1 písm. k), l) (PIS/AIS), § 4 (e-money).
+- *Související předpisy:* PSD2 Annex I a čl. 3 (vynětí); zákon č. 277/2013 Sb. o směnárenské činnosti; nařízení MiCA (EU) 2023/1114 pro kryptoaktiva.
+- *Judikatura:* výkladová praxe EBA k limited network exclusion (EBA/GL/2022/02); nosný závěr, že multibrand dárkové karty s širokým okruhem akceptantů výjimku nesplňují.
+
+**4. Subsumpce.** Dárková karta uplatnitelná ve „stovkách nezávislých e-shopů" **nesplňuje** podmínku úzce vymezeného okruhu (§ 3 odst. 3 písm. c)) — jde o platební prostředek a vydavatel potřebuje titul dle § 5. Telekomunikační mikroplatby do 50 EUR/300 EUR měsíčně spadají pod digital content exception (písm. e)) — platební službou nejsou. Platební brána, která jen přesměrovává data, je TSP (písm. g) — vyňato); avšak její tlačítko „zaplať z účtu" iniciuje příkaz = PIS (§ 3 odst. 1 písm. g)), na nějž se výjimka TSP **nevztahuje**.
+
+**5. Řešení.** Vydavatel dárkové karty a provozovatel PIS funkce potřebují povolení/registraci; telekomunikační operátor (v limitech) a brána v rozsahu pouhého přesměrování dat nikoli. ČNB posoudí každou funkci samostatně — jeden subjekt může vykonávat současně vyňaté i regulované činnosti.
+
+**6. Varianty.** (a) Kdyby dárková karta platila jen v prodejnách jednoho vydavatele (closed-loop), výjimka by se uplatnila. (b) Kdyby operátor překročil limit 50/300 EUR, ztratil by digital content výjimku a stal se poskytovatelem. (c) Kdyby brána navíc přijímala peníze do své držby (settlement), přestala by být pouhým TSP.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „jsme jen technologie":* brána/start-up tvrdí, že nedrží peníze, tedy nepodléhá regulaci. Neutralizace: výjimka TSP (písm. g)) výslovně neplatí pro PIS a AIS — rozhodující je iniciace příkazu / čtení dat, nikoli držení peněz.
+- *Protiargument „dárková karta = closed-loop":* neutralizace: kritériem je úzkost okruhu akceptantů; široká multibrandová síť kritérium nesplňuje (EBA Guidelines).
+- *Slabé místo:* hranice limited network a limitu digital content exception jsou skutkově citlivé (počet obchodů, druh zboží, výše transakcí); bez přesných dat hrozí chybná kvalifikace a riziko neoprávněného podnikání.
+
+#### H. Praktický závěr
+
+§ 3 je „vstupní brána" regulace — určuje, zda činnost vyžaduje povolení. Postupuje se dvoufázově: nejprve subsumovat pod katalog odst. 1, poté ověřit, zda se neuplatní vynětí odst. 3. Každou funkci subjektu je třeba posoudit zvlášť; jeden podnikatel může kombinovat regulované i vyňaté činnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Naplňuje činnost některou z osmi kategorií § 3 odst. 1?
+- [ ] Uplatní se některé vynětí § 3 odst. 3 (closed-loop, digital content do 50/300 EUR, TSP, cashback, skupinové platby)?
+- [ ] Jde o PIS/AIS? → výjimka TSP se neuplatní.
+- [ ] U dárkových karet: je okruh akceptantů skutečně úzce vymezený?
+- [ ] Je to hotovostní směna (z. č. 277/2013 Sb.), nebo bezhotovostní (§ 3 odst. 2 — platební služba)?
+
+**Typicky rozhodné důkazy / podklady:** popis produktu a okruhu akceptantů, smluvní síť obchodníků, statistika výše a počtu transakcí (digital content limity), technická architektura toku peněz (drží/nedrží subjekt prostředky), doklad o iniciaci platebního příkazu.
+
 ---
 
 ### § 4 — Elektronické peníze
@@ -506,6 +617,43 @@ Klíčový praktický rozdíl:
 - **Instituce elektronických peněz** (IEP, EMI — *E-Money Institution*) — *uchovává* hodnotu peněžních prostředků na účtu uživatele v podobě e-money po neomezenou dobu (do okamžiku utracení nebo zpětné výměny).
 
 V důsledku této distinkce má IEP **vyšší kapitálové požadavky** (350 000 EUR vs. 125 000 EUR maximální pro PI — § 67 ZoPS pro IEP, § 15 ZoPS pro PI) a podléhá přísnějším pravidlům o ochraně peněžních prostředků.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Start-up vydá uživatelům „peněženku", do níž si uživatelé nahrají peníze (1:1) a kterými pak platí u libovolných obchodníků zapojených do akceptační sítě i převádějí mezi sebou. Zůstatek mohou držet neomezeně dlouho a kdykoli požádat o jeho zpětnou výměnu na bankovní účet. Subjekt má pouze povolení platební instituce (PI), nikoli instituce elektronických peněz (IEP). ČNB zahájí dohledové šetření, zda nejde o neoprávněné vydávání elektronických peněz, a zda nepřijímá vklady.
+
+**2. Právní otázka.** Naplňuje uchovávaný zůstatek v peněžence definiční znaky elektronických peněz podle § 4 odst. 1, a je k jeho vydávání postačující povolení PI, nebo je nutné povolení IEP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 1 písm. a)–d) (čtyři kumulativní znaky e-money), odst. 2 (negativní vymezení).
+- *Související ustanovení téhož zákona:* § 6 (kdo smí vydávat e-money), § 21 (vyloučení charakteru vkladu), § 67 (kapitál IEP), § 3 odst. 3 písm. c) a e) (vyloučené hodnoty).
+- *Související předpisy:* EMD2 (2009/110/ES) čl. 2 odst. 2; nařízení MiCA (EU) 2023/1114 (e-money tokens); zákon č. 21/1992 Sb. o bankách (zákaz přijímání vkladů bez licence).
+- *Judikatura:* výkladová praxe ČNB a EBA k odlišení e-money od svěřených prostředků PI; nosný závěr: dlouhodobé uchovávání hodnoty = e-money, krátkodobé svěření k provedení platby = prostředky PI.
+
+**4. Subsumpce.** Zůstatek v peněžence: (i) představuje pohledávku vůči vydavateli (znak a)); (ii) je uchováván elektronicky (znak b)); (iii) je vydáván proti přijetí peněz (znak c)); (iv) je přijímán jinými osobami než vydavatelem (znak d)). Všechny čtyři znaky jsou kumulativně naplněny → jde o elektronické peníze. Klíčové odlišení od svěřených prostředků PI (§ 21): peníze nejsou drženy krátkodobě k provedení konkrétní transakce, nýbrž uchovávány jako trvalá hodnota.
+
+**5. Řešení.** Subjekt vydává e-money a potřebuje povolení IEP (§ 6 ve spojení s § 4), nikoli pouze PI; vyšší kapitálový požadavek (350 000 EUR) a přísnější ochrana prostředků. Nejde však o přijímání vkladů — § 21 a § 4 výslovně odlišují e-money od vkladu (na zůstatek se nevztahuje pojištění vkladů). Bez povolení IEP jde o neoprávněné podnikání.
+
+**6. Varianty.** (a) Kdyby peněženka jen tokenizovala existující kartu (žádný vlastní zůstatek), nešlo by o e-money. (b) Kdyby hodnota šla uplatnit jen u vydavatele (closed-loop) nebo jen na digital content (§ 4 odst. 2), o e-money by nešlo. (c) Kdyby šlo o stablecoin vázaný na euro, uplatnil by se souběžně režim e-money i MiCA (EMT).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „jsme jen PI, peníze klientů jen procházejí":* neutralizace: rozhodující je, zda je hodnota uchovávána (e-money), nebo jen krátkodobě svěřena k provedení konkrétní platby (PI dle § 21–22); dlouhodobý zůstatek utratitelný u třetích stran = e-money.
+- *Protiargument „jde o vklad, podléháme bankovní regulaci":* neutralizace: § 4 a § 21 e-money od vkladu výslovně oddělují; e-money není úročeno a nepodléhá pojištění vkladů.
+- *Slabé místo:* hraniční produkty (kombinace BNPL + zůstatek + karta, např. dřívější Twisto) mohou naplňovat znaky více kategorií současně; chybí ostrá hranice a hrozí nesprávná licenční kvalifikace.
+
+#### H. Praktický závěr
+
+§ 4 určuje, zda subjekt vydává elektronické peníze, a tím spouští přísnější režim IEP (vyšší kapitál, přísnější ochrana prostředků) oproti PI. Rozhodující je funkční test čtyř kumulativních znaků a zejména odlišení trvalého uchovávání hodnoty od krátkodobého svěření prostředků k provedení platby.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je naplněn každý ze čtyř znaků § 4 odst. 1 (pohledávka, elektronická forma, vydání proti penězům, akceptace třetími osobami)?
+- [ ] Je hodnota uchovávána trvale (e-money), nebo jen krátkodobě svěřena k platbě (PI dle § 21)?
+- [ ] Neuplatní se negativní vymezení § 4 odst. 2 (closed-loop, digital content)?
+- [ ] Má subjekt povolení IEP (§ 6), nebo jen PI?
+- [ ] Jde o stablecoin → souběžný režim MiCA (EMT)?
+
+**Typicky rozhodné důkazy / podklady:** produktové a obchodní podmínky peněženky, doklad o době držení zůstatku a možnosti zpětné výměny, popis okruhu akceptantů, účetní evidence přijatých prostředků, udělené povolení (PI vs. IEP) a jeho rozsah.
 
 ---
 
@@ -578,6 +726,43 @@ V důsledku této distinkce má IEP **vyšší kapitálové požadavky** (350 00
 
 Česká pošta jako držitel poštovní licence s explicitní službou „dodání peněžní částky poštovním poukazem" (poukázka A, poukázka B, poukázka C, poukázka D) je *ex lege* poskytovatelem platebních služeb v rozsahu této služby. Jiné platební služby Česká pošta neposkytuje jako poskytovatel dle § 5 písm. l) — pro ně by potřebovala další titul (bankovní licence — Poštovní spořitelna byla bankou ČSOB, dnes součást skupiny ČSOB; platební instituce — Česká pošta částečně podléhá i tomuto režimu).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost s ručením omezeným bez jakéhokoli povolení ČNB začne na webu nabízet „rychlé převody peněz do zahraničí" — od klientů přijímá hotovost i bezhotovostní platby a poukazuje je příjemcům v cílových zemích, za provizi, soustavně a za účelem zisku. Po několika měsících provozu a stovkách transakcí ji ČNB odhalí. Jednatel namítá, že „jen pomáhal lidem posílat peníze" a nešlo o podnikání v platebních službách.
+
+**2. Právní otázka.** Smí subjekt, který není uveden v taxativním výčtu § 5, poskytovat platební služby (zde poukazování peněz) jako podnikání, a jaké jsou důsledky porušení tohoto licenčního monopolu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 — taxativní (numerus clausus) okruh poskytovatelů platebních služeb; písm. g) (platební instituce), písm. i) (poskytovatel malého rozsahu).
+- *Související ustanovení téhož zákona:* § 3 odst. 1 písm. f) (poukazování peněz jako platební služba), § 7–9 (povolení PI), § 58 a násl. (poskytovatel malého rozsahu), § 226 a násl. (správní sankce, odnětí).
+- *Související předpisy:* § 251 zákona č. 40/2009 Sb., trestní zákoník (neoprávněné podnikání); zákon č. 253/2008 Sb. (AML — riziko zneužití neregulovaného kanálu); PSD2 čl. 11 (požadavek povolení).
+- *Judikatura:* trestní judikatura k § 251 TZ k znaku „neoprávněně" a „ve větším rozsahu"; nosný závěr, že soustavná výdělečná činnost bez povolení naplňuje skutkovou podstatu.
+
+**4. Subsumpce.** Poukazování peněz je platební službou (§ 3 odst. 1 písm. f)). Činnost je vykonávána soustavně, samostatně, za účelem zisku → jde o podnikání. Subjekt není bankou, družstevní záložnou, PI, IEP, poskytovatelem malého rozsahu ani jinou osobou z § 5 → nemá žádný z taxativně vypočtených titulů. Naplňuje tedy znaky neoprávněného poskytování platebních služeb.
+
+**5. Řešení.** Jde o porušení licenčního monopolu § 5 — správní delikt (sankce, zákaz činnosti dle § 226 a násl. ZoPS) a při dostatečném rozsahu trestný čin neoprávněného podnikání (§ 251 TZ). Namítání „pouhé pomoci" neobstojí — pojem podnikání je objektivní (soustavnost + ziskovost). K legalizaci by subjekt potřeboval povolení PI (§ 7) nebo registraci poskytovatele platebních služeb malého rozsahu (§ 58) při splnění objemových limitů.
+
+**6. Varianty.** (a) Kdyby šlo o jednorázovou výpomoc mezi přáteli bez soustavnosti a zisku, nešlo by o podnikání a § 5 by se neuplatnil. (b) Kdyby měsíční objem nepřekročil limit poskytovatele malého rozsahu, postačila by jednodušší registrace (§ 58). (c) Kdyby šlo o banku z jiného členského státu, působila by přes single passport (§ 5 písm. b)) bez českého povolení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nešlo o podnikání":* neutralizace: znaky podnikání (soustavnost, samostatnost, zisk) jsou objektivní; subjektivní úmysl „pomáhat" je nerozhodný.
+- *Protiargument „výčet § 5 není úplný":* neutralizace: § 5 je taxativní (numerus clausus) — „pouze tyto osoby"; analogické rozšiřování okruhu je vyloučeno.
+- *Slabé místo:* hranice mezi soustavnou činností a ojedinělou výpomocí může být skutkově sporná; u trestního postihu je nutné prokázat rozsah a úmysl, což klade nároky na dokazování.
+
+#### H. Praktický závěr
+
+§ 5 zavádí uzavřený okruh poskytovatelů — kdo v něm není, nesmí platební služby poskytovat jako podnikání. V praxi je to prvotní filtr legality: u každého subjektu ověřit, zda má některý z taxativně vypočtených titulů. Porušení vede k sankcím i trestní odpovědnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o platební službu (§ 3 odst. 1)?
+- [ ] Je vykonávána jako podnikání (soustavně, samostatně, za účelem zisku)?
+- [ ] Má subjekt některý z titulů § 5 písm. a)–m)?
+- [ ] Není-li tomu tak, jde o správní delikt (§ 226+), případně trestný čin (§ 251 TZ)?
+- [ ] Lze činnost legalizovat povolením PI (§ 7) či registrací malého rozsahu (§ 58)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o existenci/absenci povolení (seznamy ČNB), evidence transakcí (objem, počet, opakování), doklady o příjmech/provizích, smluvní a marketingová dokumentace prokazující soustavnost a ziskovost, identifikace typu poskytované platební služby.
+
 ---
 
 ### § 6 — Taxativní okruh vydavatelů elektronických peněz
@@ -617,6 +802,43 @@ Vydávat elektronické peníze smí **užší okruh** osob oproti poskytovatelů
 
 Z § 5 + § 6 vyplývá, že každý vydavatel e-money je automaticky též oprávněn poskytovat platební služby spojené s těmito e-money — vydání e-money implicitně zahrnuje provádění platebních transakcí přes e-money zůstatek. Toto je dáno *funkční* povahou e-money: bezvýznamné by bylo vydávat e-money, kdyby s nimi nebylo možné platit.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce (PI) provozující e-shopovou peněženku chce klientům umožnit, aby si do peněženky nahráli prostředky a držet je tam neomezeně dlouho a platit jimi u třetích obchodníků (tj. fakticky vydávat elektronické peníze). PI tvrdí, že její povolení k poskytování platebních služeb (§ 5 písm. g)) k vydávání e-money postačuje, neboť „platit a vydávat e-money je v zásadě totéž".
+
+**2. Právní otázka.** Smí platební instituce (resp. poskytovatel platebních služeb malého rozsahu nebo AISP) vydávat elektronické peníze, nebo § 6 vyhrazuje vydávání e-money užšímu okruhu osob?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 — taxativní okruh vydavatelů e-money; písm. d) (IEP), písm. f) (vydavatel e-money malého rozsahu).
+- *Související ustanovení téhož zákona:* § 5 (okruh poskytovatelů platebních služeb — širší), § 4 (definice e-money), § 67 (kapitál IEP — 350 000 EUR), § 99 (vydavatel e-money malého rozsahu — limit 5 mil. EUR).
+- *Související předpisy:* EMD2 (2009/110/ES); zákon č. 21/1992 Sb. o bankách (vydávání e-money blízké přijímání vkladů).
+- *Judikatura:* výkladová praxe ČNB k oddělení režimu PI a IEP; nosný závěr: vydávání e-money vyžaduje samostatný, přísnější titul.
+
+**4. Subsumpce.** Vydávání e-money je v § 6 vyhrazeno užšímu okruhu než poskytování platebních služeb v § 5. Platební instituce (§ 5 písm. g)) v § 6 **uvedena není** → PI e-money vydávat nesmí. Naopak IEP (§ 6 písm. d)) i vydavatel e-money malého rozsahu (§ 6 písm. f)) jsou oprávněni; každý vydavatel e-money je přitom automaticky oprávněn poskytovat i platební služby s těmito e-money spojené.
+
+**5. Řešení.** PI nesmí na základě svého povolení vydávat e-money; potřebovala by povolení IEP (vyšší kapitál, přísnější ochrana prostředků) nebo režim vydavatele e-money malého rozsahu (do limitu 5 mil. EUR průměrné měsíční hodnoty). Argument „platit = vydávat e-money" je nesprávný — vydávání e-money je systémově blízké přijímání vkladů, a proto je okruh vydavatelů užší.
+
+**6. Varianty.** (a) Kdyby objem vydaných e-money zůstal pod 5 mil. EUR měsíčně, postačil by zjednodušený režim vydavatele malého rozsahu (§ 6 písm. f), § 99). (b) Kdyby peníze v peněžence procházely jen krátkodobě k provedení konkrétní platby (nešlo by o uchovávanou hodnotu), nešlo by o e-money a režim PI by stačil.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „PI smí vše, co s platbami souvisí":* neutralizace: § 6 je taxativní a PI v něm chybí; rozsah PI vymezuje § 8, který vydávání e-money nezahrnuje.
+- *Protiargument „malý objem = bez regulace":* neutralizace: i vydavatel e-money malého rozsahu potřebuje registraci/povolení (§ 99); úplné vynětí neexistuje.
+- *Slabé místo:* hranice mezi „uchovávanou hodnotou" (e-money) a „svěřenými prostředky k platbě" (PI) je v praxi sporná; bez přesné produktové dokumentace hrozí chybné zařazení do nesprávného licenčního režimu.
+
+#### H. Praktický závěr
+
+§ 6 vymezuje užší okruh osob oprávněných vydávat e-money než § 5 pro platební služby — odráží vyšší systémové riziko vydávání e-money (blízkost přijímání vkladů). Platební instituce, poskytovatelé malého rozsahu a AISP e-money vydávat nesmějí; vyhrazeno je bankám, družstevním záložnám, IEP, vydavatelům malého rozsahu a ČNB.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde skutečně o vydávání e-money dle § 4 (uchovávaná hodnota), nebo jen o platební službu?
+- [ ] Patří vydavatel do taxativního okruhu § 6 písm. a)–g)?
+- [ ] Nepřesahuje objem limit pro vydavatele e-money malého rozsahu (5 mil. EUR — § 99)?
+- [ ] Má vydavatel povolení IEP (§ 6 písm. d)), nebo registraci malého rozsahu (písm. f))?
+- [ ] Není vydávání e-money zaměňováno s přijímáním vkladů (vyhrazeno bankám)?
+
+**Typicky rozhodné důkazy / podklady:** produktové podmínky e-money produktu, statistika průměrné měsíční hodnoty vydaných e-money (limit § 99), udělené povolení a jeho rozsah, doklad o době uchovávání zůstatku a okruhu akceptantů.
+
 ---
 
 ### Hlava II — Platební instituce
@@ -647,6 +869,43 @@ Současné typické příklady platebních institucí v ČR (registrovaných u �
 - **Trustly CZ branch** (PISP/SCT převody);
 - **Boomerang** (remitance);
 - **Twisto Payments** (BNPL — *Buy Now Pay Later*, dnes součást Zip Co).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Dva podnikatelé zakládají fintech: jeden chce podnikat jako fyzická osoba (OSVČ) a nabízet B2B platby a faktoring; druhý zakládá akciovou společnost se sídlem zapsaným v ČR, avšak fakticky řízenou ze zahraničí. Oba se prezentují jako „platební instituce" a uzavírají smlouvy s klienty ještě před vydáním rozhodnutí ČNB.
+
+**2. Právní otázka.** Kdo se může stát platební institucí podle § 7 (forma subjektu, nutnost povolení ČNB) a od kterého okamžiku je oprávněn vykonávat činnost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 — definice PI (právnická osoba + povolení ČNB).
+- *Související ustanovení téhož zákona:* § 8 (rozsah činnosti), § 9 (podmínky povolení, vč. písm. a) právnická osoba a písm. b) sídlo i skutečné sídlo v ČR), § 10 (řízení), § 5 (taxativní okruh poskytovatelů).
+- *Související předpisy:* PSD2 čl. 4 odst. 4 a čl. 11; § 251 TZ (neoprávněné podnikání při výkonu před povolením).
+- *Judikatura:* výkladová praxe ČNB k pojmu „skutečné sídlo" (anti-letterbox); nosný závěr: pouze formální sídlo v ČR při faktickém řízení v zahraničí nesplňuje podmínku.
+
+**4. Subsumpce.** PI je definována jako **právnická osoba** s **povolením ČNB**. Fyzická osoba (OSVČ) PI být nemůže — chybí znak právní subjektivity požadovaného typu; B2B platby by mohla nabízet jen jako jiný typ poskytovatele (nikoli PI). Akciová společnost znak právnické osoby splňuje, ale podle § 9 odst. 1 písm. b) musí mít v ČR i skutečné sídlo; faktické řízení ze zahraničí podmínku porušuje. Oba subjekty navíc vykonávají činnost před vydáním povolení.
+
+**5. Řešení.** OSVČ se PI stát nemůže (nutná forma právnické osoby). A.s. musí prokázat skutečné sídlo (centrum rozhodování) v ČR. Výkon činnosti před nabytím právní moci povolení je neoprávněným poskytováním platebních služeb (§ 5, sankce; případně § 251 TZ). Status PI vzniká až povolením ČNB, nikoli zápisem do obchodního rejstříku.
+
+**6. Varianty.** (a) Kdyby OSVČ chtěla poskytovat jen službu informování o platebním účtu, mohla by se stát AISP (§ 41 — FO přípustná). (b) Kdyby a.s. přesunula skutečné vedení do ČR, podmínku § 9 odst. 1 písm. b) by splnila. (c) Podle § 9 odst. 3 mohou zakladatelé požádat o povolení ještě před vznikem PO; činnost však smí začít až po vzniku a povolení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „stačí mě zapsat v ČR":* neutralizace: § 9 odst. 1 písm. b) vyžaduje sídlo i skutečné sídlo — formální zápis bez faktického řízení nestačí (anti-letterbox).
+- *Protiargument „povolení je formalita, mohu začít hned":* neutralizace: status PI vzniká až povolením ČNB; dřívější činnost je neoprávněná.
+- *Slabé místo:* prokazování „skutečného sídla" je skutkově náročné (kde se rozhoduje, kde sídlí management); riziko sporů o jurisdikci a o okamžik vzniku oprávnění.
+
+#### H. Praktický závěr
+
+§ 7 definuje platební instituci dvěma znaky: právnická osoba + povolení ČNB. Status nevzniká zápisem do rejstříku, nýbrž povolením; fyzická osoba PI být nemůže. Pro praxi je rozhodné ověřit existenci a rozsah povolení a reálné umístění vedení subjektu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je subjekt právnickou osobou (FO nemůže být PI)?
+- [ ] Má pravomocné povolení ČNB k činnosti PI?
+- [ ] Je status odvozen od povolení (nikoli jen od zápisu v OR)?
+- [ ] Má subjekt sídlo i skutečné sídlo v ČR (§ 9 odst. 1 písm. b))?
+- [ ] Nevykonává činnost před nabytím právní moci povolení?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí ČNB o povolení a jeho rozsah, výpis z obchodního rejstříku, doklady o místě skutečného vedení (zápisy z jednání orgánů, sídlo managementu), datace zahájení činnosti vs. právní moci povolení.
 
 ---
 
@@ -703,6 +962,44 @@ Klauzule „v České republice neplatí" je důležitá — pro ryze tuzemské 
 Odst. 3 je **systémově kritické** ustanovení. PI musí mít vlastní zdroje na úvěrování (kapitál, půjčky od bank, externí financování) — **nesmí** úvěrovat z peněz, které jí uživatelé svěřili k provedení platby. Toto by bylo **zlomovým porušením fiduciárního charakteru** vztahu PI – uživatel a v podstatě nevýslovným přijímáním vkladů (= bankovní činnost vyhrazená bankám dle § 1 zákona o bankách).
 
 V kombinaci s § 21 a § 22 ZoPS (peněžní prostředky uživatelů nejsou vkladem; musí být odděleně uloženy/investovány do likvidních aktiv s nízkým rizikem) tvoří odst. 3 ochranný štít proti smíšení provozního a klientského majetku PI.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce s povolením pro vydávání kreditních karet (§ 3 odst. 1 písm. d)) nabízí klientům v ČR splátkový úvěr (BNPL) na 18 měsíců a současně přeshraničně slovenským klientům úvěr na 15 měsíců. Na financování úvěrů zčásti používá i prostředky, které jí jiní klienti svěřili k provedení platebních transakcí. ČNB při kontrole zjistí, že část úvěrů je kryta klientskými penězi a že přeshraniční úvěr přesahuje roční splatnost.
+
+**2. Právní otázka.** Za jakých podmínek smí platební instituce poskytovat úvěr podle § 8, a smí k tomu použít prostředky svěřené uživateli k provedení platební transakce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 odst. 1 písm. b) (poskytování úvěrů jako doplňková činnost), odst. 2 písm. a)–c) (podmínky úvěru), odst. 3 (zákaz úvěru ze svěřených prostředků).
+- *Související ustanovení téhož zákona:* § 3 odst. 1 písm. d), e) (úvěrový převod, karty), § 16 (kapitálová přiměřenost), § 21–22 (ochrana svěřených prostředků).
+- *Související předpisy:* zákon č. 257/2016 Sb. o spotřebitelském úvěru; zákon č. 21/1992 Sb. o bankách (zákaz přijímání vkladů); PSD2 čl. 18.
+- *Judikatura:* výkladová praxe ČNB k doplňkové úvěrové činnosti PI; nosný princip oddělení klientského a provozního majetku.
+
+**4. Subsumpce.** Úvěr smí souviset jen se službou písm. d) nebo e) — splněno (kreditní karty/BNPL). Tuzemský úvěr na 18 měsíců je přípustný — roční limit splatnosti se na úvěry poskytnuté v ČR nevztahuje (odst. 2 písm. c) věta za středníkem). Přeshraniční (slovenský) úvěr na 15 měsíců však **porušuje** limit 1 roku. Použití svěřených prostředků na úvěr **porušuje** kogentní zákaz odst. 3.
+
+**5. Řešení.** Tuzemská BNPL je v pořádku (při dostatečném krytí kapitálem dle odst. 2 písm. b)). Přeshraniční úvěr je nutné zkrátit na max. 1 rok, jinak jde o porušení § 8 odst. 2 písm. c). Financování úvěrů z klientských peněz je nepřípustné (odst. 3) — jde o závažné porušení fiduciárního režimu blízké přijímání vkladů; PI musí úvěry financovat z vlastních zdrojů či externího financování. ČNB může uložit sankci a nápravné opatření.
+
+**6. Varianty.** (a) Kdyby PI poskytla úvěr nesouvisející s žádnou platební službou (čistý spotřebitelský úvěr), překročila by rozsah § 8 zcela. (b) Kdyby provozovala platební systém s neodvolatelností zúčtování, porušila by odst. 1 písm. c) (vyhrazeno bankám a centrálním bankám). (c) Kdyby přeshraniční úvěr byl splatný do 12 měsíců, byl by v souladu se zákonem.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „klientské peníze jen dočasně využíváme, vracíme je":* neutralizace: odst. 3 zákaz je absolutní a bezpodmínečný; jakékoli úvěrování ze svěřených prostředků je nepřípustné bez ohledu na následné vrácení.
+- *Protiargument „roční limit platí jen formálně":* neutralizace: limit 1 roku je rigidní pro přeshraniční úvěry; výjimka platí pouze pro úvěry poskytnuté v ČR.
+- *Slabé místo:* v praxi může být obtížné prokázat, zda byl konkrétní úvěr financován z klientských, či vlastních prostředků (komingl) — proto je klíčová oddělená evidence dle § 22; bez ní hrozí důkazní nouze v neprospěch PI.
+
+#### H. Praktický závěr
+
+§ 8 vymezuje, co PI smí (platební služby dle povolení, doplňkové činnosti, provoz platebního systému bez neodvolatelnosti) a za jakých podmínek smí úvěrovat. Dvě tvrdá pravidla: přeshraniční úvěr max. 1 rok a absolutní zákaz úvěrování ze svěřených klientských peněz.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pohybuje se činnost PI v rozsahu uděleného povolení (§ 8 odst. 1 písm. a))?
+- [ ] Souvisí úvěr se službou písm. d) nebo e)?
+- [ ] Je úvěr kryt přiměřeným kapitálem (odst. 2 písm. b), § 16)?
+- [ ] Je přeshraniční úvěr splatný do 1 roku (v ČR limit neplatí)?
+- [ ] Nejsou úvěry financovány ze svěřených prostředků (odst. 3)?
+- [ ] Neprovozuje PI nedovoleně systém s neodvolatelností zúčtování?
+
+**Typicky rozhodné důkazy / podklady:** úvěrové smlouvy (splatnost, účel, vazba na platební službu), účetnictví prokazující zdroj financování úvěrů, evidence svěřených prostředků (§ 22), výpočet kapitálové přiměřenosti, rozsah povolení PI.
 
 ---
 
@@ -806,6 +1103,44 @@ Princip **anti-letterbox**: žadatel musí v ČR skutečně podnikat, ne jen mí
 
 Procesní mechanismus: zakladatelé mohou podat žádost **před** vznikem právnické osoby; ČNB vydá podmíněné povolení; nevznikne-li PO do 6 měsíců od právní moci povolení, povolení *ex tunc* zaniká. Tento mechanismus umožňuje paralelní postup: zatímco probíhá řízení o povolení, akcionáři mohou připravovat formální vznik PO.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zakladatelé připravují platební instituci pro PIS i acquiring. Předloží ČNB obchodní plán s agresivními projekcemi (zisk od prvního měsíce, bez rezerv), jednatelem má být osoba dříve odsouzená za hospodářský trestný čin, a 30% akcionářem má být společnost z offshore jurisdikce, jejíž právo neumožňuje výměnu informací s ČNB. Pojistnou smlouvu pro PIS zatím neuzavřeli. ČNB řízení o povolení zastaví, resp. žádost zamítne.
+
+**2. Právní otázka.** Které z podmínek § 9 odst. 1 nejsou splněny a je ČNB při jejich nesplnění oprávněna (či povinna) povolení neudělit, ač jinak jde o rozhodování „na nárok"?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 1 písm. d) (pojištění PISP), e) (reálný obchodní plán), j) (důvěryhodnost kvalifikovaných akcionářů), k) (úzké propojení nebránící dohledu), n) (důvěryhodnost vedoucích osob).
+- *Související ustanovení téhož zákona:* § 10 (řízení), § 15 (kapitál), § 17 (pojištění), § 18 (kvalifikovaná účast), § 232 (odnětí při pozdějším porušení).
+- *Související předpisy:* PSD2 čl. 5 a 11; EBA Guidelines on authorisation (EBA/GL/2017/09); CRD V (fit & proper).
+- *Judikatura:* správní judikatura k fit & proper testu a k pojmu „důvěryhodnost"; nosný závěr, že odsouzení za majetkovou/hospodářskou trestnou činnost zpravidla zakládá nedostatek důvěryhodnosti.
+
+**4. Subsumpce.** Podmínky § 9 odst. 1 jsou **kumulativní**. Zde nejsou splněny: písm. d) (chybí pojistná smlouva pro PIS), písm. e) (obchodní plán bez reálných propočtů), písm. n) (jednatel není důvěryhodný — hospodářský trestný čin), písm. j) (offshore akcionář — pochybnost o způsobilosti), písm. k) (úzké propojení s osobou v jurisdikci bránící dohledu). Při nesplnění byť jediné podmínky nemá žadatel na povolení nárok.
+
+**5. Řešení.** ČNB povolení neudělí — rozhodování je sice „na nárok", ale jen při splnění **všech** podmínek; nejsou-li splněny, ČNB udělit nesmí. Žadatel by musel: doložit pojištění (§ 17), přepracovat obchodní plán na reálné propočty, vyměnit jednatele za důvěryhodnou osobu a vyřešit strukturu vlastnictví tak, aby offshore propojení nebránilo dohledu. Podmínky musí být splňovány i trvale po vydání povolení (jinak hrozí odnětí dle § 232).
+
+**6. Varianty.** (a) Pro povolení omezené jen na AIS by se § 9 nepoužil (samostatný režim § 42 — bez kapitálu, mírnější podmínky). (b) Kdyby šlo o povolení jen pro money remittance, postačil by nižší kapitál (20 000 EUR) a pojištění by nebylo třeba. (c) Podle § 9 odst. 3 lze žádat ještě před vznikem PO; povolení zanikne, nevznikne-li PO do 6 měsíců.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „splňujeme většinu podmínek, drobnosti doložíme později":* neutralizace: podmínky jsou kumulativní a musí být splněny k rozhodnutí; částečné splnění nepostačuje.
+- *Protiargument „minulé odsouzení jednatele je nerozhodné":* neutralizace: fit & proper test zahrnuje bezúhonnost a integritu; hospodářská trestná činnost zpravidla zakládá nedostatek důvěryhodnosti (písm. n)).
+- *Slabé místo:* pojmy „důvěryhodnost", „reálné propočty", „bránění dohledu" jsou neurčité a dávají ČNB široký výkladový prostor; argumentace žadatele musí být podložena konkrétními doklady, jinak hrozí zamítnutí pro neunesení důkazního břemene.
+
+#### H. Praktický závěr
+
+§ 9 stanoví 14 kumulativních podmínek povolení PI. ČNB povolení udělí jen při splnění všech; nesplnění byť jediné brání udělení. Podmínky musí trvat po celou dobu činnosti. Klíčové oblasti: kapitál, pojištění (PISP/AISP), reálný obchodní plán, fit & proper akcionářů i vedení a transparentní vlastnická struktura nebránící dohledu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je splněna **každá** z podmínek § 9 odst. 1 písm. a)–n)?
+- [ ] Doložen počáteční kapitál dle § 15 a (u PISP/AISP) pojištění dle § 17?
+- [ ] Je obchodní plán na 3 období podložen reálnými propočty?
+- [ ] Prošli akcionáři (≥10 %) i vedoucí osoby fit & proper testem?
+- [ ] Nebrání úzké propojení (zejm. třetí země) výkonu dohledu?
+- [ ] Budou podmínky splňovány i trvale (riziko odnětí dle § 232)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o kapitálu, pojistná smlouva/zajištění, obchodní plán s rozpočtem na 3 období, výpisy z rejstříku trestů a CV vedoucích osob, struktura vlastnictví a doklady o kvalifikované účasti, popis ŘaKS a opatření k ochraně prostředků.
+
 ---
 
 ### § 10 — Řízení o povolení
@@ -836,6 +1171,43 @@ ZoPS je **lex specialis** ke správnímu řádu (zákon č. 500/2004 Sb.). Použ
 - výhradní elektronická forma žádosti (vyloučení listinné formy);
 - konkrétní lhůta 3 měsíce (oproti obecnému § 71 SŘ);
 - zvláštní rozhodovací forma „zápis do seznamu" u některých registrů (§ 33 odst. 3 ZoPS — vyloučení částí druhé a třetí SŘ pro zápis pobočky).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel o povolení PI podá žádost listinně poštou a v ní požaduje, aby ČNB rozhodla „obratem". ČNB během řízení zjistí, že žádost je neúplná, vyzve k doplnění a poté vydá povolení, v němž specifikuje jen služby PIS a money remittance, ačkoli žadatel se domníval, že povolení automaticky pokrývá i acquiring. Žadatel namítá překročení tříměsíční lhůty a nesprávný rozsah povolení.
+
+**2. Právní otázka.** V jaké formě a s jakými náležitostmi se podává žádost o povolení PI, jak běží tříměsíční lhůta a co určuje rozsah platebních služeb, které smí PI poskytovat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 odst. 1 (výhradně elektronická forma + náležitosti), odst. 2 (lhůta 3 měsíce), odst. 3 (rozhodnutí vymezí platební služby), odst. 4 (prováděcí předpis).
+- *Související ustanovení téhož zákona:* § 9 (podmínky), § 14 (rozšíření povolení), § 11 (oznamování změn).
+- *Související předpisy:* zákon č. 500/2004 Sb., správní řád (subsidiárně — zejm. § 71 lhůty, stavení při doplňování); vyhláška ČNB č. 7/2018 Sb.; PSD2 čl. 11 a 12.
+- *Judikatura:* správní judikatura k běhu lhůt a jejich stavení při výzvě k doplnění; nosný závěr, že lhůta se po dobu doplňování staví.
+
+**4. Subsumpce.** Žádost listinnou formou je vadná — § 10 odst. 1 připouští **výhradně elektronickou** formu. Tříměsíční lhůta běží od zahájení řízení (úplné žádosti); výzvou k doplnění se staví, takže formální překročení tří měsíců nenastalo. Rozsah povolení určuje **výrok rozhodnutí** (odst. 3) — povolení pokrývá jen tam vyjmenované služby (PIS, money remittance), nikoli acquiring, o nějž nebylo řádně žádáno či doloženo.
+
+**5. Řešení.** Žadatel musí podat žádost elektronicky dle vyhlášky č. 7/2018 Sb. Námitka překročení lhůty neobstojí — lhůta se stavěla po dobu doplňování. PI smí poskytovat jen služby uvedené ve výroku; pro acquiring musí podat žádost o rozšíření povolení (§ 14), na niž se obdobně použijí § 9 odst. 1 písm. c)–m) a § 10.
+
+**6. Varianty.** (a) Kdyby žádost byla od počátku úplná a bez výzvy, lhůta tří měsíců by běžela bez stavení. (b) Kdyby PI poskytovala acquiring bez rozšíření povolení, šlo by o výkon nad rámec povolení (porušení § 8 odst. 1 písm. a)). (c) U AISP probíhá obdobné, ale zjednodušené řízení (§ 43).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „listinná žádost je rovnocenná":* neutralizace: § 10 odst. 1 stanoví výhradní elektronickou formu; listinné podání je vadné a k projednání nezpůsobilé.
+- *Protiargument „ČNB nedodržela lhůtu":* neutralizace: lhůta se staví po dobu doplňování; reálná délka řízení (6–12 měsíců) je důsledkem doplňování, nikoli porušení lhůty.
+- *Slabé místo:* žadatel snadno podcení rozsah povolení — domnívá se, že „povolení PI" pokrývá vše; ve skutečnosti je rozsah omezen výrokem a rozšíření vyžaduje nové řízení.
+
+#### H. Praktický závěr
+
+§ 10 upravuje proces povolení: výhradně elektronická žádost dle vyhlášky, lhůta 3 měsíce od zahájení (se stavením při doplňování) a rozsah povolení vymezený výrokem rozhodnutí. ZoPS je lex specialis ke správnímu řádu. Pro praxi je klíčové žádat o všechny zamýšlené služby najednou a počítat s reálně delším řízením.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je žádost podána výhradně elektronicky s náležitostmi dle vyhlášky č. 7/2018 Sb.?
+- [ ] Je žádost úplná (jinak hrozí výzva a stavení lhůty)?
+- [ ] Pokrývá žádost všechny zamýšlené platební služby (jinak nutné rozšíření dle § 14)?
+- [ ] Odpovídá výrok rozhodnutí skutečně zamýšlenému rozsahu činnosti?
+- [ ] Použijí se subsidiárně pravidla správního řádu tam, kde ZoPS mlčí?
+
+**Typicky rozhodné důkazy / podklady:** elektronicky podaná žádost a přílohy dle vyhlášky, doklad o datu zahájení řízení a o výzvách k doplnění (běh/stavení lhůty), výrok rozhodnutí o povolení (rozsah služeb), případná žádost o rozšíření.
 
 ---
 
@@ -881,6 +1253,43 @@ ZoPS je **lex specialis** ke správnímu řádu (zákon č. 500/2004 Sb.). Použ
 
 **Rozšíření povolení (§ 14)** — obdobné řízení jako pro původní povolení, ale aplikují se jen vybrané podmínky (počáteční kapitál a další provozní podmínky, nikoli základní podmínky typu právní subjektivita nebo sídlo, které již byly prokázány).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce poskytující money remittance se dostane do úpadku; soud vydá rozhodnutí o úpadku, které nabude právní moci. U PI jsou peníze klientů, u nichž nelze přesně určit, jaká část je určena k provedení platebních transakcí (klienti vkládali hotovost „do zásoby"). Současně chtěla PI týden před úpadkem rozšířit povolení o acquiring a změnila jednatele, aniž to ČNB oznámila. Klient se domáhá vrácení svých peněz.
+
+**2. Právní otázka.** Jaké jsou důsledky zániku povolení PI (zde úpadkem) pro výkon činnosti a pro nakládání se svěřenými prostředky, a jak se postupuje, nelze-li určit, jaká část peněz je určena k platbám?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 (oznamování změn bez zbytečného odkladu), § 12 písm. b) (zánik povolení úpadkem), § 13 odst. 1 (zákaz činnosti po zániku, povinnost vydat prostředky, roční lhůta při neurčitelnosti), § 14 (rozšíření povolení).
+- *Související ustanovení téhož zákona:* § 22–24 (ochrana a insolvenční režim svěřených prostředků), § 9 (podmínky — obdobně pro rozšíření).
+- *Související předpisy:* zákon č. 182/2006 Sb., insolvenční zákon (ve vztahu speciality § 24 ZoPS); PSD2 čl. 13.
+- *Judikatura:* judikatura k pojmu „bez zbytečného odkladu"; nosný princip oddělení klientského majetku od konkursní podstaty.
+
+**4. Subsumpce.** Úpadek je důvodem zániku povolení (§ 12 písm. b)) dnem právní moci rozhodnutí o úpadku. Od zániku PI nesmí vykonávat činnosti dle § 8 a musí vydat svěřené prostředky uživatelům (§ 13 odst. 1). Nelze-li určit, jaká část je určena k platbám, vrátí se uživateli ta část, o kterou požádá **do 1 roku** od zániku povolení. Neoznámení změny jednatele porušuje § 11 (mělo být oznámeno bez zbytečného odkladu). Rozšíření o acquiring se již nemůže uskutečnit (povolení zaniká).
+
+**5. Řešení.** Klient má nárok na vrácení svěřených prostředků; při neurčitelnosti se uplatní odhad (§ 23) a roční lhůta dle § 13 odst. 1, resp. zvláštní insolvenční režim § 24 (zvláštní insolvenční správce vydá prostředky mimo konkursní podstatu). Bývalá PI je nadále považována za PI pro účely ochrany prostředků (§ 13 odst. 2). Žádost o rozšíření je bezpředmětná. Za neoznámení změny hrozí sankce.
+
+**6. Varianty.** (a) Kdyby PI byla jen zrušena bez úpadku (§ 12 písm. a)), platil by stejný režim vydání prostředků, ale bez insolvenčního správce. (b) Kdyby PI získala povolení IEP (§ 12 písm. c)), původní povolení PI by zaniklo, aby se nepřekrývalo. (c) Kdyby šlo jen o rozšíření povolení bez úpadku, použily by se § 9 odst. 1 písm. c)–m) a § 10 obdobně (§ 14).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „peníze klientů patří do konkursní podstaty":* neutralizace: § 13 a § 24 svěřené prostředky z podstaty vyjímají; vrací se přímo uživatelům.
+- *Protiargument „změnu jsme oznámit nemuseli hned":* neutralizace: „bez zbytečného odkladu" se vykládá řádově ve dnech; významné změny (jednatel) je nutno hlásit neprodleně.
+- *Slabé místo:* při neurčitelnosti účelu prostředků (komingl) je klient závislý na odhadu a na roční prekluzivní lhůtě; opožděná žádost znamená ztrátu přednostního vydání.
+
+#### H. Praktický závěr
+
+§§ 11–14 popisují životní cyklus povolení: průběžné oznamování změn (§ 11), čtyři důvody zániku (§ 12), postlikvidační povinnost vydat svěřené prostředky (§ 13) a rozšíření povolení (§ 14). Klíčové je, že po zániku povolení trvá ochrana klientských peněz a že některé změny je nutno hlásit neprodleně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou všechny změny v podkladech povolení oznámeny ČNB bez zbytečného odkladu (§ 11)?
+- [ ] Nenastal některý z důvodů zániku povolení (§ 12 písm. a)–d))?
+- [ ] Po zániku: jsou svěřené prostředky vydány uživatelům (§ 13)?
+- [ ] Nelze-li určit část určenou k platbám, byla uplatněna roční lhůta a odhad (§ 13, § 23)?
+- [ ] U rozšíření povolení: jsou splněny obdobně podmínky § 9 odst. 1 písm. c)–m) a § 10 (§ 14)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku / zrušení a doklad o jeho právní moci, evidence svěřených prostředků a doklady o jejich uložení (§ 22), žádosti uživatelů o vydání a jejich datace (roční lhůta), oznámení změn ČNB, žádost o rozšíření povolení.
+
 ---
 
 ### Díl 3 — Některé podmínky výkonu činnosti platební instituce (§§ 15–31)
@@ -922,6 +1331,43 @@ Odkaz na **čl. 26 odst. 1 písm. a) až e) CRR** definuje strukturu kapitálu *
 - d) ostatní fondy ze zisku;
 - e) rezervy *ostatní úplný výsledek hospodaření* (OCI).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel chce získat povolení PI pro kombinaci služeb: vydávání debetních karet a acquiring (§ 3 odst. 1 písm. e)), nepřímé dání platebního příkazu (písm. g)) a poukazování peněz (písm. f)). Disponuje základním kapitálem 60 000 EUR, který je z velké části tvořen oceněním nehmotného aktiva (software) a podřízeným dluhem od mateřské společnosti. Domnívá se, že pro PIS postačuje 50 000 EUR, a tudíž je kryt.
+
+**2. Právní otázka.** Jaká je výše počátečního kapitálu pro PI poskytující více kategorií platebních služeb současně a jaké položky se do počátečního kapitálu započítávají?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15 odst. 1 písm. a) (20 000 EUR — money remittance), písm. b) (50 000 EUR — PIS), písm. c) (125 000 EUR — služby písm. a)–e)); odst. 2 (struktura kapitálu dle čl. 26 CRR).
+- *Související ustanovení téhož zákona:* § 16 (průběžný kapitál a přiměřenost), § 9 odst. 1 písm. c) (kapitál jako podmínka povolení).
+- *Související předpisy:* čl. 26 odst. 1 písm. a)–e) nařízení (EU) č. 575/2013 (CRR — CET1); PSD2 čl. 7.
+- *Judikatura:* výkladová praxe ČNB/EBA k započitatelnosti položek do CET1; nosný princip, že nehmotná aktiva a podřízený dluh nejsou součástí počátečního kapitálu dle čl. 26 CRR.
+
+**4. Subsumpce.** PI poskytuje současně služby písm. e) (vyžaduje 125 000 EUR), písm. g) (50 000 EUR) a písm. f) (20 000 EUR). Uplatní se **nejvyšší** požadovaná hodnota — 125 000 EUR (písm. c) zahrnuje služby a)–e)). Kapitál 60 000 EUR je nedostatečný. Navíc software (nehmotné aktivum) a podřízený dluh **nejsou** položkami CET1 dle čl. 26 odst. 1 písm. a)–e) CRR — započitatelný kapitál je tedy ještě nižší.
+
+**5. Řešení.** Žadatel nesplňuje podmínku § 9 odst. 1 písm. c) — povolení nebude uděleno, dokud nedoloží počáteční kapitál alespoň 125 000 EUR tvořený způsobilými položkami (splacené akcie/podíly, ážio, nerozdělený zisk, fondy). Software ani podřízený dluh se nezapočítají. PI musí navýšit a strukturovat kapitál do podoby CET1.
+
+**6. Varianty.** (a) Kdyby PI poskytovala jen PIS, postačilo by 50 000 EUR. (b) Kdyby jen money remittance, 20 000 EUR. (c) Pro samotnou službu AIS (§ 3 odst. 1 písm. h)) se počáteční kapitál nevyžaduje vůbec (§ 42) — nahrazuje jej pojištění.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pro PIS stačí 50 000 EUR":* neutralizace: při kombinaci služeb se uplatní nejvyšší práh; poskytuje-li PI i službu písm. a)–e), platí 125 000 EUR.
+- *Protiargument „software je hodnotné aktivum, lze ho započíst":* neutralizace: počáteční kapitál je vymezen taxativně čl. 26 CRR (CET1) — nehmotná aktiva a podřízený dluh se nezapočítají.
+- *Slabé místo:* žadatelé často zaměňují účetní vlastní kapitál s regulatorním CET1; bez správné struktury hrozí, že formálně vykázaný kapitál nebude způsobilý.
+
+#### H. Praktický závěr
+
+§ 15 stanoví třístupňovou škálu počátečního kapitálu podle rizikovosti služeb (20 000 / 50 000 / 125 000 EUR). Při kombinaci služeb platí nejvyšší práh. Kapitál musí být tvořen způsobilými položkami CET1 dle čl. 26 CRR — nikoli nehmotnými aktivy či podřízeným dluhem. AISP počáteční kapitál nemá.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Které platební služby PI poskytuje a jaký je tedy nejvyšší kapitálový práh?
+- [ ] Dosahuje počáteční kapitál alespoň této částky (20 000 / 50 000 / 125 000 EUR)?
+- [ ] Je kapitál tvořen způsobilými položkami CET1 dle čl. 26 odst. 1 písm. a)–e) CRR?
+- [ ] Nejsou do kapitálu nesprávně zahrnuta nehmotná aktiva či podřízený dluh?
+- [ ] (AIS) Nahrazuje absenci kapitálu pojištění dle § 46?
+
+**Typicky rozhodné důkazy / podklady:** rozsah povolení (poskytované služby), účetní výkazy a doklad o splacení kapitálu, rozpad kapitálu na položky CET1 dle CRR, ocenění aktiv, smlouvy o podřízeném dluhu (vyloučení z počátečního kapitálu).
+
 ---
 
 ### § 16 — Průběžný kapitál a kapitálová přiměřenost
@@ -953,6 +1399,43 @@ PI uplatňuje jednu z metod určenou ČNB při udělení povolení (odst. 3). Č
 
 PI poskytující **jen PIS** (písm. g)) nebo **jen AIS** (písm. h)) podléhají *pouze* požadavku počátečního kapitálu — kapitálová přiměřenost se na ně nepoužívá, neboť nemanipulují s penězi uživatelů, a rizikové zatížení je dáno jinými nástroji (pojištění dle § 17).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce poskytující acquiring (§ 3 odst. 1 písm. e)) měla při udělení povolení určenou metodu výpočtu kapitálové přiměřenosti B (z objemu transakcí). Po roce rychlého růstu objemů jí kapitál sice stále převyšuje počáteční kapitál (125 000 EUR), ale klesl pod hodnotu kapitálové přiměřenosti. ČNB navíc na základě vyhodnocení slabého řídicího a kontrolního systému zvažuje navýšení požadavku o 20 %. PI namítá, že „dodržuje počáteční kapitál, a to stačí".
+
+**2. Právní otázka.** Stačí PI poskytující služby písm. a)–f) udržovat pouze počáteční kapitál, nebo musí současně plnit kapitálovou přiměřenost, a smí ČNB tento požadavek individuálně upravit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16 odst. 1 (průběžně min. počáteční kapitál), odst. 2 (souběžně kapitálová přiměřenost pro služby a)–f)), odst. 3 (ČNB určí metodu), odst. 4 (úprava ±20 % dle ŘaKS), odst. 5 (prováděcí předpis).
+- *Související ustanovení téhož zákona:* § 15 (počáteční kapitál — floor), § 19–20 (ŘaKS), § 232 (odnětí při trvalém porušení).
+- *Související předpisy:* PSD2 čl. 9 (metody A, B, C); CRR (struktura kapitálu); vyhláška ČNB.
+- *Judikatura:* dohledová praxe ČNB ke kapitálové přiměřenosti PI; nosný princip dvouvrstvého kapitálového požadavku (floor + risk-based).
+
+**4. Subsumpce.** PI poskytuje acquiring (písm. e)) → spadá do okruhu odst. 2 a musí **souběžně** plnit počáteční kapitál i kapitálovou přiměřenost. Pokles kapitálu pod hodnotu přiměřenosti je porušením § 16 odst. 2, byť počáteční kapitál (floor) je dodržen. ČNB je oprávněna na základě vyhodnocení slabého ŘaKS navýšit požadavek až o 20 % (odst. 4).
+
+**5. Řešení.** Námitka „stačí počáteční kapitál" je nesprávná — pro služby a)–f) platí dvouvrstvý požadavek. PI musí kapitál navýšit tak, aby plnila vyšší z obou hodnot (zde kapitálovou přiměřenost dle metody B), případně navýšenou o 20 % rozhodnutím ČNB. Při trvalém neplnění hrozí nápravná opatření až odnětí povolení (§ 232). PI poskytující jen PIS nebo jen AIS by přiměřenosti nepodléhala.
+
+**6. Varianty.** (a) Kdyby PI poskytovala jen PIS (písm. g)) nebo jen AIS (písm. h)), plnila by jen počáteční kapitál — přiměřenost se neuplatní. (b) Kdyby měla silný ŘaKS, ČNB by mohla požadavek naopak snížit až o 20 % (odst. 4). (c) Kdyby kapitál klesl i pod počáteční kapitál (floor), šlo by o ještě závažnější porušení § 16 odst. 1.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „plníme počáteční kapitál, víc není třeba":* neutralizace: § 16 odst. 2 ukládá pro služby a)–f) souběžně i kapitálovou přiměřenost; floor je jen spodní hranice.
+- *Protiargument „ČNB nemůže měnit zákonný požadavek":* neutralizace: odst. 4 výslovně opravňuje ČNB k úpravě ±20 % na základě vyhodnocení ŘaKS.
+- *Slabé místo:* volba metody (A/B/C) a její vhodnost je předmětem dohledového uvážení; PI musí kontinuálně monitorovat kapitál vůči rostoucím objemům, jinak hrozí náhlé porušení při růstu.
+
+#### H. Praktický závěr
+
+§ 16 zavádí dvouvrstvý kapitálový požadavek: trvale alespoň počáteční kapitál (floor) a u služeb a)–f) souběžně kapitálovou přiměřenost (metoda A/B/C určená ČNB). ČNB může požadavek individuálně upravit o ±20 % podle kvality ŘaKS. PIS-only a AIS-only PI přiměřenosti nepodléhají.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Udržuje PI trvale alespoň počáteční kapitál (§ 16 odst. 1)?
+- [ ] Poskytuje služby a)–f)? → plní i kapitálovou přiměřenost (odst. 2)?
+- [ ] Která metoda (A/B/C) byla určena ČNB a je správně aplikována (odst. 3)?
+- [ ] Nezvýšila/nesnížila ČNB požadavek o ±20 % dle ŘaKS (odst. 4)?
+- [ ] Je kapitál monitorován průběžně vůči rostoucím objemům transakcí?
+
+**Typicky rozhodné důkazy / podklady:** výpočet kapitálové přiměřenosti dle určené metody, průběžné kapitálové výkazy, rozhodnutí ČNB o metodě a o případné úpravě ±20 %, údaje o objemu platebních transakcí, vyhodnocení ŘaKS.
+
 ---
 
 ### § 17 — Pojištění odpovědnosti PISP/AISP
@@ -976,6 +1459,43 @@ PSD2 nahrazuje absenci kapitálové přiměřenosti u PISP/AISP **povinným prof
 #### Alternativa „srovnatelné zajištění"
 
 Místo pojistné smlouvy lze poskytnout **srovnatelné zajištění** — typicky bankovní záruka, vázaný účet s deponovanou částkou, garance mateřské skupiny. Volba mezi pojištěním a alternativním zajištěním je tržně rozhodnutí PI; ekonomicky bývá pojištění levnější u menších PI, vlastní zajištění u velkých skupin.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** AISP provozuje aplikaci pro správu osobních financí. V důsledku chyby v jeho systému dojde k úniku dat z účtů 3 000 uživatelů (čísla účtů, historie transakcí), které se dostanou k podvodníkům. Uživatelé utrpí škodu. Současně jiná PISP omylem iniciovala duplicitní platbu jménem plátce, čímž vznikla nesprávně provedená transakce. Oba subjekty mají uzavřené pojištění; pojišťovna je však členem stejné skupiny jako AISP a namítá, že limity pojistného plnění jsou nedostatečné.
+
+**2. Právní otázka.** Jakou funkci plní povinné pojištění (resp. srovnatelné zajištění) PISP a AISP podle § 17, jaká rizika kryje a kdo je oprávněn z plnění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17 odst. 1 (pojištění PISP — náprava neautorizované/nesprávně provedené transakce), odst. 2 (pojištění AISP — náprava neoprávněného získání/užití informací).
+- *Související ustanovení téhož zákona:* § 9 odst. 1 písm. d) (pojištění jako podmínka povolení), § 16 (PIS/AIS nemají kapitálovou přiměřenost), § 181 a násl. (odpovědnost za neautorizovanou transakci).
+- *Související předpisy:* PSD2 čl. 5 odst. 2 a 3; EBA Guidelines on professional indemnity insurance (EBA/GL/2017/08).
+- *Judikatura:* dohledová praxe k minimálním limitům pojistného plnění; nosný princip, že pojištění nahrazuje u PISP/AISP absenci kapitálové přiměřenosti.
+
+**4. Subsumpce.** AISP odpovídá za neoprávněné získání/užití informací (data breach) — riziko kryté pojištěním dle § 17 odst. 2, oprávněnými jsou **uživatelé i banka vedoucí účet**. PISP odpovídá za nesprávně/neautorizovaně provedenou transakci — kryto dle § 17 odst. 1. Limity musí odpovídat prováděcímu předpisu a EBA Guidelines; nedostatečné limity znamenají nesplnění podmínky § 9 odst. 1 písm. d).
+
+**5. Řešení.** Poškození uživatelé i banka mají nárok na pojistné plnění (AISP — data breach; PISP — chybná transakce). Subjekty musí mít pojištění s limity dle prováděcího předpisu; jsou-li limity nedostatečné, jde o porušení podmínek povolení a ČNB může zasáhnout. Místo pojištění lze poskytnout srovnatelné zajištění (bankovní záruka, vázaný účet, garance skupiny).
+
+**6. Varianty.** (a) Kdyby AISP/PISP byl současně bankou nebo PI s kapitálovou přiměřeností, pojištění by mohlo být nahrazeno jiným zajištěním kapitálem. (b) Kdyby data breach nezpůsobil AISP, ale banka vedoucí účet, odpovědnost by se posuzovala podle pravidel banky. (c) Velká skupina může zvolit vlastní zajištění místo pojištění (ekonomická volba).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „kapitál nemáme, tedy neručíme":* neutralizace: PSD2/ZoPS u PISP/AISP nahrazuje kapitálovou přiměřenost povinným pojištěním; odpovědnost a krytí existují i bez kapitálu.
+- *Protiargument „pojišťovna ze skupiny postačí":* u § 17 (na rozdíl od § 22) není výslovný zákaz skupinové pojišťovny, avšak limity a reálná vymahatelnost plnění musí odpovídat EBA Guidelines; čistě formální skupinové pojištění bez reálné kapacity je nedostatečné.
+- *Slabé místo:* minimální limity stanoví podzákonný předpis a metodika EBA; jejich špatné nastavení nebo podpojištění je v praxi častým nedostatkem zjišťovaným při dohledu.
+
+#### H. Praktický závěr
+
+§ 17 nahrazuje u PISP a AISP absenci kapitálové přiměřenosti povinným profesním pojištěním (nebo srovnatelným zajištěním). PISP kryje neautorizované/nesprávné transakce, AISP data breach; oprávněnými jsou uživatelé i banky vedoucí účet. Limity se řídí prováděcím předpisem a EBA Guidelines.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má PISP/AISP uzavřeno pojištění nebo srovnatelné zajištění ve svůj prospěch?
+- [ ] Kryje pojištění správné riziko (PISP — chybná/neautorizovaná transakce; AISP — neoprávněné získání/užití informací)?
+- [ ] Jsou oprávněnými z plnění uživatelé i banka vedoucí účet?
+- [ ] Odpovídají limity prováděcímu předpisu a EBA Guidelines (EBA/GL/2017/08)?
+- [ ] Je zajištění reálně vymahatelné (nejen formální skupinová garance)?
+
+**Typicky rozhodné důkazy / podklady:** pojistná smlouva / dokument o zajištění (rozsah krytí, limity, oprávnění), výpočet požadovaných minimálních limitů dle metodiky EBA, doklad o vzniku a výši škody (data breach / chybná transakce), identifikace poškozených (uživatelé, banka).
 
 ---
 
@@ -1013,6 +1533,43 @@ Důvody nesouhlasu: **netjistá důvěryhodnost nebo způsobilost** nabyvatele (
 
 **Sankce nesouhlasu (odst. 5)** — zákaz výkonu hlasovacích práv spojených s nabytou částí účasti. Účast tedy zůstává majetkově nabyta, ale akcionář nemůže s ní hlasovat na valné hromadě.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investiční skupina chce nabýt 35 % akcií a hlasovacích práv v platební instituci a fakticky ji ovládnout. Transakci provede tiše bez předchozího oznámení ČNB, neboť „jde o běžný obchod s akciemi". Jeden z nabyvatelů jednajících ve shodě má v zahraničí vedeno trestní řízení pro praní špinavých peněz. ČNB se o nabytí dozví až z výroční zprávy PI.
+
+**2. Právní otázka.** Podléhá nabytí a zvýšení kvalifikované účasti na PI předchozímu oznámení ČNB, a jaké jsou důsledky jeho nesplnění, resp. nedůvěryhodnosti nabyvatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 18 odst. 1 písm. a) (nabytí kvalifikované účasti), písm. c) (zvýšení přes 20/30/50 %), písm. e) (ovládnutí); navazující odst. 3 (lhůta ČNB k řízení o nesouhlasu) a odst. 5 (zákaz výkonu hlasovacích práv).
+- *Související ustanovení téhož zákona:* § 2 odst. 2 písm. e) (kvalifikovaná účast — odkaz na CRR), § 9 odst. 1 písm. j) (důvěryhodnost akcionářů), § 232 (sankce).
+- *Související předpisy:* čl. 4 odst. 1 bod 36 nařízení (EU) č. 575/2013 (definice); PSD2 čl. 6; zákon č. 253/2008 Sb. (AML); společné pokyny ESA k obezřetnostnímu posuzování nabývání účastí.
+- *Judikatura:* dohledová praxe k fit & proper testu nabyvatelů; nosný princip ochrany finančního sektoru před infiltrací organizovaného zločinu.
+
+**4. Subsumpce.** Nabytí 35 % a ovládnutí PI naplňuje § 18 odst. 1 písm. a), c) i e) — vznik kvalifikované účasti, překročení prahů 20 % a 30 % i ovládnutí. Vše podléhá **předchozímu** oznámení ČNB. Tiché nabytí bez oznámení porušuje § 18. Probíhající AML řízení nabyvatele zakládá pochybnost o důvěryhodnosti (§ 9 odst. 1 písm. j)) → důvod nesouhlasu ČNB.
+
+**5. Řešení.** Nabyvatelé měli záměr oznámit předem; ČNB má lhůtu (60 pracovních dnů dle § 18 odst. 3) k zahájení řízení o nesouhlasu. Pro nedostatek důvěryhodnosti (AML řízení) ČNB vysloví nesouhlas; následkem je **zákaz výkonu hlasovacích práv** spojených s nabytou účastí (odst. 5) — účast zůstane majetkově nabyta, ale bez možnosti hlasovat na valné hromadě. Nesplnění oznamovací povinnosti je správním deliktem.
+
+**6. Varianty.** (a) Kdyby účast nedosáhla 10 %, nešlo by o kvalifikovanou účast a oznamovací povinnost by nevznikla. (b) Kdyby nabyvatel prošel fit & proper testem, ČNB by nesouhlas nevyslovila a nabytí by se dokončilo. (c) Zrcadlově podléhá oznámení i pozbytí/snížení účasti pod prahy 50/30/20 % (písm. b), d)).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „obchod s akciemi nepodléhá schválení":* neutralizace: u regulovaného subjektu (PI) podléhá nabytí kvalifikované účasti předchozímu oznámení a možnému nesouhlasu ČNB (§ 18).
+- *Protiargument „trestní řízení není odsouzení, nelze přihlížet":* neutralizace: fit & proper test hodnotí důvěryhodnost komplexně; probíhající AML řízení může i bez pravomocného odsouzení zakládat pochybnost o způsobilosti.
+- *Slabé místo:* identifikace „jednání ve shodě" a skutečného ovládnutí může být obtížná (skryté struktury, nominees); dokazování nepřímého ovládnutí klade vysoké nároky na dohled.
+
+#### H. Praktický závěr
+
+§ 18 podřizuje změny vlastnické struktury PI (nabytí/pozbytí/zvýšení/snížení kvalifikované účasti, ovládnutí) předchozímu oznámení ČNB, která může vyslovit nesouhlas z důvodu nedůvěryhodnosti nebo nezpůsobilosti nabyvatele. Sankcí je zákaz výkonu hlasovacích práv. Slouží ochraně před infiltrací nevhodných osob do finančního sektoru.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Dosahuje/překračuje účast práh kvalifikované účasti (10 %) nebo 20/30/50 %, příp. ovládnutí?
+- [ ] Bylo nabytí/změna **předem** oznámeno ČNB (§ 18 odst. 1)?
+- [ ] Prošel nabyvatel fit & proper testem (důvěryhodnost, způsobilost — § 9 odst. 1 písm. j))?
+- [ ] Nejde o jednání ve shodě více osob (souhrn účastí)?
+- [ ] Nehrozí při nesouhlasu zákaz výkonu hlasovacích práv (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o nabytí akcií/podílů a o výši účasti a hlasovacích práv, oznámení ČNB a jeho datace, doklady o důvěryhodnosti nabyvatele (rejstřík trestů, AML prověrka, původ prostředků), analýza jednání ve shodě a struktury ovládnutí.
+
 ---
 
 ### Řídicí a kontrolní systém (§ 19–20)
@@ -1024,6 +1581,45 @@ Důvody nesouhlasu: **netjistá důvěryhodnost nebo způsobilost** nabyvatele (
 > *(1) Platební instituce vykonává činnosti podle § 8 řádně a obezřetně.*
 >
 > *(2) K zajištění řádného a obezřetného výkonu činností podle § 8 platební instituce uplatňuje řídicí a kontrolní systém.*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce roste, ale její vedení rezignuje na vnitřní kontrolu: nemá systém řízení rizik, jeden zaměstnanec současně provádí platby i jejich kontrolu (žádné oddělení neslučitelných funkcí), chybí vnitřní audit i evidence rizik likvidity. Po incidentu (zpronevěra zaměstnancem) ČNB provede kontrolu a zjistí, že PI fakticky nevykonává činnost „řádně a obezřetně". Vedení namítá, že § 19 je jen „proklamace bez konkrétního obsahu".
+
+**2. Právní otázka.** Zakládá obecná povinnost vykonávat činnost řádně a obezřetně a uplatňovat řídicí a kontrolní systém (§ 19) vymahatelnou právní povinnost, nebo jde o pouhou programovou deklaraci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 19 odst. 1 (řádný a obezřetný výkon činnosti), odst. 2 (povinnost uplatňovat ŘaKS).
+- *Související ustanovení téhož zákona:* § 20 (konkrétní komponenty ŘaKS — naplňuje obsah § 19), § 9 odst. 1 písm. g) (ŘaKS jako podmínka povolení), § 232 (sankce/odnětí).
+- *Související předpisy:* PSD2 čl. 11 odst. 4 a čl. 19; nařízení (EU) 2022/2554 (DORA — ICT řízení); CRD V (governance).
+- *Judikatura:* dohledová praxe ČNB k pojmu „řádně a obezřetně"; nosný princip, že obezřetnost je vymahatelný standard, jehož obsah dotvářejí konkrétní povinnosti (§ 20) a podzákonné předpisy.
+
+**4. Subsumpce.** § 19 zakládá obecný **standard chování** (řádně a obezřetně) a povinnost uplatňovat ŘaKS; jeho obsah konkretizuje § 20 a prováděcí předpis. Absence systému řízení rizik, neoddělení neslučitelných funkcí a chybějící vnitřní audit jsou porušením § 19 ve spojení s § 20. Tvrzení o „pouhé proklamaci" neobstojí — jde o vymahatelnou povinnost, jejíž nesplnění je důvodem dohledového zásahu.
+
+**5. Řešení.** ČNB může uložit nápravné opatření a sankci (§ 232) a požadovat zavedení funkčního ŘaKS (oddělení funkcí, risk management, vnitřní audit, evidence rizik likvidity). Obezřetnost je objektivní standard — vedení odpovídá za jeho naplnění bez ohledu na to, že § 19 je formulován obecně. Konkrétní deficity se měří podle § 20.
+
+**6. Varianty.** (a) U malé PI s jednoduchým modelem postačí přiměřeně jednodušší ŘaKS (princip proporcionality dle § 20 odst. 2), ale nikdy ne jeho úplná absence. (b) U AISP se uplatní redukovaná verze ŘaKS (§ 48). (c) Kdyby šlo o jednorázové selhání jinak funkčního systému, závažnost porušení by byla nižší.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument „§ 19 je jen deklarace bez sankce":* neutralizace: standard „řádně a obezřetně" je vymahatelný, jeho porušení je samostatným důvodem dohledového opatření i odnětí povolení (§ 232).
+- *Protiargument „máme svobodu volby organizace":* neutralizace: autonomie je omezena povinným obsahem ŘaKS dle § 20 a principem obezřetnosti; některé prvky (oddělení neslučitelných funkcí, vnitřní audit) jsou obligatorní.
+- *Slabé místo:* obecnost § 19 vyžaduje konkretizaci přes § 20 a podzákonné předpisy; samostatná argumentace „pouze" § 19 bez vazby na § 20 je málo přesvědčivá.
+
+##### H. Praktický závěr
+
+§ 19 zakládá zastřešující povinnost PI vykonávat činnost řádně a obezřetně a uplatňovat řídicí a kontrolní systém. Jde o vymahatelný standard, jehož obsah konkretizuje § 20 a prováděcí předpis; jeho porušení je důvodem dohledového zásahu i odnětí povolení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vykonává PI činnost řádně a obezřetně (objektivní standard)?
+- [ ] Uplatňuje vůbec funkční řídicí a kontrolní systém (§ 19 odst. 2)?
+- [ ] Je obsah ŘaKS naplněn dle § 20 (oddělení funkcí, risk management, vnitřní audit)?
+- [ ] Je ŘaKS přiměřený povaze a rozsahu činnosti (proporcionalita)?
+- [ ] Nehrozí při deficitech nápravné opatření či odnětí (§ 232)?
+
+**Typicky rozhodné důkazy / podklady:** vnitřní předpisy a organizační schéma PI, doklady o systému řízení rizik a vnitřního auditu, evidence oddělení neslučitelných funkcí, výsledky dohledové kontroly ČNB, popis incidentu a reakce ŘaKS.
+
+---
 
 #### § 20 — Komponenty řídicího a kontrolního systému (ŘaKS)
 
@@ -1115,6 +1711,44 @@ Důvody nesouhlasu: **netjistá důvěryhodnost nebo způsobilost** nabyvatele (
 
 Odst. 2: ŘaKS musí být „**účinný, ucelený a přiměřený povaze, rozsahu a složitosti rizik**". Princip proporcionality — malá PI poskytující jen money remittance nepotřebuje stejně rozsáhlý ŘaKS jako velká PI poskytující karetní acquiring po celé EU. ČNB při dohledu hodnotí přiměřenost konkrétně.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce poskytující karetní acquiring přesune celou svou IT infrastrukturu a monitoring AML do cloudu třetí strany a zároveň outsourcuje vedení evidence svěřených prostředků. Nemá zavedeny politiky digitální provozní odolnosti (DORA), žádné testování kontinuity činnosti a chybí jí mechanismus řízení střetů zájmů, ačkoli poskytuje PIS i acquiring pro konkurenční obchodníky. Po výpadku ICT systému na 3 dny nemohli klienti platit.
+
+**2. Právní otázka.** Které komponenty řídicího a kontrolního systému musí PI povinně zavést podle § 20 odst. 1, a jak se uplatní princip přiměřenosti a požadavky DORA na ICT a kontinuitu činnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 20 odst. 1 písm. c) (řízení rizik vč. likvidity a DORA), písm. d) (vnitřní kontrola a audit), písm. f) (ICT dle DORA), písm. i) (střety zájmů), písm. l) (kontinuita činnosti vč. DORA plánů), písm. o) (evidence svěřených prostředků); odst. 2 (přiměřenost), odst. 3 (průběžné hodnocení).
+- *Související ustanovení téhož zákona:* § 19 (obecná obezřetnost), § 22 (ochrana prostředků), § 29 (outsourcing významných činností).
+- *Související předpisy:* nařízení (EU) 2022/2554 (DORA — kapitoly II, III, V); PSD2 čl. 95 (řízení provozních a bezpečnostních rizik); EBA Guidelines on ICT and security risk management.
+- *Judikatura:* dohledová praxe ČNB/EBA k ŘaKS a ICT odolnosti; nosný princip integrace DORA do ŘaKS PI.
+
+**4. Subsumpce.** Patnáctibodový katalog § 20 odst. 1 je **obligatorní**. Zde chybí: písm. f) a l) (ICT governance a kontinuita dle DORA — výpadek na 3 dny svědčí o jejich absenci), písm. i) (řízení střetů zájmů u kombinace PIS/acquiring pro konkurenty), patrně i písm. c) (rizika likvidity). Outsourcing evidence prostředků (písm. o)) podléhá rovněž § 29 a DORA kapitole V. Princip přiměřenosti (odst. 2) absenci klíčových prvků neomlouvá.
+
+**5. Řešení.** PI musí zavést všechny povinné komponenty ŘaKS, zejména ICT risk framework a plány kontinuity dle DORA, mechanismus řízení střetů zájmů a řízení rizika likvidity, a průběžně je hodnotit (odst. 3). Outsourcing nezbavuje PI odpovědnosti (§ 29). Za deficity hrozí nápravná opatření a sankce; výpadek ICT může vést i k odpovědnosti za škodu vůči klientům.
+
+**6. Varianty.** (a) Malá PI s jednoduchým modelem může mít přiměřeně jednodušší ŘaKS (odst. 2), ne však bez povinných prvků (audit, oddělení funkcí, ICT). (b) AISP má redukovaný ŘaKS (§ 48 — bez pravidel pro evidenci peněz). (c) Kdyby PI neposkytovala konkurentům, riziko střetu zájmů (písm. i)) by bylo nižší.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument „princip přiměřenosti nás zbavuje povinností":* neutralizace: proporcionalita (odst. 2) určuje míru, nikoli existenci povinných komponent; klíčové prvky (audit, ICT, oddělení funkcí) jsou obligatorní vždy.
+- *Protiargument „outsourcing přenesl odpovědnost na dodavatele":* neutralizace: § 29 odst. 2 i DORA odpovědnost ponechávají na PI; outsourcing nesmí zhoršit ŘaKS ani dohled.
+- *Slabé místo:* rozsah povinností DORA (písm. f), l)) je technicky náročný a od r. 2025 nově vymáhaný; PI často podceňují ICT odolnost a testování kontinuity, což je častý nález dohledu.
+
+##### H. Praktický závěr
+
+§ 20 stanoví patnáctibodový obligatorní katalog komponent ŘaKS (řízení, risk management vč. DORA, vnitřní kontrola a audit, ICT bezpečnost, střety zájmů, kontinuita, evidence svěřených prostředků). Princip přiměřenosti určuje míru, ne existenci povinností. ŘaKS musí být průběžně hodnocen a aktualizován, vč. integrace DORA.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou zavedeny všechny obligatorní komponenty § 20 odst. 1 písm. a)–o)?
+- [ ] Splňuje ICT governance a kontinuita požadavky DORA (písm. f), l))?
+- [ ] Je zaveden mechanismus řízení střetů zájmů (písm. i)) — zejm. u PIS/acquiring?
+- [ ] Je ŘaKS přiměřený, a přesto úplný (odst. 2)?
+- [ ] Je ŘaKS průběžně hodnocen a aktualizován (odst. 3)?
+- [ ] U outsourcingu: nezhoršuje ŘaKS a dohled (§ 29, DORA)?
+
+**Typicky rozhodné důkazy / podklady:** vnitřní předpisy ŘaKS a jejich aktualizace, ICT risk framework a plány kontinuity dle DORA, záznamy o testování a o ICT incidentech, politika střetů zájmů, smlouvy o outsourcingu, evidence svěřených prostředků, zprávy vnitřního auditu.
+
 ---
 
 ### Ochrana peněžních prostředků určených pro platební transakce (§ 21–24)
@@ -1124,6 +1758,45 @@ Odst. 2: ŘaKS musí být „**účinný, ucelený a přiměřený povaze, rozsa
 > **§ 21**
 >
 > *Peněžní prostředky, které byly platební instituci svěřeny k provedení platební transakce, se nepovažují za vklad přijatý platební institucí podle zákona upravujícího činnost bank ani za elektronické peníze.*
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce v marketingu i ve smluvních podmínkách tvrdí klientům, že „peníze u nás jsou v bezpečí jako vklad v bance a pojištěné Garančním systémem". Klient v domnění, že má pojištěný vklad, drží u PI vyšší částku. Po úpadku PI se klient přihlásí do Garančního systému finančního trhu s nárokem na náhradu vkladu do 100 000 EUR.
+
+**2. Právní otázka.** Považují se peněžní prostředky svěřené platební instituci k provedení platební transakce za vklad ve smyslu zákona o bankách (a tedy za pojištěný vklad), nebo za elektronické peníze?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 21 — peněžní prostředky svěřené PI nejsou vkladem ani elektronickými penězi.
+- *Související ustanovení téhož zákona:* § 22–24 (ochrana svěřených prostředků a insolvenční režim — náhrada za absenci pojištění vkladů), § 4 (definice e-money).
+- *Související předpisy:* zákon č. 21/1992 Sb. o bankách (§ 41a a násl. — pojištění vkladů, Garanční systém); PSD2 čl. 18 odst. 2; EMD2 (odlišení od e-money).
+- *Judikatura:* nosný princip oddělení režimu platebních institucí od bankovní ochrany vkladů; výkladová praxe ČNB k informování klientů.
+
+**4. Subsumpce.** Prostředky svěřené PI k provedení transakce **nejsou vkladem** (§ 21) — nevztahuje se na ně pojištění vkladů ani Garanční systém. Nejsou ani e-money. Tvrzení PI o „pojištění jako u banky" je proto nepravdivé a zavádějící. Ochrana klienta je zajištěna jinak — oddělenou evidencí a uložením (§ 22) a zvláštním insolvenčním režimem (§ 24).
+
+**5. Řešení.** Klient nemá nárok z Garančního systému (peníze nejsou pojištěným vkladem). Jeho ochranu zajišťuje § 22 (safeguarding) a § 24 (vydání prostředků mimo konkursní podstatu zvláštním insolvenčním správcem) — v praxi často s vysokou mírou uspokojení, ale nikoli garantovanou státem. Nepravdivé tvrzení PI o pojištění vkladu může být nekalou obchodní praktikou a porušením informačních povinností; klient se může domáhat náhrady škody.
+
+**6. Varianty.** (a) Kdyby šlo o vklad u banky (§ 5 písm. a)), pojištění vkladů by se uplatnilo. (b) Kdyby prostředky byly e-money u IEP, platil by režim ochrany e-money (rovněž bez pojištění vkladů). (c) Kdyby PI měla pro svěřené prostředky pojistnou smlouvu (§ 22 odst. 2), klient by měl nárok z tohoto pojištění.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument „klient měl peníze u finanční instituce, tedy jako vklad":* neutralizace: § 21 výslovně vylučuje charakter vkladu; ochrana se řídí § 22–24, nikoli zákonem o bankách.
+- *Protiargument „je to v podstatě totéž, ochrana je stejná":* neutralizace: pojištění vkladů je státem garantované do 100 000 EUR; ochrana u PI je založena na oddělení majetku a insolvenčním režimu — fakticky odlišná a bez státní garance.
+- *Slabé místo:* hranice mezi „svěřenými prostředky" a jinými prostředky klienta (komingl) může být sporná; při neurčitelnosti se uplatní odhad (§ 23), což snižuje právní jistotu klienta.
+
+##### H. Praktický závěr
+
+§ 21 jednoznačně vylučuje, že by svěřené prostředky byly vkladem nebo e-money. Klient PI nepožívá pojištění vkladů; jeho ochrana spočívá v oddělení majetku (§ 22) a zvláštním insolvenčním režimu (§ 24). PI nesmí klienty mást tvrzením o „pojištění jako u banky".
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o prostředky svěřené PI k provedení platební transakce (pak nejde o vklad)?
+- [ ] Neuvádí PI klienty v omyl tvrzením o pojištění vkladů?
+- [ ] Je ochrana zajištěna dle § 22 (oddělení/uložení) a § 24 (insolvence)?
+- [ ] Nejde naopak o vklad u banky/družstevní záložny (pak pojištění vkladů)?
+- [ ] Nejde o e-money (jiný režim ochrany)?
+
+**Typicky rozhodné důkazy / podklady:** smluvní a marketingové podmínky PI (tvrzení o ochraně prostředků), doklad o povaze prostředků (svěřené k platbě vs. jiné), evidence a doklady o uložení dle § 22, informace poskytnuté klientovi o (ne)existenci pojištění vkladů.
+
+---
 
 #### § 22 — Pravidla oddělené evidence a uložení
 
@@ -1177,6 +1850,43 @@ Omezení (odst. 3 a 4):
 
 Princip oddělené evidence chrání uživatele před **konfuzní masou** majetku PI. V případě úpadku PI **nepadnou** peníze uživatelů do konkursní podstaty (kde by se uživatelé museli přihlásit jako věřitelé a počítat se zlomkovým plněním) — § 24 stanoví zvláštní insolvenční režim, v němž zvláštní insolvenční správce peníze vrátí přímo uživatelům.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce přijímá od klientů prostředky k provedení převodů, ale ponechává je tři dny na svém běžném provozním účtu společně s vlastními penězi (smíchané), než je odešle dál. Část prostředků „investuje" do akcií jedné technologické firmy a do dluhopisů s nízkým ratingem (riziková váha 100 %). Jako alternativu uvádí pojistnou smlouvu uzavřenou s pojišťovnou, která je členem téže skupiny jako PI. Po úpadku PI klienti nemohou své peníze identifikovat.
+
+**2. Právní otázka.** Jak musí PI chránit prostředky svěřené k provedení platební transakce podle § 22 — jaké jsou přípustné způsoby (oddělené uložení, investice do nízkorizikových aktiv, pojištění) a jaká jsou jejich omezení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22 odst. 1 písm. a) (oddělená evidence), písm. b) (uložení na samostatném účtu do konce následujícího pracovního dne nebo investice do likvidních aktiv s nízkým rizikem); odst. 2 (pojištění/zajištění); odst. 3–4 (zákaz subjektu ze stejné skupiny); odst. 5 (definice nízkorizikových aktiv — riziková váha do 50 %).
+- *Související ustanovení téhož zákona:* § 21 (vyloučení vkladu), § 23 (odhad při neurčitelnosti), § 24 (insolvenční režim).
+- *Související předpisy:* čl. 336 odst. 1 a čl. 26 nařízení (EU) č. 575/2013 (CRR — rizikové váhy); PSD2 čl. 10.
+- *Judikatura:* nosný princip oddělení (segregation) klientského majetku; výkladová praxe ČNB k safeguarding účtům.
+
+**4. Subsumpce.** Ponechání prostředků smíchaných s vlastními penězi PI porušuje povinnost **oddělené evidence** (odst. 1 písm. a)) a uložení na samostatném účtu do konce následujícího pracovního dne (písm. b)). Investice do akcií a do dluhopisů s rizikovou váhou 100 % nesplňuje definici **aktiv s nízkým rizikem** (odst. 5 — váha do 50 %). Pojištění s pojišťovnou ze stejné skupiny je **zakázáno** (odst. 3 — zákaz uzavřené smyčky).
+
+**5. Řešení.** PI porušila všechny tři ochranné cesty: nevedla oddělenou evidenci, neuložila prostředky řádně, investovala do nezpůsobilých aktiv a zvolila zakázané skupinové pojištění. Musí: vést oddělenou evidenci, ukládat prostředky na safeguarding účet u banky/SUD nejpozději do konce následujícího pracovního dne (nebo investovat jen do kvalitních dluhopisů s váhou do 50 %), a pokud volí pojištění, uzavřít je s pojišťovnou mimo skupinu. Při úpadku se uplatní § 24.
+
+**6. Varianty.** (a) Kdyby PI investovala do státních dluhopisů EHP s vysokým ratingem (váha do 50 %), bylo by to v souladu s odst. 5. (b) Kdyby pojišťovna nebyla ze skupiny PI, pojistná cesta (odst. 2) by byla přípustná. (c) Kdyby PI prostředky odeslala příjemci/dalšímu poskytovateli ještě týž den, povinnost uložení na samostatný účet by nevznikla.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument „investice zhodnocuje klientské peníze, je to v jejich zájmu":* neutralizace: přípustné jsou jen likvidní aktiva s nízkým rizikem (váha do 50 %); akcie a rizikové dluhopisy ohrožují návratnost a jsou vyloučeny.
+- *Protiargument „skupinové pojištění je levnější a dostatečné":* neutralizace: odst. 3 a 4 výslovně zakazují pojišťovnu/banku ze stejné skupiny (zákaz uzavřené smyčky) — riziko korelovaného selhání.
+- *Slabé místo:* dodržení lhůty „do konce následujícího pracovního dne" a trvalé oddělení vyžaduje robustní procesy; při komínglu hrozí, že klient své prostředky neidentifikuje (řeší § 23 odhadem, ale s nižší jistotou).
+
+##### H. Praktický závěr
+
+§ 22 zajišťuje oddělení (segregation) svěřených prostředků třemi alternativami: oddělená evidence + uložení na samostatný safeguarding účet, investice do nízkorizikových aktiv (riziková váha do 50 %), nebo pojištění/zajištění od subjektu mimo skupinu PI. Cílem je vyjmout klientské peníze z konkursní podstaty (§ 24).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou svěřené prostředky vedeny odděleně od majetku PI (odst. 1 písm. a))?
+- [ ] Jsou uloženy na samostatném účtu nejpozději do konce následujícího pracovního dne (písm. b))?
+- [ ] Případné investice jen do aktiv s rizikovou váhou do 50 % (odst. 5)?
+- [ ] Pokud pojištění/zajištění: není poskytovatel ze stejné skupiny (odst. 3, 4)?
+- [ ] Existuje pro neurčitelné prostředky odhad dle § 23?
+
+**Typicky rozhodné důkazy / podklady:** výpisy ze safeguarding účtu a doklad o datu uložení, oddělená účetní evidence svěřených prostředků, investiční portfolio a ratingy/rizikové váhy aktiv, pojistná smlouva/zajištění a doložení, že poskytovatel není ze skupiny PI.
+
 ---
 
 #### § 23 — Nemožnost určení části určené pro platby
@@ -1190,6 +1900,43 @@ Princip oddělené evidence chrání uživatele před **konfuzní masou** majetk
 #### Odhad při směsi účelů
 
 Některé PI přijímají od uživatelů peníze sloužící současně víceúčelově (např. Twisto, kde stejný účet slouží pro platby i pro úvěrovou kapacitu). Pokud nelze peněžně oddělit, jakou část tvoří svěřené peníze k platbám, použije se **odhad na základě historických údajů**. Tento princip zabraňuje situaci, kdy by se PI vyhýbala ochraně tvrzením o nemožnosti rozlišit.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce typu „BNPL peněženka" vede klientům účty, na nichž jsou současně prostředky určené k platbám i prostředky související s úvěrovou kapacitou (klient nabíjí peníze, ale využívá i odloženou platbu). PI tvrdí, že nelze určit, jaká část prostředků je svěřena k provedení platebních transakcí, a proto **žádnou** část nechrání podle § 22. Po finančních potížích PI klienti zjišťují, že jejich peníze nebyly nijak odděleny.
+
+**2. Právní otázka.** Jak postupuje PI při ochraně prostředků, nelze-li určit, jaká část peněz předaných uživatelem je určena pro platební transakce — může se ochraně zcela vyhnout?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 — při neurčitelnosti chránit dle § 22 takovou část, která odpovídá odhadu na základě údajů z předchozích období.
+- *Související ustanovení téhož zákona:* § 22 (způsoby ochrany), § 24 odst. 1 (obdobný odhad v insolvenci), § 13 odst. 1 (roční lhůta při neurčitelnosti po zániku povolení).
+- *Související předpisy:* PSD2 čl. 10 odst. 1 druhý pododstavec; EBA výklad k safeguarding při smíšených prostředcích.
+- *Judikatura:* nosný princip, že nejistota ohledně účelu prostředků nesmí jít k tíži uživatele a nezbavuje PI ochranné povinnosti.
+
+**4. Subsumpce.** Situace „nelze určit část určenou pro platby" je přesně předvídána § 23. PI se ochraně **nemůže vyhnout** — musí chránit část odpovídající **odhadu na základě historických údajů** (poměr prostředků skutečně použitých na platby v minulých obdobích). Tvrzení „nelze určit, tedy nechráním nic" je v rozporu s § 23.
+
+**5. Řešení.** PI musí stanovit odhad (např. z podílu plateb na celkových přijatých prostředcích za předchozí období) a tuto část chránit podle § 22 (oddělení/uložení/pojištění). Odhad se pravidelně aktualizuje. Při úpadku se obdobně uplatní § 24 odst. 1. Klient tak požívá ochrany i u smíšených prostředků; opomenutí ochrany je porušením § 22 ve spojení s § 23.
+
+**6. Varianty.** (a) Kdyby PI vedla prostředky striktně odděleně podle účelu, § 23 by se neuplatnil a chránila by se přesně určená částka. (b) Kdyby šlo o čistě úvěrové prostředky bez platební složky, ochrana dle § 22 by se nevztahovala. (c) Po zániku povolení se při neurčitelnosti uplatní roční lhůta dle § 13 odst. 1.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument „nelze určit = nelze chránit":* neutralizace: § 23 výslovně ukládá chránit odhadnutou část; neurčitelnost nezbavuje PI povinnosti, jen mění metodu (odhad).
+- *Protiargument „odhad je libovolný":* neutralizace: odhad musí vycházet z údajů z předchozích období (objektivní historický základ), nikoli z volného uvážení PI.
+- *Slabé místo:* metodika odhadu není v zákoně detailně upravena; nepřesný nebo zastaralý odhad může klienta poškodit — proto je vhodné odhad konzervativně nadhodnotit a pravidelně revidovat.
+
+##### H. Praktický závěr
+
+§ 23 řeší ochranu při smíšených prostředcích: nelze-li určit, jaká část peněz je určena k platbám, chrání PI část odpovídající odhadu z historických údajů. Neurčitelnost není důvodem k absenci ochrany. Odhad musí být objektivní a aktualizovaný.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde skutečně o prostředky se smíšeným/neurčitelným účelem?
+- [ ] Stanovila PI odhad chráněné části z údajů předchozích období (§ 23)?
+- [ ] Je odhad objektivní, doložitelný a pravidelně aktualizovaný?
+- [ ] Je odhadnutá část skutečně chráněna dle § 22?
+- [ ] Promítne se odhad i do insolvenčního vydání dle § 24 odst. 1?
+
+**Typicky rozhodné důkazy / podklady:** historické údaje o podílu plateb na přijatých prostředcích, metodika a výpočet odhadu, doklady o ochraně odhadnuté části (§ 22), produktová dokumentace prokazující smíšenou povahu prostředků.
 
 ---
 
@@ -1213,6 +1960,43 @@ Některé PI přijímají od uživatelů peníze sloužící současně víceú�
 6. **Subsidiární přihláška do konkursu** (odst. 6): zbylou neuspokojenou pohledávku lze přihlásit do standardního insolvenčního řízení.
 
 > **Praktický význam:** Mechanismus § 24 garantuje uživatelům PI **vyšší úroveň ochrany než klasický věřitel** — v praxi mají reálně šanci na úplné nebo téměř úplné vrácení peněz, zatímco standardní věřitelé v konkursu obdrží zlomek nominální hodnoty.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce s tisíci klienty se dostane do úpadku; soud vydá rozhodnutí o úpadku, které nabude právní moci, a je ustaven zvláštní insolvenční správce. Klient A má jednoznačně identifikovatelné prostředky určené k platbě (1 000 EUR na safeguarding účtu). Klient B má prostředky se smíšeným účelem. Běžný věřitel C (dodavatel kancelářských potřeb) má pohledávku 50 000 Kč. Klienti se obávají, že skončí jako řadoví věřitelé s minimálním plněním.
+
+**2. Právní otázka.** Jak se v insolvenci PI nakládá s prostředky svěřenými k provedení platebních transakcí — patří do konkursní podstaty, nebo se vydávají přednostně uživatelům, a jak se postupuje při neurčitelnosti účelu prostředků?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 1 (zvláštní insolvenční správce vydá svěřené prostředky uživatelům; při neurčitelnosti vydá prostředky, které mohly být použity k platbě); navazující odst. (notifikace, lhůty, poměrné uspokojení, subsidiární přihláška).
+- *Související ustanovení téhož zákona:* § 22 (oddělení prostředků), § 23 (odhad), § 21 (vyloučení vkladu), § 13 (zánik povolení).
+- *Související předpisy:* zákon č. 182/2006 Sb., insolvenční zákon (ve vztahu speciality — § 24 ZoPS je lex specialis); PSD2 čl. 10.
+- *Judikatura:* nosný princip vyloučení klientského majetku z konkursní podstaty; obecná zásada ochrany odděleného majetku v insolvenci.
+
+**4. Subsumpce.** § 24 je **lex specialis** k insolvenčnímu zákonu. Prostředky svěřené k provedení transakce **nejsou** součástí konkursní podstaty — zvláštní insolvenční správce je vydá přímo uživatelům. Klient A (1 000 EUR identifikovatelných) je vydá přednostně. U klienta B (smíšené prostředky) se uplatní obdoba odhadu (§ 23, § 24 odst. 1) — vydá se část, která mohla být použita k platbě. Věřitel C zůstává řadovým věřitelem konkursní podstaty.
+
+**5. Řešení.** Klienti A i B požívají přednostní ochrany — dostanou své peníze mimo konkursní podstatu, v praxi s vysokou mírou uspokojení; nepostačují-li prostředky, uspokojí se poměrně (pari passu). Zbylou neuspokojenou pohledávku lze přihlásit do standardního insolvenčního řízení. Věřitel C obdrží jen zlomek z konkursní podstaty. Mechanismus § 24 tak garantuje uživatelům **vyšší ochranu než řadovým věřitelům**.
+
+**6. Varianty.** (a) Kdyby PI měla pro svěřené prostředky pojištění (§ 22 odst. 2), uplatnili by uživatelé nárok z pojištění. (b) Kdyby prostředky nebyly vůbec odděleny (porušení § 22), jejich identifikace by byla obtížnější a hrozilo by zhoršené postavení uživatelů. (c) U běžného (neplatebního) majetku PI se uplatní standardní insolvenční zákon.
+
+##### G. Protiargumenty a rizika
+
+- *Protiargument „v insolvenci jsou si všichni věřitelé rovni":* neutralizace: § 24 je lex specialis — svěřené prostředky jsou vyňaty z konkursní podstaty a vydávají se přednostně uživatelům.
+- *Protiargument „smíšené prostředky nelze vydat":* neutralizace: § 24 odst. 1 i § 23 ukládají vydat část, která mohla být použita k platbě (odhad); neurčitelnost nezbavuje uživatele ochrany.
+- *Slabé místo:* reálná míra uspokojení závisí na tom, zda PI skutečně dodržela § 22 (oddělení); při komínglu a nedostatečné evidenci se ochrana fakticky oslabuje a uživatelé mohou skončit i jako řadoví věřitelé pro neuspokojenou část.
+
+##### H. Praktický závěr
+
+§ 24 zavádí zvláštní insolvenční režim PI: svěřené prostředky se vyjímají z konkursní podstaty a zvláštní insolvenční správce je vydává přednostně uživatelům (při neurčitelnosti dle odhadu). Uživatelé tak mají výrazně vyšší ochranu než řadoví věřitelé; nepostačují-li prostředky, uspokojení je poměrné a zbytek lze přihlásit do konkursu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nabylo rozhodnutí o úpadku PI právní moci a je ustaven zvláštní insolvenční správce?
+- [ ] Jsou svěřené prostředky vyňaty z konkursní podstaty a vydány uživatelům (§ 24 odst. 1)?
+- [ ] U smíšených prostředků: byl uplatněn odhad (část, která mohla být použita k platbě)?
+- [ ] Při nedostatku prostředků: proběhlo poměrné uspokojení (pari passu)?
+- [ ] Byla neuspokojená část přihlášena do standardního insolvenčního řízení?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku a doklad o právní moci, evidence a výpisy safeguarding účtů (§ 22), doklady o identifikaci a výši svěřených prostředků jednotlivých uživatelů, výpočet odhadu u smíšených prostředků, přihlášky pohledávek a rozvrh uspokojení.
 
 ---
 
@@ -1247,6 +2031,43 @@ PI může činnost realizovat **prostřednictvím sítě pověřených zástupc�
 
 **Odpovědnost PI za jednání zástupce:** § 8 odst. 1 PSD2 → PI je plně odpovědná za jednání svých zástupců vůči uživatelům — uživatel se nemusí domáhat plnění u zástupce, ale přímo u PI.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce poskytující remitanční služby chce distribuovat platby přes síť pověřených zástupců — provozovatelů trafik a večerek v různých městech. Jednoho zástupce začne využívat ještě před jeho zápisem do seznamu vedeného ČNB. Tento zástupce nemá žádné AML kontrolní mechanismy a jeho vedoucí osoba byla v minulosti odsouzena za podvod. Přes tohoto zástupce proběhne řada plateb, z nichž některé slouží k praní peněz. Poškozený klient se domáhá plnění.
+
+**2. Právní otázka.** Za jakých podmínek smí PI poskytovat platební služby prostřednictvím pověřeného zástupce a kdo nese odpovědnost za jednání zástupce vůči uživatelům?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 odst. 1 písm. a) (vhodné AML mechanismy zástupce), písm. b) (důvěryhodnost a způsobilost zástupce a jeho vedoucích osob), písm. c) (zápis do seznamu PI); navazující §§ 26–28 (zápis, lhůty, oznamování změn).
+- *Související ustanovení téhož zákona:* § 2 odst. 2 písm. i) (pověřený zástupce), § 20 odst. 1 písm. m), n) (výběr a kontrola zástupců), § 5 (taxativní okruh).
+- *Související předpisy:* zákon č. 253/2008 Sb., AML; PSD2 čl. 19 (využití agentů); správní řád (vyloučení části druhé a třetí u zápisu).
+- *Judikatura:* nosný princip odpovědnosti zmocnitele za zmocněnce; výkladová praxe ČNB k registraci zástupců.
+
+**4. Subsumpce.** Využití zástupce před jeho **zápisem do seznamu** porušuje § 25 odst. 1 písm. c). Absence AML mechanismů porušuje písm. a); odsouzení vedoucí osoby za podvod brání splnění písm. b) (důvěryhodnost). Za jednání zástupce vůči uživatelům odpovídá **plně PI** (zástupce jedná jejím jménem) — uživatel se domáhá plnění přímo u PI, nikoli u zástupce.
+
+**5. Řešení.** PI smí zástupce využívat až po jeho zápisu do seznamu a po ověření AML mechanismů a fit & proper vedoucích osob. Zde PI pochybila ve všech třech bodech. Za škodu způsobenou klientovi i za AML selhání odpovídá PI; ČNB může uložit sankci a požadovat ukončení spolupráce se zástupcem. Klient má nárok na plnění od PI.
+
+**6. Varianty.** (a) Kdyby zástupce byl řádně zapsán, měl funkční AML systém a důvěryhodné vedení, distribuce by byla v souladu se zákonem. (b) Kdyby šlo o zaměstnance PI (nikoli samostatný subjekt), nešlo by o pověřeného zástupce a režim §§ 25–28 by se neuplatnil. (c) Při výkonu přes zástupce v jiném členském státě by se uplatnil i režim single passport (§§ 32–37).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „za zástupce neodpovídáme, je to samostatný subjekt":* neutralizace: PI plně odpovídá za jednání zástupce vůči uživatelům (zástupce jedná jménem PI); uživatel se obrací přímo na PI.
+- *Protiargument „zápis je formalita, mohli jsme začít hned":* neutralizace: § 25 odst. 1 písm. c) podmiňuje poskytování služeb přes zástupce jeho předchozím zápisem do seznamu.
+- *Slabé místo:* PI je „first-line" odpovědná za AML compliance zástupce; rozsáhlé distribuční sítě jsou rizikové (kontrola desítek/stovek zástupců) a jsou častým terčem AML dohledu.
+
+#### H. Praktický závěr
+
+§§ 25–28 umožňují PI distribuovat platební služby přes pověřené zástupce, ale jen při splnění tří podmínek: funkční AML mechanismy zástupce, jeho důvěryhodnost a způsobilost, a zápis do seznamu vedeného ČNB. PI nese plnou odpovědnost za jednání zástupce vůči uživatelům i za jeho AML compliance.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má zástupce vhodné AML kontrolní mechanismy (§ 25 odst. 1 písm. a))?
+- [ ] Jsou zástupce (FO) a jeho vedoucí osoby důvěryhodní a způsobilí (písm. b))?
+- [ ] Je zástupce zapsán v seznamu PI u ČNB (písm. c)) — před zahájením činnosti?
+- [ ] Má PI systém výběru a kontroly zástupců (§ 20 odst. 1 písm. m), n))?
+- [ ] Je zajištěna odpovědnost PI za jednání zástupce vůči uživatelům?
+
+**Typicky rozhodné důkazy / podklady:** smlouva PI se zástupcem, doklad o zápisu zástupce do seznamu ČNB a jeho datace, AML compliance dokumentace zástupce, výpis z rejstříku trestů vedoucích osob, záznamy o kontrole zástupce ze strany PI, evidence transakcí provedených přes zástupce.
+
 ---
 
 ### § 29 — Outsourcing provozních činností
@@ -1266,6 +2087,43 @@ Outsourcing **významné provozní činnosti** (definice odst. 3: činnost, jej�
 3. **Žádný přenos odpovědnosti vedení** — outsourcing **nepřenáší** odpovědnost statutárního orgánu PI; vedení odpovídá za činnost outsourcována stejně jako za interní činnost.
 
 Outsourcing podléhá oznamovací povinnosti vůči ČNB (odst. 1). U cloudových služeb a kritických ICT služeb se uplatní rovněž **DORA** (kapitola V — pravidla pro outsourcing ICT a oversight kritických TPP).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce svěří provoz svého klíčového IT systému (zpracování plateb), AML monitoring a vedení účetní evidence externí společnosti se sídlem mimo EHP, a to ve smlouvě, podle níž má dodavatel právo subdodávat činnost dalším subjektům a podle níž ČNB nemá přístup k dokumentaci dodavatele. Smlouva navíc přenáší odpovědnost za řádný provoz na dodavatele. ČNB při kontrole namítá nepřípustnost takového outsourcingu.
+
+**2. Právní otázka.** Za jakých podmínek smí PI svěřit výkon významné provozní činnosti jiné osobě podle § 29, a může tím přenést odpovědnost svého vedení nebo omezit dohled ČNB?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 odst. 2 (tři kumulativní podmínky outsourcingu významné činnosti); navazující odst. 1 (oznamovací povinnost) a odst. 3 (definice významné činnosti).
+- *Související ustanovení téhož zákona:* § 19–20 (ŘaKS — outsourcing nesmí zhoršit), § 9 odst. 1 písm. f), g) (provozní předpoklady a ŘaKS).
+- *Související předpisy:* nařízení (EU) 2022/2554 (DORA — kapitola V: outsourcing ICT a oversight kritických TPP); PSD2 čl. 19 odst. 6; EBA Guidelines on outsourcing arrangements (EBA/GL/2019/02).
+- *Judikatura:* nosný princip, že odpovědnost vedení nelze outsourcingem přenést; dohledová praxe ke step-in právům.
+
+**4. Subsumpce.** Outsourcing klíčového IT, AML monitoringu a účetnictví je outsourcingem **významné provozní činnosti** (odst. 3 — nesprávné provedení by podstatně narušilo plnění povinností PI). Podmínky odst. 2 nejsou splněny: smlouva přenáší odpovědnost vedení (zakázáno), znemožňuje dohled ČNB (chybí step-in/přístup) a sídlo dodavatele mimo EHP bez zajištění dohledu ohrožuje výkon dohledu. U ICT se navíc uplatní DORA kapitola V.
+
+**5. Řešení.** Takový outsourcing je nepřípustný. PI musí smlouvu upravit tak, aby: outsourcing nezhoršoval ŘaKS, zachoval dohledové možnosti ČNB (přístup, audit, step-in právo i vůči subdodavatelům) a **neponechával** odpovědnost na dodavateli — vedení PI odpovídá za outsourcovanou činnost stejně jako za interní. Outsourcing musí být oznámen ČNB (odst. 1) a u kritických ICT služeb splňovat DORA. Bez nápravy hrozí sankce.
+
+**6. Varianty.** (a) Outsourcing **nevýznamné** činnosti (např. úklid, recepce) podmínkám odst. 2 nepodléhá. (b) Kdyby dodavatel sídlil v EHP a smlouva zajišťovala přístup ČNB a ponechání odpovědnosti na PI, outsourcing by byl přípustný. (c) U kritického ICT poskytovatele se uplatní oversight režim DORA i vůči samotnému dodavateli.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „odpovědnost přešla na dodavatele":* neutralizace: § 29 odst. 2 výslovně zakazuje přenesení odpovědnosti vedení; PI odpovídá za outsourcovanou činnost jako za vlastní.
+- *Protiargument „dohled se týká jen PI, ne dodavatele":* neutralizace: ČNB musí mít zachovány dohledové možnosti i vůči outsourcingu (přístup, audit, step-in); u kritických ICT TPP platí přímý oversight dle DORA.
+- *Slabé místo:* hranice „významné" činnosti (odst. 3) je výkladově citlivá; podcenění významnosti vede k opomenutí oznámení a podmínek, což je častý nález dohledu, zejména u cloudových služeb.
+
+#### H. Praktický závěr
+
+§ 29 umožňuje outsourcing významné provozní činnosti PI jen za tří kumulativních podmínek: žádné podstatné zhoršení ŘaKS, žádné podstatné snížení dohledu ČNB a žádné přenesení odpovědnosti vedení. Outsourcing se oznamuje ČNB; u ICT služeb se uplatní DORA. Odpovědnost vždy zůstává na PI.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o významnou provozní činnost (odst. 3)?
+- [ ] Nezhoršuje outsourcing podstatně ŘaKS PI?
+- [ ] Zůstávají zachovány dohledové možnosti ČNB (přístup, audit, step-in i vůči subdodavatelům)?
+- [ ] Není přenesena odpovědnost vedení na dodavatele?
+- [ ] Byl outsourcing oznámen ČNB (odst. 1) a splňuje u ICT požadavky DORA?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o outsourcingu (rozsah, odpovědnost, audit a step-in práva, subdodávky), oznámení ČNB, registr outsourcingu dle DORA/EBA, posouzení významnosti činnosti, doklad o sídle a dohledovém režimu dodavatele.
 
 ---
 
@@ -1288,6 +2146,43 @@ PI podává ČNB pravidelný reporting — finanční stav, výsledky hospodaře
 #### Archivace (§ 31)
 
 Minimální archivační lhůta **5 let** od vzniku dokumentu. Doplňující lhůty stanoví jiné předpisy (AML — § 16 zákona č. 253/2008 Sb. — 10 let; účetní lhůty dle zákona o účetnictví — 5 nebo 10 let; daňové lhůty dle § 23 ZoÚ a § 148 DŘ, viz [Komentář k DŘ](/home/vojtech/Komentar-DR-280-2009/)). Archivační povinnost přechází na **právního nástupce** a osobu, jejíž povolení zaniklo (odst. 2).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Platební instituce neposkytuje ČNB pravidelný reporting o své finanční situaci a o pověřených zástupcích a tvrdí, že „dokumenty stačí archivovat 1 rok, pak je skartuje", neboť delší archivaci považuje za zbytečnou zátěž. Po dvou letech ČNB při kontrole požaduje doklady o transakcích a o plnění obezřetnostních ukazatelů, které již PI nemá k dispozici, neboť je zničila. Současně vyjde najevo, že chybí i AML dokumentace.
+
+**2. Právní otázka.** Jaký rozsah informací musí PI poskytovat ČNB (§ 30) a jak dlouho musí uchovávat dokumenty a záznamy týkající se plnění svých povinností (§ 31), zejména ve vztahu k jiným archivačním lhůtám?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 odst. 1 (reporting o finanční situaci, hospodaření, plnění podmínek a o zástupcích); § 31 odst. 1 (archivace alespoň 5 let; jiné předpisy nedotčeny); navazující odst. (přechod povinnosti na nástupce).
+- *Související ustanovení téhož zákona:* § 16 (kapitálové ukazatele), § 25–28 (zástupci), § 232 (sankce).
+- *Související předpisy:* § 16 zákona č. 253/2008 Sb., AML (uchovávání 10 let); zákon o účetnictví (5/10 let); § 148 zákona č. 280/2009 Sb., daňový řád, a daňové lhůty; PSD2 čl. 21.
+- *Judikatura:* dohledová praxe ČNB k off-site dohledu a reportingu; nosný princip, že kratší interní lhůta nemůže obejít zákonné minimum.
+
+**4. Subsumpce.** PI je povinna poskytovat ČNB reporting dle § 30 — neplnění je porušením. Archivační lhůta činí **alespoň 5 let** (§ 31 odst. 1); skartace po 1 roce ji porušuje. Navíc povinnost uchovávat AML dokumentaci je delší (10 let dle AML zákona) — § 31 výslovně stanoví, že jiné předpisy nejsou dotčeny. PI tedy porušila § 30 i § 31 i AML zákon.
+
+**5. Řešení.** PI musí obnovit pravidelný reporting ČNB a dodržovat archivační minimum 5 let dle § 31, resp. delší lhůty dle jiných předpisů (AML 10 let, účetní/daňové lhůty). Zničení dokumentů před uplynutím lhůty je porušením s rizikem sankce a ztížením dohledu i případného dokazování. Povinnost archivace přechází i na právního nástupce a na osobu, jejíž povolení zaniklo (§ 31 odst. 2).
+
+**6. Varianty.** (a) Kdyby šlo o dokumenty bez vazby na povinnosti dle této hlavy, lhůta § 31 by se neuplatnila (ale mohly by platit jiné předpisy). (b) Kdyby PI zanikla, archivační povinnost by přešla na nástupce. (c) U AML dokumentů platí přednostně 10letá lhůta bez ohledu na 5leté minimum ZoPS.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „delší archivace je zbytečná zátěž":* neutralizace: § 31 stanoví závazné minimum 5 let a výslovně ponechává delší lhůty jiných předpisů (AML 10 let); kratší interní pravidlo je porušením.
+- *Protiargument „reporting je jen administrativa":* neutralizace: reporting je páteří off-site dohledu (§ 30); jeho neplnění brání ČNB ve výkonu dohledu a je samostatně postižitelné.
+- *Slabé místo:* souběh různých archivačních lhůt (ZoPS 5 let, AML 10 let, účetní/daňové) je v praxi matoucí; PI musí aplikovat **nejdelší** relevantní lhůtu, jinak hrozí předčasné zničení dokumentů.
+
+#### H. Praktický závěr
+
+§§ 30–31 ukládají PI povinný reporting ČNB (finanční situace, hospodaření, plnění podmínek, zástupci) a archivaci dokumentů alespoň 5 let, přičemž delší lhůty jiných předpisů (zejm. AML 10 let) zůstávají nedotčeny. Povinnosti přecházejí na právního nástupce. Pro praxi platí pravidlo nejdelší relevantní lhůty.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Poskytuje PI ČNB pravidelný reporting dle § 30 (finance, hospodaření, zástupci)?
+- [ ] Uchovává dokumenty k povinnostem dle této hlavy alespoň 5 let (§ 31 odst. 1)?
+- [ ] Jsou zohledněny delší lhůty jiných předpisů (AML 10 let, účetní/daňové)?
+- [ ] Aplikuje PI nejdelší relevantní archivační lhůtu?
+- [ ] Je archivační povinnost zajištěna i pro případ zániku/nástupnictví (§ 31 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** reportingové výkazy předané ČNB a doklady o jejich odeslání, archivační řád PI a evidence uchovávaných dokumentů, doklady o transakcích a o plnění kapitálových ukazatelů, AML dokumentace, doklady o přechodu archivační povinnosti na nástupce.
 
 ---
 
@@ -1331,6 +2226,43 @@ Po notifikaci a začátku činnosti platí:
 
 Rozdělení je promítnuto v **EBA Guidelines on cooperation between competent authorities** a v bilaterálních MoU mezi národními orgány dohledu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Česká platební instituce chce expandovat do Německa: zřídit tam pobočku pro acquiring a využívat německé pověřené zástupce. Domnívá se, že na základě českého povolení může činnost zahájit v Německu okamžitě, bez jakékoli notifikace. Předloží ČNB obchodní plán pobočky s nepodloženými projekcemi a začne v Německu uzavírat smlouvy ještě před vyřízením notifikace německému orgánu dohledu (BaFin).
+
+**2. Právní otázka.** Za jakých podmínek a jakým postupem může česká PI poskytovat platební služby v jiném členském státě prostřednictvím pobočky nebo pověřeného zástupce (single passport), a od kdy smí činnost zahájit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 odst. 1 písm. a) (reálný obchodní plán pobočky), písm. b) (vhodnost relevantních součástí ŘaKS); navazující §§ 33–37 (souhlas ČNB, notifikace hostitelského orgánu, zahájení činnosti).
+- *Související ustanovení téhož zákona:* § 38–39 (FoS bez pobočky), § 40 (zrcadlový režim pro zahraniční PI v ČR), § 20 (ŘaKS).
+- *Související předpisy:* PSD2 čl. 28 (passport notifikace); nařízení v přenesené pravomoci (EU) 2017/2055 (formáty a lhůty notifikací); EBA Guidelines on passport notifications.
+- *Judikatura:* nosný princip vzájemného uznávání povolení (home/host) v rámci EHP.
+
+**4. Subsumpce.** Výkon činnosti přes pobočku/zástupce v jiném státě vyžaduje **souhlas ČNB** (§ 32) a **notifikaci** orgánu dohledu hostitelského státu (§ 36) — nikoli okamžité zahájení. Obchodní plán pobočky musí být podložen reálnými propočty (§ 32 odst. 1 písm. a)) — nepodložené projekce podmínku neplní. Zahájení činnosti v Německu před vyřízením notifikace porušuje postup single passportu.
+
+**5. Řešení.** Česká PI musí nejprve získat souhlas ČNB a vyčkat notifikačního procesu (ČNB do 1 měsíce notifikuje BaFin, vyžádá stanovisko a přihlédne k němu — princip comply or explain). Činnost smí zahájit až po dokončení notifikace. Obchodní plán musí přepracovat na reálné propočty. Dohled se rozdělí: ČNB (domovský) — obezřetnost, kapitál, ŘaKS; BaFin (hostitelský) — chování na trhu, AML u pobočky, reklamace.
+
+**6. Varianty.** (a) Bez pobočky/zástupce (přeshraniční poskytování — FoS) by stačilo pouhé oznámení ČNB (§ 38) a notifikace hostitelského orgánu (§ 39). (b) Kdyby šlo o stát mimo EHP, single passport by se neuplatnil (nutné lokální povolení). (c) Zrcadlově může zahraniční PI působit v ČR dle § 40.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „mám české povolení, mohu podnikat kdekoli v EU hned":* neutralizace: single passport vyžaduje souhlas ČNB a notifikaci hostitelského orgánu; činnost lze zahájit až po dokončení procesu, ne okamžitě.
+- *Protiargument „obchodní plán pobočky je jen formalita":* neutralizace: § 32 odst. 1 písm. a) vyžaduje reálné ekonomické propočty; nepodložený plán je důvodem neudělení souhlasu.
+- *Slabé místo:* rozdělení dohledu home/host bývá v praxi sporné (zejm. AML a conduct u pobočky); nejasnosti řeší EBA Guidelines a MoU mezi orgány, ale konflikty kompetencí mohou vznikat.
+
+#### H. Praktický závěr
+
+§§ 32–37 upravují single passport přes pobočku nebo pověřeného zástupce: nutný souhlas ČNB (s reálným obchodním plánem a vhodným ŘaKS) a notifikace orgánu dohledu hostitelského státu. Činnost smí začít až po dokončení notifikace. Dohled se dělí mezi domovský (ČNB — obezřetnost) a hostitelský stát (conduct, AML u pobočky).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o výkon přes pobočku/zástupce (§§ 32–37), nebo o FoS bez pobočky (§§ 38–39)?
+- [ ] Je obchodní plán pobočky podložen reálnými propočty (§ 32 odst. 1 písm. a))?
+- [ ] Jsou relevantní součásti ŘaKS vhodné pro výkon v hostitelském státě (písm. b))?
+- [ ] Byl získán souhlas ČNB a proběhla notifikace hostitelského orgánu (§ 36)?
+- [ ] Byla činnost zahájena až po dokončení notifikačního procesu?
+
+**Typicky rozhodné důkazy / podklady:** žádost o souhlas ČNB a obchodní plán pobočky s rozpočtem na 3 období, doklady o ŘaKS pro hostitelský stát, notifikace a stanovisko hostitelského orgánu dohledu, datace zahájení činnosti vs. dokončení notifikace, smlouvy se zahraničními zástupci.
+
 ---
 
 ### § 40 — Zahraniční platební instituce z jiného členského státu v ČR
@@ -1346,6 +2278,43 @@ Rozdělení je promítnuto v **EBA Guidelines on cooperation between competent a
 § 40 je zrcadlový k §§ 32–39: zahraniční PI z jiného členského státu může v ČR působit na základě domovského povolení. ČNB plní hostitelskou roli — přijímá notifikace, sděluje stanoviska, provádí dohled nad chováním na trhu a AML při fungování pobočky.
 
 V praxi v ČR působí přes single passport řada významných fintech PI — typicky **Wise** (UK do Brexitu, dnes Belgie), **Revolut** (Litva), **PayPal Europe** (Lucembursko), **Stripe Payments Europe** (Irsko). Tyto subjekty *nepodléhají* primárnímu dohledu ČNB.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Litevská platební instituce „NeoPay" (povolení uděleno litevským orgánem dohledu) začne v ČR nabízet acquiring a remitanční služby přes pobočku v Praze. Český obchodník uzavře s NeoPay smlouvu o přijímání karet, dojde však k systematickému zadržování plateb a porušování AML pravidel. Obchodník i poškození klienti se obracejí na ČNB s tím, že „jde o subjekt působící v ČR, ČNB musí zasáhnout a odebrat mu povolení".
+
+**2. Právní otázka.** Na základě jakého titulu může zahraniční PI z jiného členského státu působit v ČR (§ 40) a jaká je v takovém případě role ČNB jako hostitelského orgánu dohledu oproti domovskému orgánu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40 odst. 1 (výkon činnosti zahraniční PI v ČR na základě domovského povolení, přes pobočku/zástupce zapsaného v domovském seznamu).
+- *Související ustanovení téhož zákona:* §§ 32–37 (zrcadlový režim pro české PI v zahraničí), § 2 odst. 2 písm. c), d) (domovský/hostitelský stát), § 5 písm. h) (zahraniční PI v taxativním okruhu).
+- *Související předpisy:* PSD2 čl. 28–29 (passport, dohled hostitelského státu); zákon č. 253/2008 Sb., AML; nařízení (EU) 2017/2055.
+- *Judikatura:* nosný princip rozdělení dohledu home/host; SDEU k mezím hostitelského dohledu nad pasportovanými subjekty.
+
+**4. Subsumpce.** NeoPay působí v ČR oprávněně na základě **litevského povolení** (§ 40 odst. 1) přes pobočku zapsanou v litevském seznamu. Primární (obezřetnostní) dohled vč. pravomoci odejmout povolení náleží **litevskému** orgánu, nikoli ČNB. ČNB plní **hostitelskou** roli — dohled nad chováním na trhu a AML při fungování pobočky, řešení reklamací, koordinace s domovským orgánem.
+
+**5. Řešení.** ČNB nemůže NeoPay odejmout povolení (to může jen domovský litevský orgán). ČNB však může v hostitelské roli vyšetřovat porušení conduct a AML pravidel u pražské pobočky, ukládat opatření v rozsahu hostitelské pravomoci a předat zjištění litevskému orgánu (princip spolupráce). Obchodník se domáhá nápravy podle českých kogentních pravidel chování; klient může využít finančního arbitra. V naléhavých případech má ČNB i předběžná opatření dle PSD2.
+
+**6. Varianty.** (a) Kdyby NeoPay mělo domovské povolení v ČR, podléhalo by plnému dohledu ČNB vč. odnětí povolení. (b) Kdyby působilo bez jakéhokoli povolení, šlo by o neoprávněné podnikání (§ 5). (c) Kdyby působilo přes FoS bez pobočky, byla by hostitelská role ČNB ještě užší (zejm. bez AML dohledu nad pobočkou).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „subjekt působí v ČR, ČNB musí mít plný dohled":* neutralizace: u pasportované zahraniční PI náleží primární dohled domovskému orgánu; ČNB má jen hostitelské pravomoci (conduct, AML u pobočky).
+- *Protiargument „ČNB může odebrat povolení":* neutralizace: odnětí domovského povolení přísluší výlučně domovskému orgánu; ČNB může jen iniciovat a koordinovat, případně přijmout předběžná opatření.
+- *Slabé místo:* rozsah hostitelských pravomocí je omezený a jejich uplatnění závisí na spolupráci s domovským orgánem; vymáhání práv poškozených může být ztížené přeshraničním prvkem a odlišnou jurisdikcí.
+
+#### H. Praktický závěr
+
+§ 40 je zrcadlovým režimem k §§ 32–39: zahraniční PI z jiného členského státu působí v ČR na základě domovského povolení. Primární (obezřetnostní) dohled vč. odnětí povolení náleží domovskému orgánu; ČNB plní hostitelskou roli (conduct, AML u pobočky, reklamace, koordinace). Pro praxi je klíčové správně identifikovat domovský stát subjektu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má zahraniční PI platné povolení domovského členského státu (§ 40 odst. 1)?
+- [ ] Je pobočka/zástupce zapsán v seznamu vedeném domovským orgánem?
+- [ ] Který stát je domovský (sídlo/skutečné sídlo) — určuje primární dohled?
+- [ ] Spadá namítané porušení do hostitelské pravomoci ČNB (conduct, AML u pobočky)?
+- [ ] Je k zásahu nutná koordinace s domovským orgánem (odnětí povolení jen jím)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o domovském povolení a o zápisu pobočky/zástupce v domovském seznamu, identifikace domovského a hostitelského státu, smluvní dokumentace s českým uživatelem, doklady o porušení conduct/AML u pobočky, korespondence ČNB s domovským orgánem dohledu.
 
 ---
 
@@ -1368,6 +2337,43 @@ V praxi v ČR působí přes single passport řada významných fintech PI — t
 3. **Smí být fyzickou osobou** — § 42 odst. 1 písm. i): „je-li fyzickou osobou, splňuje všeobecné podmínky provozování živnosti".
 4. **Zjednodušený ŘaKS** (§ 48 — chybí povinnost pravidel pro evidenci peněz, protože AISP s penězi nemanipuluje).
 5. **Zjednodušený single passport** (§§ 50–52 — bez kapitálových požadavků v hostitelském státě).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba — podnikatel (živnostník) chce provozovat aplikaci pro správu osobních financí, která bude agregovat zůstatky a historii transakcí klientů z jejich bankovních účtů. Domnívá se, že stačí běžné živnostenské oprávnění na „poskytování software". Jiný subjekt (s.r.o.) získal povolení AISP a vedle informování o účtu začal také iniciovat platby jménem klientů. Banka klienta odmítá AISP přístup s tím, že „třetí strany nepustí ke svým datům".
+
+**2. Právní otázka.** Co je správce informací o platebním účtu (AISP), jaké jsou jeho znaky a omezení (zejm. zákaz jiných platebních služeb, možnost být fyzickou osobou) a na základě jakého titulu smí činnost vykonávat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 41 — definice AISP (oprávnění poskytovat službu informování o platebním účtu na základě povolení ČNB).
+- *Související ustanovení téhož zákona:* § 42 (podmínky povolení — vč. možnosti FO), § 49 odst. 2 (zákaz jiných platebních služeb), § 46 (pojištění), § 2 odst. 1 písm. l) (definice AIS), § 130 a násl. (povinnost bank vést rozhraní pro třetí strany).
+- *Související předpisy:* PSD2 čl. 33 (AISP), čl. 67 (právo na přístup k účtu); nařízení v přenesené pravomoci (EU) 2018/389 (RTS — dedikované rozhraní, SCA).
+- *Judikatura:* nosný princip otevřeného bankovnictví — banka nesmí bezdůvodně blokovat přístup AISP po souhlasu uživatele.
+
+**4. Subsumpce.** Agregace zůstatků a historie transakcí je službou informování o platebním účtu (AIS, § 2 odst. 1 písm. l)). K jejímu poskytování je třeba **povolení AISP** (§ 41) — pouhé živnostenské oprávnění na software nestačí. AISP **smí** být fyzickou osobou (§ 42), ale **nesmí** poskytovat jiné platební služby (§ 49 odst. 2) — s.r.o., která začala iniciovat platby (PIS), překročila rozsah a porušila zákaz. Banka nesmí přístup AISP po souhlasu klienta blokovat.
+
+**5. Řešení.** Živnostník potřebuje povolení AISP od ČNB (a pojištění dle § 46), nikoli jen živnostenské oprávnění. S.r.o. provozující vedle AIS i PIS porušila § 49 odst. 2 — pro PIS potřebuje povolení PI (§ 7). Banka je povinna umožnit AISP přístup přes dedikované rozhraní (§ 130 a násl.; RTS 2018/389) po výslovném souhlasu uživatele a SCA; bezdůvodné blokování je porušením.
+
+**6. Varianty.** (a) Kdyby aplikace pouze zobrazovala data zadaná ručně klientem (bez přístupu k bance), nešlo by o AIS a povolení by nebylo třeba. (b) Kdyby s.r.o. chtěla legálně iniciovat platby, musela by získat povolení PI pro PIS. (c) Kdyby šlo o zahraniční AISP, působil by v ČR přes single passport (§§ 50–52).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „stačí živnostenské oprávnění na software":* neutralizace: agregace dat z účtů je regulovaná platební služba (AIS); nutné povolení AISP od ČNB (§ 41).
+- *Protiargument „AISP může dělat i platby, je to jen rozšíření":* neutralizace: § 49 odst. 2 zakazuje AISP poskytovat jiné platební služby; PIS vyžaduje samostatné povolení PI.
+- *Slabé místo:* hranice mezi pouhým zobrazením dat a „informováním o platebním účtu" přes přístup k bance může být sporná; rovněž spory o blokování přístupu bankou (kvalita rozhraní, fallback) jsou v praxi časté.
+
+#### H. Praktický závěr
+
+§ 41 definuje AISP jako „lehkého" poskytovatele oprávněného jen ke službě informování o platebním účtu na základě povolení ČNB. AISP může být i fyzická osoba, nemá počáteční kapitál (nahrazen pojištěním), ale nesmí poskytovat jiné platební služby. Banky musí AISP po souhlasu klienta umožnit přístup k účtu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o službu informování o platebním účtu (přístup k datům účtu), tedy AIS?
+- [ ] Má subjekt povolení AISP od ČNB (§ 41)? (Živnost nestačí.)
+- [ ] Neposkytuje AISP nedovoleně i jiné platební služby (§ 49 odst. 2)?
+- [ ] Je u FO splněn živnostenský rámec a u všech pojištění (§ 46)?
+- [ ] Umožňuje banka AISP přístup po souhlasu klienta a SCA (§ 130 a násl.)?
+
+**Typicky rozhodné důkazy / podklady:** povolení AISP od ČNB a jeho rozsah, popis funkcí aplikace (čte data vs. iniciuje platby), doklad o souhlasu uživatele a o SCA, pojistná smlouva (§ 46), komunikace s bankou o přístupu přes dedikované rozhraní.
 
 ---
 
@@ -1414,6 +2420,43 @@ Devět podmínek je *užší* sada oproti 14 podmínkám PI:
 
 Zjednodušení odráží **nízkorizikovost** činnosti AISP: AISP nepřijímá peníze, ne provádí transakce, jen čte data. Hlavní riziko = data breach, které je pokryto profesním pojištěním.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žadatel o povolení AISP — start-up s.r.o. — předloží ČNB žádost, v níž neuvádí pojistnou smlouvu a má skutečné sídlo (vedení) na Kypru, ač formální sídlo zapsal v ČR. Jeho jednatel byl pravomocně odsouzen za podvod (překážka provozování živnosti). Žadatel argumentuje, že „AISP je nejlehčí licence, tedy stačí cokoli". Současně jiný žadatel — fyzická osoba — žádá o AISP a předkládá pojištění i doklad o bezúhonnosti.
+
+**2. Právní otázka.** Jaké podmínky musí žadatel splnit pro udělení povolení AISP podle § 42 a v čem se tyto podmínky liší od podmínek pro platební instituci (§ 9)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 42 odst. 1 písm. a) (sídlo i skutečné sídlo v ČR), písm. c) (pojistná smlouva/zajištění), písm. d)–g) (předpoklady, ŘaKS, důvěryhodnost a způsobilost vedení), písm. h) (absence překážky provozování živnosti), písm. i) (FO — všeobecné podmínky živnosti).
+- *Související ustanovení téhož zákona:* § 9 (podmínky PI — srovnání), § 41 (definice AISP), § 46 (pojištění), § 49 (zákaz jiných platebních služeb).
+- *Související předpisy:* zákon č. 455/1991 Sb., živnostenský zákon (všeobecné podmínky, překážky); PSD2 čl. 5 odst. 1 a čl. 33; EBA Guidelines on authorisation.
+- *Judikatura:* fit & proper test vedoucích osob; nosný princip, že nižší riziko AISP zjednodušuje, ale neodstraňuje podmínky integrity a pojištění.
+
+**4. Subsumpce.** Podmínky § 42 jsou užší než u PI (§ 9): **chybí** počáteční kapitál (nahrazen pojištěním — písm. c)), test kvalifikované účasti a úzkého propojení, ochrana prostředků a požadavek právní formy (AISP smí být FO). **Navíc** jsou živnostenské podmínky (písm. h), i)). Žadatel s.r.o. zde nesplňuje: písm. c) (chybí pojištění), písm. a) (skutečné sídlo na Kypru), a integrita vedení (odsouzení jednatele — překážka dle písm. h)). FO žadatel s pojištěním a bezúhonností podmínky splňuje.
+
+**5. Řešení.** S.r.o. povolení nezíská, dokud nedoloží pojištění, nepřesune skutečné sídlo do ČR a nevymění jednatele za bezúhonnou osobu. Argument „nejlehčí licence = stačí cokoli" je nesprávný — zjednodušení se týká kapitálu a obezřetnosti, nikoli integrity a pojištění. FO žadatel, který doložil pojištění i bezúhonnost a splňuje živnostenské podmínky, povolení získat může.
+
+**6. Varianty.** (a) Kdyby žadatel chtěl vedle AIS poskytovat i jiné platební služby, nestačilo by povolení AISP (§ 49 odst. 2) — nutné povolení PI dle § 9. (b) Kdyby šlo o zahraniční AISP z jiného státu EHP, působil by přes single passport (§§ 50–52). (c) Kdyby jednatel nebyl odsouzen, překážka dle písm. h) by odpadla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „AISP je nejlehčí licence, podmínky jsou minimální":* neutralizace: § 42 sice vypouští kapitál a část obezřetnostních podmínek, ale trvá na pojištění, integritě vedení a (u FO) živnostenských podmínkách.
+- *Protiargument „formální sídlo v ČR stačí":* neutralizace: § 42 odst. 1 písm. a) vyžaduje i skutečné sídlo v ČR; vedení z Kypru podmínku nesplňuje.
+- *Slabé místo:* absence testu kvalifikované účasti znamená, že integrita se hodnotí hlavně přes vedoucí osoby; skrytí skutečného vedení nebo dosazení „bílého koně" jako jednatele je riziko, které dohled obtížně odhaluje.
+
+#### H. Praktický závěr
+
+§ 42 stanoví zjednodušené (oproti § 9) podmínky povolení AISP: bez počátečního kapitálu (nahrazen pojištěním), bez testu kvalifikované účasti a ochrany prostředků, s možností být fyzickou osobou, avšak s požadavky na pojištění, integritu a způsobilost vedení a (u FO) živnostenský rámec. Zjednodušení odráží nízkorizikovost AISP, neodstraňuje však nároky na bezúhonnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má žadatel sídlo i skutečné sídlo v ČR (§ 42 odst. 1 písm. a))?
+- [ ] Je uzavřeno pojištění/zajištění (písm. c), § 46) — náhrada za absenci kapitálu?
+- [ ] Jsou vedoucí osoby důvěryhodné a způsobilé (písm. f), g))?
+- [ ] Nenastala překážka provozování živnosti a (u FO) jsou splněny všeobecné podmínky (písm. h), i))?
+- [ ] Neposkytne AISP nedovoleně i jiné platební služby (§ 49 odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** žádost a obchodní plán na 3 období, pojistná smlouva/zajištění, doklady o sídle a skutečném vedení, výpisy z rejstříku trestů a doklady o bezúhonnosti vedoucích osob, živnostenské doklady (u FO), popis ŘaKS dle § 48.
+
 ---
 
 ### § 43–52 — Procedurální pravidla AISP
@@ -1425,6 +2468,43 @@ Zjednodušení odráží **nízkorizikovost** činnosti AISP: AISP nepřijímá 
 §§ 50–52: single passport pro AISP — pobočka nebo pověřený zástupce v hostitelském státě, notifikace orgánu dohledu hostitelského státu. Procedurálně paralelní k §§ 32–37 PI, ale s redukovanými požadavky na ŘaKS (jen § 48 odst. 1 písm. b) až d) — organizační uspořádání, řízení rizik, vnitřní kontrola).
 
 > **Praktický význam zjednodušeného režimu AISP:** PSD2 chtěla **snížit překážky vstupu** pro inovativní data fintech start-upy. AISP licence je proto nejlevnější a nejrychlejší licence v ekosystému platebních služeb. Typičtí čeští AISP: Twisto (před transformací na PI), Tatum (PFM analytics), různé skupiny pro úvěrový scoring. Evropští AISP (Tink, TrueLayer, Yapily) působí v ČR přes single passport.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Český AISP s povolením ČNB chce rozšířit činnost do Rakouska a Polska prostřednictvím pobočky a pověřeného zástupce. Domnívá se, že jelikož „nemanipuluje s penězi", nemusí nic oznamovat a může v zahraničí začít okamžitě. Současně přestane ČNB poskytovat reporting a po roce skartuje dokumentaci o klientech. V Rakousku navíc začne vedle informování o účtu iniciovat platby jménem klientů.
+
+**2. Právní otázka.** Jaká procedurální pravidla platí pro AISP — řízení o povolení, provozní povinnosti (pojištění, ŘaKS, reporting, archivace), zákaz jiných platebních služeb a single passport — a v čem jsou redukována oproti platební instituci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* §§ 43–45 (řízení o povolení, oznamování změn, zánik — paralela k §§ 10–12 s redukcí), §§ 46–49 (pojištění, obezřetnost, ŘaKS, reporting/archivace, zákaz jiných platebních služeb), §§ 50–52 (single passport AISP).
+- *Související ustanovení téhož zákona:* § 41 (definice), § 42 (podmínky), § 49 odst. 2 (zákaz jiných platebních služeb), §§ 32–37 (passport PI — pro srovnání), § 20 vs. § 48 (ŘaKS).
+- *Související předpisy:* PSD2 čl. 33 (zjednodušený režim AISP), čl. 28 (passport); nařízení (EU) 2017/2055; zákon č. 253/2008 Sb., AML (archivace).
+- *Judikatura:* nosný princip vzájemného uznávání (passport) a princip, že zjednodušení AISP nezbavuje provozních a notifikačních povinností.
+
+**4. Subsumpce.** Single passport AISP (§§ 50–52) vyžaduje **notifikaci** hostitelského orgánu — nikoli okamžité zahájení; tvrzení „nic neoznamuji" je nesprávné. Reporting a archivace (§ 49) jsou povinné i pro AISP; skartace po roce porušuje archivační minimum. Iniciace plateb v Rakousku porušuje **zákaz jiných platebních služeb** (§ 49 odst. 2) — AISP smí jen informovat o účtu. ŘaKS AISP je sice redukovaný (§ 48), ale existuje.
+
+**5. Řešení.** AISP musí pro expanzi projít notifikačním procesem (§§ 50–52 — obdoba §§ 32–37, ale bez kapitálových požadavků v hostitelském státě a s redukovaným ŘaKS dle § 48 odst. 1 písm. b)–d)). Musí pokračovat v reportingu a dodržovat archivační lhůty. Iniciaci plateb musí ukončit, nebo si pro PIS opatřit povolení PI (§ 7). Za porušení hrozí sankce ČNB i hostitelského orgánu.
+
+**6. Varianty.** (a) Při přeshraničním poskytování bez pobočky (FoS) by stačilo oznámení a notifikace s ještě užšími požadavky. (b) Kdyby AISP chtěl legálně iniciovat platby, potřeboval by povolení PI pro PIS (zákaz § 49 odst. 2 by se na rozšířený rozsah nevztahoval). (c) Zahraniční AISP by v ČR působil zrcadlově přes svůj domovský passport.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „AISP nemanipuluje s penězi, tedy bez povinností":* neutralizace: zjednodušení se týká kapitálu a ochrany prostředků; notifikace passportu, reporting, archivace, pojištění a ŘaKS (redukovaný) zůstávají povinné.
+- *Protiargument „mohu rozšířit činnost o platby, mám už licenci":* neutralizace: § 49 odst. 2 zakazuje AISP jiné platební služby; PIS vyžaduje samostatné povolení PI.
+- *Slabé místo:* paralelní, ale redukovaná úprava (odkazy na obdobné použití pravidel PI) je výkladově náročná; AISP snadno přehlédne, které povinnosti PI se na něj vztahují a které nikoli, což vede k chybám v compliance i při passportu.
+
+#### H. Praktický závěr
+
+§§ 43–52 tvoří procedurální a provozní rámec AISP — paralelní k pravidlům PI, avšak redukovaný: zjednodušené řízení o povolení, povinné pojištění místo kapitálu, redukovaný ŘaKS (§ 48), reporting a archivace, zákaz jiných platebních služeb (§ 49 odst. 2) a zjednodušený single passport (§§ 50–52) bez kapitálových požadavků v hostitelském státě. Zjednodušení snižuje překážky vstupu, ale neodstraňuje notifikační a provozní povinnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má AISP povolení ČNB a pojištění dle § 46 (místo kapitálu)?
+- [ ] Provozuje redukovaný, ale funkční ŘaKS dle § 48?
+- [ ] Plní reporting a archivační povinnosti (§ 49, vč. delších lhůt AML)?
+- [ ] Neposkytuje jiné platební služby než AIS (§ 49 odst. 2)?
+- [ ] Při expanzi do EHP: proběhla notifikace hostitelského orgánu (§§ 50–52) před zahájením činnosti?
+
+**Typicky rozhodné důkazy / podklady:** povolení AISP a jeho rozsah, pojistná smlouva, dokumentace ŘaKS dle § 48, reportingové výkazy a archivační evidence, notifikace passportu a stanoviska hostitelských orgánů, doklady o rozsahu poskytovaných služeb (jen AIS vs. i PIS).
 
 ---
 
