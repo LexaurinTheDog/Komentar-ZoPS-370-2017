@@ -20,3 +20,7 @@
 
 ## Vazby
 ČNB, finanční arbitr (z. 229/2002), [SÚ 257/2016](/home/vojtech/Komentar-SU-257-2016/), MiCA 2023/1114, DORA 2022/2554.
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
