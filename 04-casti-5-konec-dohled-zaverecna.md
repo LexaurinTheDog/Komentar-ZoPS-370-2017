@@ -1299,6 +1299,62 @@ Transpozice **kapitoly V PSD2** (čl. 95–98) — incidenty, autentizace, otev�
 
 **Typicky rozhodné důkazy / podklady:** logy a klasifikace incidentu, datum a forma oznámení ČNB, doklad o informování uživatelů, interní postupy řízení incidentů.
 
+
+<!-- LEGAL-REVISION:BEGIN id=19ba0bdd57ad3acc1c09 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 221 — Hlášení bezpečnostních a provozních incidentů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Osoba oprávněná poskytovat platební služby oznámí orgánu dohledu domovského členského státu závažný bezpečnostní nebo provozní incident v oblasti platebního styku bez zbytečného odkladu po jeho zjištění.
+>
+> (2) Osoba oprávněná poskytovat platební služby informuje uživatele o výskytu závažného bezpečnostního nebo provozního incidentu v oblasti platebního styku, může-li v jeho důsledku vzniknout újma na jmění uživatele. Zároveň informuje uživatele, jakým způsobem může zakročit k odvrácení újmy.
+>
+> (3) Osoba oprávněná poskytovat platební služby informuje uživatele, pominou-li důvody pro opatření podle odstavce 2.
+>
+> (4) Česká národní banka informuje bez zbytečného odkladu Evropský orgán pro bankovnictví a Evropskou centrální banku o skutečnostech obsažených v oznámení podle odstavce 1. Česká národní banka využije informace, které obdržela v oznámení podle odstavce 1, k výkonu dohledu.
+>
+> (5) Oznámení podle odstavce 1 lze podat pouze elektronicky. Podrobnosti náležitostí oznámení, jeho formáty, další technické náležitosti a způsob předání stanoví prováděcí právní předpis.
+>
+> (6) Odstavce 1 až 3 se použijí pouze na osoby podle § 5 písm. l).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=19ba0bdd57ad3acc1c09 -->
+
 ### § 222 — Hlášení rizik a podvodných jednání (DORA)
 
 > **§ 222**
@@ -1352,6 +1408,60 @@ Transpozice **kapitoly V PSD2** (čl. 95–98) — incidenty, autentizace, otev�
 - [ ] Je vztah k povinnostem DORA ošetřen (souběh, nikoli náhrada)?
 
 **Typicky rozhodné důkazy / podklady:** interní fraud statistiky a rizikové analýzy, datum a obsah hlášení ČNB, prováděcí vyhláška, dokumentace ICT risk-frameworku.
+
+
+<!-- LEGAL-REVISION:BEGIN id=7f937830b384c7720f43 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 222 — Hlášení bezpečnostních a provozních rizik a podvodných jednání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Osoba oprávněná poskytovat platební služby informuje
+>
+> - a) orgán dohledu domovského členského státu o bezpečnostních a provozních rizicích, kterým je v souvislosti s poskytováním platebních služeb vystavena, a o opatřeních ke zmírnění těchto rizik, včetně kontrolních mechanismů zavedených v návaznosti na tato rizika, a
+>
+> - b) Českou národní banku o podvodných jednáních, která v oblasti platebního styku zaznamenala při poskytování platebních služeb v České republice.
+>
+> (2) Česká národní banka informuje Evropský orgán pro bankovnictví a Evropskou centrální banku v souhrnné podobě o podvodných jednáních v oblasti platebního styku, o kterých ji osoby oprávněné poskytovat platební služby v souladu s odstavcem 1 informovaly.
+>
+> (3) Rozsah, formu, lhůty a způsob poskytování informací České národní bance podle odstavce 1 stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7f937830b384c7720f43 -->
 
 ### Silné ověření uživatele (SCA)
 
@@ -1432,6 +1542,76 @@ Transpozice **kapitoly V PSD2** (čl. 95–98) — incidenty, autentizace, otev�
 
 **Typicky rozhodné důkazy / podklady:** log autentizace (počet/typ prvků, časové značky), obsah potvrzovací obrazovky/notifikace, dokumentace SCA flow a secure enclave, evidence o uplatnění výjimky a fraud-rate (TRA).
 
+
+<!-- LEGAL-REVISION:BEGIN id=49a2674240ea9aae30b4 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 223
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Osoba oprávněná poskytovat platební služby použije silné ověření uživatele, jestliže plátce
+>
+> - a) přistupuje ke svému platebnímu účtu prostřednictvím internetu,
+>
+> - b) dává platební příkaz k elektronické platební transakci,
+>
+> - c) provádí jiný úkon, který je spojen s rizikem podvodného jednání v oblasti platebního styku, zneužitím platebního prostředku nebo informací o platebním účtu, nebo
+>
+> - d) požaduje informace o platebním účtu prostřednictvím poskytovatele služby informování o platebním účtu.
+>
+> (2) Dává-li uživatel platební příkaz prostřednictvím internetu nebo prostřednictvím elektronického zařízení, které lze použít k dálkové komunikaci, nebo dává-li platební příkaz nepřímo, osoba oprávněná poskytovat platební služby použije silné ověření uživatele, které zahrnuje jednorázové prvky propojující platební transakci s přesnou částkou a určitým příjemcem.
+>
+> (3) Silným ověřením uživatele se pro účely tohoto zákona rozumí ověření, které je založeno na použití alespoň 2 z těchto prvků:
+>
+> - a) údaje, který je znám pouze uživateli,
+>
+> - b) věci, kterou má uživatel ve své moci,
+>
+> - c) biometrických údajů uživatele.
+>
+> (4) Prvky podle odstavce 3 musí být vzájemně nezávislé a prolomení jednoho prvku nesmí ovlivnit spolehlivost prvků ostatních. Postup ověření musí zabránit zneužití prvků, které jsou k ověření používány.
+>
+> (5) Způsob silného ověření uživatele podle odstavců 1 a [[#§ 2|2]] stanoví přímo použitelný předpis Evropské unie, kterým se provádí čl. 98 směrnice Evropského parlamentu a Rady (EU) [[2015/2366|2015/2366]]13).
+>
+> (6) Ustanovení odstavců 1 a [[#§ 2|2]] se nepoužijí v případech, které stanoví přímo použitelný předpis Evropské unie, kterým se provádí čl. 98 směrnice Evropského parlamentu a Rady (EU) [[2015/2366|2015/2366]]13).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- akt EU 2015/2366 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49a2674240ea9aae30b4 -->
+
 ### § 224 — Spoléhání PISP / AISP na ověření banky
 
 > **§ 224** *Osoba oprávněná poskytovat platební služby, která vede uživateli platební účet, umožní tomu, kdo je oprávněn poskytovat službu nepřímého dání platebního příkazu nebo službu informování o platebním účtu, spoléhat na postupy, které v souladu s § 223 odst. 1 až 3 zavedla.*
@@ -1473,6 +1653,52 @@ Transpozice **kapitoly V PSD2** (čl. 95–98) — incidenty, autentizace, otev�
 - [ ] Je přístup v souladu s RTS 2018/389 (dedikované rozhraní)?
 
 **Typicky rozhodné důkazy / podklady:** technická dokumentace přístupového toku a API, doklad o (ne)ukládání credentials u AISP, logy ověření, smluvní a bezpečnostní dokumentace.
+
+
+<!-- LEGAL-REVISION:BEGIN id=1e67d406f448a68ba2cf generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 224
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> Osoba oprávněná poskytovat platební služby, která vede uživateli platební účet, umožní tomu, kdo je oprávněn poskytovat službu nepřímého dání platebního příkazu nebo službu informování o platebním účtu, spoléhat na postupy, které v souladu s § 223 odst. 1 až 3 zavedla.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 223
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1e67d406f448a68ba2cf -->
 
 ### § 225 — Vztah k některým přímo použitelným předpisům EU
 
@@ -1517,6 +1743,54 @@ Transpozice **kapitoly V PSD2** (čl. 95–98) — incidenty, autentizace, otev�
 **Typicky rozhodné důkazy / podklady:** technická dokumentace a metriky rozhraní (dostupnost/výkonnost), doklad o dedikovaném API/fallbacku, mapování povinností DORA, korespondence s ČNB a třetími stranami.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8a930f3d6ed212b7abeb generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 225 — Vztah k některým přímo použitelným předpisům Evropské unie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Osoba oprávněná poskytovat platební služby při poskytování platebních služeb komunikuje s uživateli a osobami oprávněnými poskytovat platební služby podle požadavků upravených přímo použitelným předpisem Evropské unie, kterým se doplňuje směrnice Evropského parlamentu a Rady (EU) 2015/2366 a upravují se společné a bezpečné otevřené standardy komunikace8).
+>
+> (2) Informační povinností podle [[#§ 222|§ 222]] nejsou dotčeny povinnosti podle kapitoly II nařízení Evropského parlamentu a Rady (EU) 2022/255418), které mají osoby podle § 5 písm. a) až k).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 222, § 5
+
+##### Souvisící předpisy
+
+- akt EU 2015/2366 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8a930f3d6ed212b7abeb -->
 
 ## ČÁST SEDMÁ — Přestupky (§§ 226–236)
 
@@ -1613,6 +1887,98 @@ Veřejnoprávní sankční rámec ZoPS. Postavený na obecné úpravě **zákona
 
 **Typicky rozhodné důkazy / podklady:** výpisy sběrných účtů a evidence safeguardingu, audit ŘKS, doklady o kapitálu a pojištění, žádosti o výplatu a reakce instituce, oznámení ČNB.
 
+
+<!-- LEGAL-REVISION:BEGIN id=4014b2aea77a672040b0 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 226 — Přestupky platební instituce a poskytovatele platebních služeb malého rozsahu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Platební instituce se dopustí přestupku tím, že
+>
+> - a) v rozporu s § 13 odst. 1 nevydá peněžní prostředky uživatelům,
+>
+> - b) nedodrží některý z požadavků na kapitál podle [[#§ 16|§ 16]],
+>
+> - c) nemá uzavřenu pojistnou smlouvu nebo zajištěno srovnatelné zajištění v souladu s [[#§ 17|§ 17]],
+>
+> - d) neuplatňuje řídicí a kontrolní systém v souladu s [[#§ 20|§ 20]],
+>
+> - e) poskytuje platební služby prostřednictvím pověřeného zástupce v rozporu s § 25 odst. 1,
+>
+> - f) svěří výkon významné provozní činnosti vztahující se k poskytování platebních služeb jiné osobě v rozporu s § 29 odst. 2, nebo
+>
+> - g) nesplní oznamovací povinnost podle § 11 odst. 1, § 28 odst. 1, § 29 odst. 1, § 34 odst. 1, [[#§ 37|§ 37]] nebo § 38 odst. 1.
+>
+> (2) Poskytovatel platebních služeb malého rozsahu se dopustí přestupku tím, že
+>
+> - a) neuplatňuje systém řízení bezpečnostních a provozních rizik podle § 59 odst. 1 písm. d),
+>
+> - b) neoznámí změnu údajů podle § 61 odst. 1,
+>
+> - c) v rozporu s § 63 odst. 1 nevydá peněžní prostředky uživatelům,
+>
+> - d) v rozporu s § 65 odst. 1 větou druhou nedodrží některý z požadavků týkajících se kapitálu podle [[zákona upravujícího spotřebitelský úvěr|zákona upravujícího spotřebitelský úvěr]],
+>
+> - e) v rozporu s § 65 odst. 2 poskytne uživateli úrok nebo jinou výhodu závislou na délce doby, po kterou mu jsou peněžní prostředky svěřeny k provedení platební transakce, nebo
+>
+> - f) neuplatňuje systém vyřizování stížností a reklamací uživatelů podle § 65a odst. 1.
+>
+> (3) Platební instituce nebo poskytovatel platebních služeb malého rozsahu se dopustí přestupku tím, že
+>
+> - a) nenakládá s peněžními prostředky v souladu s [[#§ 22|§ 22]],
+>
+> - b) nesplní informační povinnost podle [[#§ 30|§ 30]], nebo
+>
+> - c) neuchovává dokumenty nebo záznamy podle [[#§ 31|§ 31]].
+>
+> (4) Za přestupek lze uložit pokutu do
+>
+> - a) 1 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. f),
+>
+> - b) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. e) nebo g), odstavce 2 písm. a), b), d) nebo e) nebo odstavce 3 písm. b) nebo c),
+>
+> - c) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), c), d) nebo f), nebo
+>
+> - d) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), odstavce 2 písm. c) nebo odstavce 3 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13, § 16, § 17, § 20, § 25, § 29, § 11, § 28, § 34, § 37, § 38, § 59, § 61, § 63, § 65, § 65a, § 22, § 30, § 31
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4014b2aea77a672040b0 -->
+
 ### § 227 — Přestupky správce informací o platebním účtu (AISP)
 
 **Výklad:** AISP **nesmí vést peněžní prostředky uživatelů** — jeho rizikový profil je nižší. Proto **nižší sankční pásmo** (5–10 mil. Kč). Klíčové: pojištění odpovědnosti za škodu (§ 46), ŘKS (§ 48), uchovávání záznamů, oznamovací povinnosti.
@@ -1654,6 +2020,68 @@ Veřejnoprávní sankční rámec ZoPS. Postavený na obecné úpravě **zákona
 
 **Typicky rozhodné důkazy / podklady:** pojistná smlouva či doklad o srovnatelném zajištění, audit ŘKS, logy přístupů, oznámení změn ČNB, dokumentace incidentu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=57a37ef57cbb7daa9ef1 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 227 — Přestupky správce informací o platebním účtu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Správce informací o platebním účtu se dopustí přestupku tím, že
+>
+> - a) nemá uzavřenu pojistnou smlouvu nebo zajištěno srovnatelné zajištění v souladu s § 46 odst. 1,
+>
+> - b) neuplatňuje řídicí a kontrolní systém v souladu s [[#§ 48|§ 48]],
+>
+> - c) nesplní informační povinnost podle [[#§ 30|§ 30]],
+>
+> - d) neuchovává dokumenty a záznamy podle [[#§ 31|§ 31]], nebo
+>
+> - e) nesplní oznamovací povinnost podle § 44 odst. 1, § 52 odst. 1, [[#§ 54|§ 54]] nebo § 55 odst. 1.
+>
+> (2) Za přestupek lze uložit pokutu do
+>
+> - a) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) až e), nebo
+>
+> - b) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 46, § 48, § 30, § 31, § 44, § 52, § 54, § 55
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=57a37ef57cbb7daa9ef1 -->
+
 ### § 228 — Přestupky IEP a vydavatele EP malého rozsahu
 
 **Výklad:** Strukturálně analogie § 226 přenesená na **vydavatele elektronických peněz**. Sankce stejné (max. 20 mil. Kč). Specifika: **vydávání EP prostřednictvím jiné osoby** v rozporu s § 84 (klasické „distribuční" porušení — někdo prodává „dárkové platební karty" bez smluvního pověření).
@@ -1694,6 +2122,102 @@ Veřejnoprávní sankční rámec ZoPS. Postavený na obecné úpravě **zákona
 - [ ] Které pásmo pokuty na skutek dopadá?
 
 **Typicky rozhodné důkazy / podklady:** smlouvy s distributory a evidence distribučních míst, doklady o ochraně přijatých prostředků, reklamace držitelů, oznámení ČNB.
+
+
+<!-- LEGAL-REVISION:BEGIN id=57f4117de285a7377c31 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 228 — Přestupky instituce elektronických peněz a vydavatele elektronických peněz malého rozsahu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Instituce elektronických peněz se dopustí přestupku tím, že
+>
+> - a) v rozporu s § 72 odst. 1 nevydá peněžní prostředky držitelům nebo uživatelům,
+>
+> - b) nedodrží některý z požadavků na kapitál podle [[#§ 74|§ 74]],
+>
+> - c) nemá uzavřenu pojistnou smlouvu nebo zajištěno srovnatelné zajištění v souladu s [[#§ 75|§ 75]],
+>
+> - d) neuplatňuje řídicí a kontrolní systém v souladu s [[#§ 78|§ 78]],
+>
+> - e) v rozporu s § 84 odst. 1 vydává elektronické peníze prostřednictvím jiné osoby, která při vydávání elektronických peněz jedná jejím jménem,
+>
+> - f) poskytuje platební služby prostřednictvím pověřeného zástupce v rozporu s § 84 odst. 2,
+>
+> - g) svěří výkon významné provozní činnosti vztahující se k vydávání elektronických peněz nebo k poskytování platebních služeb jiné osobě v rozporu s § 88 odst. 2, nebo
+>
+> - h) nesplní oznamovací povinnost podle § 70 odst. 1, § 87 odst. 1, § 88 odst. 1, § 93 odst. 1, [[#§ 95|§ 95]] nebo § 96 odst. 1.
+>
+> (2) Vydavatel elektronických peněz malého rozsahu se dopustí přestupku tím, že
+>
+> - a) neuplatňuje systém řízení bezpečnostních a provozních rizik podle § 100 odst. 1 písm. d),
+>
+> - b) neoznámí změnu údajů podle § 102 odst. 1,
+>
+> - c) v rozporu s § 104 odst. 1 nevydá peněžní prostředky držitelům nebo uživatelům,
+>
+> - d) v rozporu s § 106 odst. 1 větou druhou nedodrží některý z požadavků týkajících se kapitálu podle [[zákona upravujícího spotřebitelský úvěr|zákona upravujícího spotřebitelský úvěr]],
+>
+> - e) v rozporu s § 106 odst. 2 poskytne uživateli úrok nebo jinou výhodu závislou na délce doby, po kterou mu jsou peněžní prostředky svěřeny k provedení platební transakce,
+>
+> - f) v rozporu s § 106 odst. 3 vydává elektronické peníze prostřednictvím jiné osoby, která při vydávání elektronických peněz jedná jeho jménem, nebo
+>
+> - g) neuplatňuje systém vyřizování stížností a reklamací uživatelů podle § 106a odst. 1.
+>
+> (3) Instituce elektronických peněz nebo vydavatel elektronických peněz malého rozsahu se dopustí přestupku tím, že
+>
+> - a) nenakládá s peněžními prostředky v souladu s [[#§ 80|§ 80]],
+>
+> - b) nesplní informační povinnost podle [[#§ 89|§ 89]], nebo
+>
+> - c) neuchovává dokumenty nebo záznamy podle [[#§ 90|§ 90]].
+>
+> (4) Za přestupek lze uložit pokutu do
+>
+> - a) 1 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. g),
+>
+> - b) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. f) nebo h), odstavce 2 písm. a), b), d) nebo e), nebo odstavce 3 písm. b) nebo c),
+>
+> - c) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) až e) nebo g) nebo odstavce 2 písm. f), nebo
+>
+> - d) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), odstavce 2 písm. c) nebo odstavce 3 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 72, § 74, § 75, § 78, § 84, § 88, § 70, § 87, § 93, § 95, § 96, § 100, § 102, § 104, § 106, § 106a, § 80, § 89, § 90
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=57f4117de285a7377c31 -->
 
 ### § 229 — Přestupky provozovatele a účastníka platebního systému
 
@@ -1742,6 +2266,54 @@ Veřejnoprávní sankční rámec ZoPS. Postavený na obecné úpravě **zákona
 
 **Typicky rozhodné důkazy / podklady:** pravidla a podmínky přístupu k systému, korespondence o odmítnutí PI, podmínky uložené účastníkům, analýza rizik a přiměřenosti, podání u ČNB/ÚOHS.
 
+
+<!-- LEGAL-REVISION:BEGIN id=4f45a240a3c13a642cd4 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 229 — Přestupky provozovatele a účastníka platebního systému
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel nebo účastník platebního systému se dopustí přestupku tím, že váže přístup právnických osob oprávněných poskytovat platební služby na splnění některého z požadavků uvedených v § 107 odst. 1 písm. a) nebo b) nebo uloží poskytovateli anebo účastníkovi jiného platebního systému, než je platební systém, který sám provozuje nebo kterého se účastní, některý z požadavků uvedených v § 107 odst. 2 písm. a), b) nebo c).
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 20 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 107
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4f45a240a3c13a642cd4 -->
+
 ### § 230 — Přestupky platebního systému s neodvolatelností zúčtování (SFD)
 
 **Výklad:** Provozovatel SFD-systému (typicky **CERTIS** ČNB nebo **CLS**) a jeho účastníci. Sankce odstupňované: 5 / 10 / 20 mil. Kč podle závažnosti — nejtvrdší trestá změnu pravidel systému bez souhlasu ČNB (§ 114 odst. 1) — jde o **systémovou integritu**.
@@ -1782,6 +2354,84 @@ Veřejnoprávní sankční rámec ZoPS. Postavený na obecné úpravě **zákona
 - [ ] Které pásmo pokuty na skutek dopadá?
 
 **Typicky rozhodné důkazy / podklady:** znění a datum změny pravidel, doklad o souhlasu ČNB, seznam a změny účastníků, dokumentace dopadu na finalitu zúčtování.
+
+
+<!-- LEGAL-REVISION:BEGIN id=dfa4e9808f08d559b4aa generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 230 — Přestupky provozovatele a účastníka platebního systému s neodvolatelností zúčtování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Provozovatel platebního systému s neodvolatelností zúčtování se dopustí přestupku tím, že
+>
+> - a) v rozporu s § 114 odst. 1 uveřejní změnu pravidel systému bez souhlasu České národní banky,
+>
+> - b) neoznámí změnu údajů podle § 119 odst. 3, nebo
+>
+> - c) nesplní informační povinnost podle § 122 odst. 1 nebo 4.
+>
+> (2) Provozovatel platebního systému s neodvolatelností zúčtování se sídlem v České republice se dopustí přestupku tím, že
+>
+> - a) provozuje platební systém s neodvolatelností zúčtování v rozporu s § 117 odst. 2,
+>
+> - b) nesplní oznamovací povinnost podle [[#§ 121|§ 121]], nebo
+>
+> - c) nesplní informační povinnost podle § 122 odst. 3.
+>
+> (3) Účastník platebního systému s neodvolatelností zúčtování se dopustí přestupku tím, že
+>
+> - a) neuzavře smlouvu o předávání platebních příkazů prostřednictvím systému s neodvolatelností zúčtování v souladu s § 109 odst. 1,
+>
+> - b) nesdělí důvody odmítnutí uzavření smlouvy podle § 109 odst. 2, nebo
+>
+> - c) poruší informační povinnost podle § 122 odst. 2 nebo [[#§ 123|§ 123]].
+>
+> (4) Účastník zahraničního platebního systému s neodvolatelností zúčtování, který má sídlo v České republice, se dopustí přestupku tím, že poruší informační povinnost podle [[#§ 124|§ 124]].
+>
+> (5) Za přestupek lze uložit pokutu do
+>
+> - a) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo c), odstavce 2 písm. b) nebo c), odstavce 3 písm. b) nebo c), nebo odstavce 4,
+>
+> - b) 10 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. a) nebo odstavce 3 písm. a), nebo
+>
+> - c) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 114, § 119, § 122, § 117, § 121, § 109, § 123, § 124
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dfa4e9808f08d559b4aa -->
 
 ### § 231 — Přestupky poskytovatele
 
@@ -1882,6 +2532,106 @@ Veřejnoprávní sankční rámec ZoPS. Postavený na obecné úpravě **zákona
 
 **Typicky rozhodné důkazy / podklady:** logy a důvody blokace, časové značky zúčtování, výpisy s vyčíslením srážek a poplatků, evidence reklamace a datum odpovědi, smluvní podmínky.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e96cba4945e166b0f994 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 231 — Přestupky poskytovatele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel se dopustí přestupku tím, že
+>
+> - a) nesplní informační povinnosti podle [[#§ 132|§ 132]], [[#§ 133|133]], [[#§ 140|140]], [[#§ 141|141]], [[#§ 144|144]], [[#§ 149|§ 149]], [[#§ 150|150]], [[#§ 151|151]], § 152 odst. 2, § 159 odst. 2, [[#§ 198|§ 198]], [[#§ 199|199]], [[#§ 200|200]], [[#§ 201|201]], [[#§ 207|207]], § 210 odst. 6, § 215 odst. 6, [[#§ 216|§ 216]] nebo [[#§ 218|218]],
+>
+> - b) poruší povinnosti týkající se změny závazku z rámcové smlouvy podle § 152 odst. 1 nebo [[#§ 5|5]],
+>
+> - c) blokuje platební prostředky v rozporu s [[#§ 164|§ 164]],
+>
+> - d) nedodrží lhůty pro provádění platebních transakcí podle § 169 až 173,
+>
+> - e) v rozporu s § 175 odst. 2 nedá peněžní prostředky k dispozici příjemci,
+>
+> - f) nepoužije jednotné označení podle § 197 odst. 1,
+>
+> - g) poruší povinnosti týkající se změny platebního účtu podle [[#§ 203|§ 203]], [[#§ 204|204]] nebo [[#§ 205|205]],
+>
+> - h) požaduje úplatu za změnu platebního účtu v rozporu s [[#§ 206|§ 206]],
+>
+> - i) neposkytne součinnost při změně platebního účtu podle [[#§ 209|§ 209]],
+>
+> - j) poruší povinnost předložit spotřebiteli návrh smluvních podmínek nebo uzavřít se spotřebitelem smlouvu o základním platebním účtu podle § 210 odst. 1 nebo [[#§ 2|2]],
+>
+> - k) v rozporu s [[#§ 211|§ 211]] váže uzavření smlouvy o základním platebním účtu úplatným čerpáním služby, která není uvedena v § 212 odst. 1,
+>
+> - l) požaduje úplatu za služby poskytované v rámci základního platebního účtu v rozporu s [[#§ 213|§ 213]],
+>
+> - m) požaduje smluvní pokutu v rozporu s [[#§ 214|§ 214]],
+>
+> - n) v rozporu s [[#§ 219|§ 219]] diskriminuje uživatele při uzavírání smlouvy o platebním účtu,
+>
+> - o) neposkytne uživateli v rozporu s [[#§ 258|§ 258]] odpověď na jeho stížnost nebo reklamaci,
+>
+> - p) poruší povinnost nebo zákaz týkající se služby nepřímého dání platebního příkazu podle [[#§ 161|§ 161]] nebo [[#§ 162|162]],
+>
+> - q) poruší povinnost nebo zákaz týkající se potvrzení o zůstatku peněžních prostředků podle [[#§ 178|§ 178]] nebo [[#§ 179|179]], nebo
+>
+> - r) poruší povinnost nebo zákaz týkající se služby informování o platebním účtu podle [[#§ 191|§ 191]] nebo [[#§ 192|192]].
+>
+> (2) Poskytovatel plátce se dopustí přestupku tím, že porušuje informační povinnosti podle § 142 odst. 1, [[#§ 145|§ 145]] nebo [[#§ 146|146]].
+>
+> (3) Poskytovatel příjemce se dopustí přestupku tím, že porušuje informační povinnosti podle § 143 odst. 1 nebo [[#§ 147|§ 147]].
+>
+> (4) Poskytovatel, který vydává platební prostředek, se dopustí přestupku tím, že porušuje povinnosti podle § 166 odst. 1.
+>
+> (5) Poskytovatel plátce, poskytovatel příjemce nebo osoba, kterou tito poskytovatelé použili ke splnění svých povinností při provedení platební transakce, se dopustí přestupku tím, že v rozporu s § 177 odst. 1 provádí srážky z částky platební transakce.
+>
+> (6) Za přestupek lze uložit pokutu do
+>
+> - a) 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. o),
+>
+> - b) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), f) nebo i), odstavce 2 nebo [[#§ 3|3]],
+>
+> - c) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), g), h), j) až n) nebo p) až r), nebo
+>
+> - d) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) až e), odstavce 4 nebo [[#§ 5|5.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 132, § 133, § 140, § 141, § 144, § 149, § 150, § 151, § 152, § 159, § 198, § 199, § 200, § 201, § 207, § 210, § 215, § 216, § 218, § 5, § 164, § 169, § 175, § 197, § 203, § 204, § 205, § 206, § 209, § 2, § 211, § 212, § 213, § 214, § 219, § 258, § 161, § 162, § 178, § 179, § 191, § 192, § 142, § 145, § 146, § 143, § 147, § 166, § 177, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e96cba4945e166b0f994 -->
+
 ### § 232 — Přestupky vydavatele EP
 
 **Výklad:** Skutkové podstaty proti vydavateli elektronických peněz mimo IEP — vydávání EP v rozporu s § 193 odst. 2 (mimo rámec povolení), úročení EP (§ 193 odst. 3), zpětná výměna (§ 194 odst. 2–3). Sankce **max. 1 mil. Kč**.
@@ -1921,6 +2671,62 @@ Veřejnoprávní sankční rámec ZoPS. Postavený na obecné úpravě **zákona
 - [ ] Je případný poplatek za redemption v souladu s § 194?
 
 **Typicky rozhodné důkazy / podklady:** produktové podmínky EP (úročení), žádost o zpětnou výměnu a její vyřízení, vyčíslení poplatků, rozsah povolení vydavatele.
+
+
+<!-- LEGAL-REVISION:BEGIN id=103aa1bf06109cc6560b generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 232 — Přestupky vydavatele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Vydavatel se dopustí přestupku tím, že
+>
+> - a) vydává elektronické peníze v rozporu s § 193 odst. 2,
+>
+> - b) poskytne držiteli úroky nebo jiné výhody v rozporu s § 193 odst. 3,
+>
+> - c) neprovede zpětnou výměnu podle § 194 odst. 2 nebo [[#§ 3|3]], nebo
+>
+> - d) poruší informační povinnost podle § 195 odst. 1.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 1 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 193, § 194, § 3, § 195
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=103aa1bf06109cc6560b -->
 
 ### § 233 — Přestupky osoby oprávněné poskytovat platební služby
 
@@ -1963,6 +2769,60 @@ Veřejnoprávní sankční rámec ZoPS. Postavený na obecné úpravě **zákona
 
 **Typicky rozhodné důkazy / podklady:** dokumentace incidentu a jeho oznámení, dokumentace rozhraní a jeho souladu s CSC/RTS, mapování vůči speciálním přestupkům a DORA.
 
+
+<!-- LEGAL-REVISION:BEGIN id=a4aa9936f2fd8caebf3a generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 233 — Přestupky osoby oprávněné poskytovat platební služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Osoba oprávněná poskytovat platební služby se dopustí přestupku tím, že
+>
+> - a) nesplní oznamovací povinnost podle § 221 odst. 1,
+>
+> - b) poruší informační povinnost podle § 221 odst. 2 nebo [[#§ 3|3]] nebo § 222 odst. 1, nebo
+>
+> - c) nekomunikuje s uživateli nebo osobami oprávněnými poskytovat platební služby podle [[#§ 225|§ 225]].
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 1 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 221, § 3, § 222, § 225
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a4aa9936f2fd8caebf3a -->
+
 ### § 233a — Přestupky poskytovatele služby dynamické směny měn
 
 **Výklad:** Nové ustanovení od novely 2022 — sankcionuje porušení režimu **DCC — Dynamic Currency Conversion** poskytovatelů (bankomaty s nabídkou směny při výběru). Pokuta max. **5 mil. Kč**.
@@ -2002,6 +2862,62 @@ Veřejnoprávní sankční rámec ZoPS. Postavený na obecné úpravě **zákona
 - [ ] Má poskytovatel k DCC oprávnění (jinak § 234 odst. 1 písm. e))?
 
 **Typicky rozhodné důkazy / podklady:** obrazovky a sled kroků bankomatu, použitý kurz vs. referenční kurz, doklad o transakci, vzorové informační hlášky o DCC.
+
+
+<!-- LEGAL-REVISION:BEGIN id=8f12c49ce97947f547cc generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 233a — Přestupky poskytovatele služby dynamické směny měn
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel služby dynamické směny měn se dopustí přestupku tím, že
+>
+> - a) neuchovává dokumenty nebo záznamy podle [[#§ 31|§ 31]],
+>
+> - b) neoznámí změnu údajů podle § 254f odst. 1,
+>
+> - c) neuplatňuje systém vyřizování stížností a reklamací uživatelů podle § 254h odst. 1, nebo
+>
+> - d) nesplní informační povinnost podle § 254h odst. 3.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 5 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 31, § 254f, § 254h
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8f12c49ce97947f547cc -->
 
 ### Další přestupky
 
@@ -2096,6 +3012,98 @@ Veřejnoprávní sankční rámec ZoPS. Postavený na obecné úpravě **zákona
 
 **Typicky rozhodné důkazy / podklady:** marketing a smlouvy se zákazníky, doklad o (ne)existenci povolení/zápisu, výzva ČNB a reakce, žádost o účet a odmítnutí banky, dokumentace srovnávací stránky.
 
+
+<!-- LEGAL-REVISION:BEGIN id=d4c2dc281fcd407edb5e generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 234
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Přestupku se dopustí ten, kdo
+>
+> - a) poskytuje platební služby nebo vydává elektronické peníze, aniž je k tomu oprávněn,
+>
+> - b) uvede nesprávný údaj nebo zatají některou skutečnost v žádosti o povolení podle tohoto zákona,
+>
+> - c) nesplní oznamovací povinnost podle [[#§ 18|§ 18]] nebo [[#§ 76|76]],
+>
+> - d) neposkytne České národní bance požadované informace nebo vysvětlení podle § 237 odst. 3, nebo
+>
+> - e) poskytuje službu směny měn, která je před zahájením platební transakce nabízena plátci prostřednictvím bankomatu, aniž je k tomu oprávněn.
+>
+> (2) Osoba podléhající dohledu České národní banky se dopustí přestupku tím, že
+>
+> - a) neposkytne České národní bance při výkonu dohledu potřebné informace nebo požadovaná vysvětlení podle § 237 odst. 3,
+>
+> - b) neprovede ve stanovené lhůtě některé z opatření k nápravě podle § 242 odst. 1, nebo
+>
+> - c) nesplní informační povinnost podle § 242 odst. 2.
+>
+> (3) Provozovatel srovnávacích stránek se dopustí přestupku tím, že
+>
+> - a) nezajistí splnění požadavků kladených na srovnávací stránky podle § 202 odst. 1,
+>
+> - b) nezavede postupy k přijímání podnětů podle § 202 odst. 2, nebo
+>
+> - c) nesplní oznamovací povinnost podle § 202 odst. 3.
+>
+> (4) Příjemce se dopustí přestupku tím, že požaduje úplatu za použití platebního prostředku v rozporu s § 254 odst. 2 písm. a).
+>
+> (5) Banka, zahraniční banka vykonávající činnost na území České republiky prostřednictvím pobočky nebo spořitelní a úvěrní družstvo se dopustí přestupku tím, že
+>
+> - a) v rozporu s § 255 odst. 1 nebo 5 neuzavře smlouvu o platebním účtu, vypoví závazek ze smlouvy o platebním účtu nebo od této smlouvy odstoupí, nebo
+>
+> - b) nesplní oznamovací povinnost podle § 255 odst. 4.
+>
+> (6) Za přestupek lze uložit pokutu do
+>
+> - a) 300 000 Kč, jde-li o přestupek podle odstavce 3,
+>
+> - b) 500 000 Kč, jde-li o přestupek podle odstavce 4,
+>
+> - c) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) nebo d), odstavce 2 písm. c) nebo odstavce 5 písm. b),
+>
+> - d) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo e), odstavce 2 písm. a) nebo b) nebo odstavce 5 písm. a), nebo
+>
+> - e) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18, § 76, § 237, § 242, § 202, § 254, § 255
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d4c2dc281fcd407edb5e -->
+
 ### § 235 — Přestupky podle přímo použitelných předpisů EU (MIF, SEPA, Cross-border, ICS)
 
 **Výklad:** Sankce za porušení **nařízení EU 2015/751** (MIF — interchange cap), **2021/1230** (cross-border charges) a **260/2012** (SEPA — staré články). Sankce **200 tis. – 5 mil. Kč** podle skutkové podstaty.
@@ -2136,6 +3144,89 @@ Veřejnoprávní sankční rámec ZoPS. Postavený na obecné úpravě **zákona
 - [ ] Který orgán skutek projednává (ČNB/ČOI dle § 236)?
 
 **Typicky rozhodné důkazy / podklady:** smluvní sazebníky interchange, vyúčtování poplatků obchodníkům, srovnání přeshraničních a vnitrostátních poplatků, dokumentace SEPA-souladu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=1bcb63b81a4861b5e63d generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 235
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel se dopustí přestupku tím, že
+>
+> - a) nesplní některou z povinností nebo poruší některý ze zákazů podle čl. 8 odst. 2 věty druhé, čl. 8 odst. 6 věty první, čl. 9, čl. 10 odst. 1 nebo 5, čl. 11 nebo čl. 12 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2015/751,
+>
+> - b) nesplní některou z povinností nebo poruší některý ze zákazů podle čl. 3 odst. 1 nebo čl. 4 nařízení Evropského parlamentu a Rady (EU) 2015/751,
+>
+> - c) nesplní některou z povinností nebo poruší některý ze zákazů podle čl. 3 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2021/1230,
+>
+> - d) nesplní některou z povinností nebo poruší některý ze zákazů podle čl. 6 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2021/1230, nebo
+>
+> - e) nesplní některou z povinností nebo poruší některý ze zákazů podle čl. 5 nařízení Evropského parlamentu a Rady (EU) 2021/1230.
+>
+> (2) Provozovatel platebního systému malých plateb se dopustí přestupku tím, že nesplní některou z povinností nebo poruší některý ze zákazů podle čl. 4 odst. 2 věty první nebo druhé nařízení Evropského parlamentu a Rady (EU) č. [[260/2012|260/2012]].
+>
+> (3) Účastník platebního systému malých plateb, který nemá provozovatele, se dopustí přestupku tím, že nesplní některou z povinností nebo poruší některý ze zákazů podle čl. 4 odst. 2 věty první nebo druhé nařízení Evropského parlamentu a Rady (EU) č. [[260/2012|260/2012]].
+>
+> (4) Provozovatel schématu platebních karet se sídlem v České republice se dopustí přestupku tím, že nesplní některou z povinností nebo poruší některý ze zákazů podle čl. 6, čl. 7 odst. 1, 3, 4 nebo 5, čl. 8 odst. 1, 3, 4 nebo 5, čl. 8 odst. 6 věty první, čl. 10 odst. 1 nebo čl. 11 nařízení Evropského parlamentu a Rady (EU) [[2015/751|2015/751]].
+>
+> (5) Zpracovatel se sídlem v České republice se dopustí přestupku tím, že nesplní některou z povinností nebo poruší některý ze zákazů podle čl. 7 odst. 1 nebo 5 nebo čl. 8 odst. 6 věty první nařízení Evropského parlamentu a Rady (EU) [[2015/751|2015/751]].
+>
+> (6) Příjemce se dopustí přestupku tím, že nesplní některou z povinností nebo poruší některý ze zákazů podle čl. 8 odst. 6 věty druhé nebo čl. 10 odst. 4 nařízení Evropského parlamentu a Rady (EU) [[2015/751|2015/751]].
+>
+> (7) Přestupku se dopustí ten, kdo nesplní některou z povinností nebo poruší některý ze zákazů podle
+>
+> - a) čl. 9 nařízení Evropského parlamentu a Rady (EU) č. [[260/2012|260/2012]], nebo
+>
+> - b) čl. 4 nařízení Evropského parlamentu a Rady (EU) [[2021/1230|2021/1230]].
+>
+> (8) Za přestupek lze uložit pokutu do
+>
+> - a) 200 000 Kč, jde-li o přestupek podle odstavce 6 nebo odstavce 7 písm. a),
+>
+> - b) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. d), odstavce 2 nebo [[#§ 3|3]],
+>
+> - c) 2 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo e), odstavce 4 nebo [[#§ 5|5]] nebo odstavce 7 písm. b), nebo
+>
+> - d) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 5
+
+##### Souvisící předpisy
+
+- akt EU 2015/751 (výslovně uvedeno v místním znění)
+- akt EU 2021/1230 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1bcb63b81a4861b5e63d -->
 
 ### § 235a — Přestupky podle IPR (nařízení 2024/886)
 
@@ -2202,6 +3293,68 @@ Odst. 3 — **liberační důvod** (čl. 11 odst. 1c IPR) — pachatel se vyvin�
 - [ ] Zvážit dopad naming & shaming (§ 236) a hrozbu odnětí/zúžení povolení (§ 244–245).
 
 **Typicky rozhodné důkazy / podklady:** logy a konfigurace VoP systému, vzorky příkazů bez ověření/varování, statistika chybovosti, konsolidovaná účetní závěrka, doklady o nápravě a odškodnění poškozených, interní auditní zprávy.
+
+
+<!-- LEGAL-REVISION:BEGIN id=f969fc3826d004e2ebeb generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 235a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel se dopustí přestupku tím, že
+>
+> - a) nesplní některou z povinností nebo poruší některý ze zákazů podle čl. 3 odst. 1 nebo 2, čl. 4 odst. 1, čl. 5 odst. 1 až 3 nebo 6 až 8, čl. 5a odst. 1 prvního pododstavce, čl. 5a odst. 4, 5, 6 nebo 7, čl. 5b odst. 1 nebo 2, čl. 5c odst. 1 až 8 nebo čl. 8 nařízení Evropského parlamentu a Rady (EU) č. 260/2012,
+>
+> - b) nesplní požadavek dosažitelnosti podle čl. 5a odst. 1 druhého pododstavce nařízení Evropského parlamentu a Rady (EU) č. 260/2012, nebo
+>
+> - c) nesplní některou z povinností týkajících se ověření podle čl. 5d odst. 1 nebo 2 nařízení Evropského parlamentu a Rady (EU) č. 260/2012.
+>
+> (2) Za přestupek lze uložit pokutu do
+>
+> - a) 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo b),
+>
+> - b) 126 775 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) a spáchala-li jej fyzická nebo podnikající fyzická osoba, nebo
+>
+> - c) výše 10 % celkového ročního obratu pachatele přestupku podle poslední konsolidované účetní závěrky konsolidačního celku, v němž je zahrnutý, nebo řádné účetní závěrky, není-li taková konsolidovaná účetní závěrka, jde-li o přestupek podle odstavce 1 písm. c) a spáchala-li jej právnická osoba.
+>
+> (3) Čin jinak trestný jako přestupek podle odstavce 1 písm. b) není přestupkem, jsou-li splněny podmínky podle čl. 11 odst. 1c nařízení Evropského parlamentu a Rady (EU) č. 260/2012.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f969fc3826d004e2ebeb -->
 
 ### § 236 — Společná ustanovení k přestupkům
 
@@ -2284,6 +3437,80 @@ Odst. 3 — **liberační důvod** (čl. 11 odst. 1c IPR) — pachatel se vyvin�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d7021504646bed6599d3 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 236 — Společná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Přestupky podle tohoto zákona projednává
+>
+> - a) Česká obchodní inspekce, jde-li o přestupky podle
+>
+> - 1. § 234 odst. 4, § 235 odst. 6 a § 235 odst. 7 písm. a),
+>
+> - 2. § 234 odst. 3, s výjimkou přestupků spáchaných osobami uvedenými v [[#§ 5|§ 5]], a
+>
+> - 3. § 235 odst. 7 písm. b), s výjimkou přestupků spáchaných osobami uvedenými v [[#§ 5|§ 5]] nebo poskytovatelem služby dynamické směny měn,
+>
+> - b) Úřad pro ochranu hospodářské soutěže, jde-li o přestupky podle § 235 odst. 4 a [[#§ 5|5]],
+>
+> - c) Ministerstvo financí, jde-li o přestupek podle § 231 odst. 1 písm. l),
+>
+> - d) Česká národní banka, jde-li o ostatní přestupky.
+>
+> (2) Na řízení o přestupku vedené Úřadem pro ochranu hospodářské soutěže a na jeho postup při výkonu dozoru se zákon [[o ochraně hospodářské soutěže|o ochraně hospodářské soutěže]] použije přiměřeně.
+>
+> (3) Česká národní banka bez zbytečného odkladu uveřejní pravomocné rozhodnutí o správním trestu na svých internetových stránkách.
+>
+> (4) Česká národní banka uveřejní rozhodnutí podle odstavce 3 bez uvedení identifikačních údajů o osobě uznané vinnou přestupkem, jestliže by uveřejnění
+>
+> - a) ohrozilo stabilitu finančního trhu,
+>
+> - b) ohrozilo probíhající trestní řízení, nebo
+>
+> - c) způsobilo osobě uznané vinnou přestupkem nepřiměřenou újmu.
+>
+> (5) Rozhodnutí podle odstavce 3 musí být uveřejněno nejméně po dobu 5 let. Osobní údaje osoby uznané vinnou přestupkem se uveřejní jen na dobu nezbytně nutnou v souladu s přímo použitelným předpisem Evropské unie upravujícím ochranu osobních údajů9) a [[zákonem upravujícím zpracování osobních údajů|zákonem upravujícím zpracování osobních údajů]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 234, § 235, § 5, § 231
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d7021504646bed6599d3 -->
+
 ## ČÁST OSMÁ — Dohled a kontrola (§§ 237–248)
 
 Hlavním orgánem je **Česká národní banka**. Část kombinuje vlastní úpravu se **subsidiárním použitím kontrolního řádu** (z. 255/2012 Sb.) a **správního řádu** (z. 500/2004 Sb.) — § 237 odst. 3 výslovně odkazuje na předvolání, předvedení a výslech svědka podle SŘ.
@@ -2357,6 +3584,74 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 
 **Typicky rozhodné důkazy / podklady:** obchodní podmínky a popis služby, výpisy ze sběrných účtů, marketingové materiály, stížnosti uživatelů, korespondence o výzvě k součinnosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=ad034959bb2b06944934 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 237
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka vykonává dohled nad dodržováním povinností
+>
+> - a) platební instituce, správce informací o platebním účtu, poskytovatele platebních služeb malého rozsahu, instituce elektronických peněz, vydavatele elektronických peněz malého rozsahu a poskytovatele služby dynamické směny měn stanovených tímto zákonem nebo jiným právním předpisem upravujícím postup při výkonu činností, které jsou tyto osoby oprávněny vykonávat podle tohoto zákona,
+>
+> - b) provozovatele platebního systému s neodvolatelností zúčtování se sídlem v České republice a účastníka platebního systému s neodvolatelností zúčtování stanovených tímto zákonem nebo jiným právním předpisem upravujícím postup při provozování platebního systému s neodvolatelností zúčtování,
+>
+> - c) poskytovatele a vydavatele stanovených tímto zákonem, s výjimkou povinnosti podle [[#§ 213|§ 213]], nebo obdobnými ustanoveními právních předpisů jiných členských států, jimiž se řídí závazek ze smlouvy o platebních službách nebo ze smlouvy o vydání elektronických peněz, nebo přímo použitelným předpisem Evropské unie upravujícím přeshraniční platby v Evropské unii2), přímo použitelným předpisem Evropské unie upravujícím požadavky pro úhrady a inkasa v eurech2) nebo přímo použitelným předpisem Evropské unie upravujícím mezibankovní poplatky za karetní platební transakce2), a
+>
+> - d) osoby oprávněné poskytovat platební služby stanovených tímto zákonem.
+>
+> (2) Dohled nad dodržováním povinností podle odstavce 1 písm. c) a d) vykonává Česká národní banka tehdy, jestliže se týkají činnosti, kterou poskytovatel nebo vydavatel se sídlem v
+>
+> - a) České republice vykonává v České republice,
+>
+> - b) zahraničí vykonává v České republice prostřednictvím pobočky nebo v rámci jiné trvalé přítomnosti, nebo
+>
+> - c) České republice vykonává v jiném členském státě jinak než prostřednictvím pobočky nebo jinak než v rámci jiné trvalé přítomnosti.
+>
+> (3) Osoby podléhající dohledu České národní banky jsou povinny poskytnout České národní bance při výkonu dohledu požadované informace a potřebná vysvětlení; to platí obdobně pro provozovatele platebního systému s neodvolatelností zúčtování se sídlem v jiném členském státě při posuzování plnění podmínek výkonu jeho činnosti. Česká národní banka je oprávněna požadovat od každého informace a vysvětlení potřebná k objasnění skutečností nasvědčujících neoprávněnému poskytování platebních služeb nebo neoprávněnému vydávání elektronických peněz a každý je povinen tyto informace a vysvětlení poskytnout; ustanovení [[správního řádu|správního řádu]] upravující předvolání, předvedení a výslech svědka se použijí obdobně.
+>
+> (4) Ministerstvo financí vykonává cenovou kontrolu dodržování povinnosti poskytovatele stanovené v [[#§ 213|§ 213]] postupem podle zákona [[o cenách|o cenách]].
+>
+> (5) Dozor nad dodržováním povinností provozovatelů srovnávacích stránek, s výjimkou osob podle [[#§ 5|§ 5]], provádí Česká obchodní inspekce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 213, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ad034959bb2b06944934 -->
+
 ### § 238 — Příslušné orgány podle přímo použitelných předpisů EU
 
 **Výklad:** Vícekolejné dělení dohledových pravomocí podle jednotlivých nařízení EU: nařízení **2021/1230** (cross-border) — ČNB + ČOI; **260/2012** (SEPA) — ČOI pro plátce/příjemce, ČNB pro ostatní; **2015/751** (MIF) — ČNB / ČOI / ÚOHS podle subjektu.
@@ -2395,6 +3690,66 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 - [ ] Při nepříslušnosti trvat na postoupení podle § 12 SŘ.
 
 **Typicky rozhodné důkazy / podklady:** doklady o poplatcích a kurzech, smluvní dokumentace, identifikace porušeného článku nařízení EU.
+
+
+<!-- LEGAL-REVISION:BEGIN id=e7b755cffcedb785c1c0 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 238
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího přeshraniční platby v Evropské unii2) je
+>
+> - a) Česká obchodní inspekce pro účel zajištění dodržování povinností osob poskytujících služby směny měn v místě prodeje zboží nebo poskytování služeb podle čl. 4 nařízení Evropského parlamentu a Rady (EU) [[2021/1230|2021/1230]], s výjimkou povinností osob uvedených v [[#§ 5|§ 5]] a poskytovatelů služby dynamické směny měn,
+>
+> - b) Česká národní banka pro účel zajištění dodržování povinností ostatních osob.
+>
+> (2) Příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího požadavky pro úhrady a inkasa v eurech2) je pro účel zajištění dodržování povinností plátce a příjemce Česká obchodní inspekce a pro účel zajištění dodržování povinností ostatních osob Česká národní banka.
+>
+> (3) Příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího mezibankovní poplatky za karetní platební transakce je pro účel zajištění dodržování povinností
+>
+> - a) poskytovatele Česká národní banka,
+>
+> - b) příjemce Česká obchodní inspekce,
+>
+> - c) provozovatele schématu platebních karet a zpracovatele, kteří mají sídlo v České republice, Úřad pro ochranu hospodářské soutěže.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5
+
+##### Souvisící předpisy
+
+- akt EU 2021/1230 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e7b755cffcedb785c1c0 -->
 
 ### § 239 — Mlčenlivost a spolupráce s orgány jiných členských států
 
@@ -2436,6 +3791,66 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 
 **Typicky rozhodné důkazy / podklady:** žádost zahraničního orgánu, podmínky původního sdílení informace, doklady o paralelním řízení v ČR, vnitřní klasifikace důvěrnosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=7efefea2bb1cb016538a generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 239
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Pro povinnost mlčenlivosti při výkonu dohledu podle tohoto zákona se použijí obdobně ustanovení [[zákona upravujícího činnost bank|zákona upravujícího činnost bank]] o povinnosti mlčenlivosti při výkonu dohledu.
+>
+> (2) Česká národní banka spolupracuje s orgány jiných členských států vykonávajícími dohled nad osobami oprávněnými poskytovat platební služby nebo vydávat elektronické peníze, s Evropským orgánem pro bankovnictví, centrálními bankami jiných členských států, popřípadě s Evropskou centrální bankou. Česká národní banka zejména informuje orgán dohledu hostitelského členského státu a orgány dohledu ostatních dotčených členských států o opatřeních, která přijala na základě informací od tohoto orgánu o porušování právních předpisů osobou podléhající dohledu České národní banky.
+>
+> (3) Česká národní banka předává orgánům jiných členských států vykonávajícím dohled nad zahraničními platebními institucemi, zahraničními správci informací o platebním účtu nebo zahraničními institucemi elektronických peněz všechny podstatné informace, zejména informace o tom, že osoby podléhající dohledu těchto orgánů porušily povinnost týkající se výkonu činností, které jsou tyto osoby oprávněny vykonávat podle tohoto zákona.
+>
+> (4) Poskytne-li orgán dohledu jiného členského státu České národní bance informaci za podmínky, že informace nesmí být dále poskytnuta bez jeho předchozího souhlasu, může Česká národní banka tuto informaci předat jinému orgánu dohledu výhradně pro účely, k nimž byla informace poskytnuta. Jiným orgánům nebo osobám předá Česká národní banka poskytnutou informaci pouze s výslovným souhlasem orgánu dohledu, který informaci poskytl, a výhradně za účelem stanoveným tímto orgánem.
+>
+> (5) Česká národní banka může odmítnout žádost o spolupráci nebo předání informací, jestliže
+>
+> - a) by takové poskytnutí mohlo nepříznivě ovlivnit suverenitu nebo bezpečnost České republiky nebo veřejný pořádek v České republice, nebo
+>
+> - b) se žádost týká téže věci a téže osoby, ohledně nichž bylo v České republice zahájeno soudní řízení nebo o nichž bylo pravomocně rozhodnuto rozsudkem.
+>
+> (6) Při odmítnutí žádosti podle odstavce 5 informuje Česká národní banka žádající orgán o důvodech odmítnutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7efefea2bb1cb016538a -->
+
 ### § 240 — Urovnání sporu mezi ČNB a orgánem jiného ČS u EBA
 
 **Výklad:** Pokud mezi ČNB a orgánem jiného ČS probíhá **EBA dispute resolution** podle nařízení 1093/2010 (čl. 19) ohledně přeshraniční činnosti PI, **ČNB nevydá rozhodnutí** ve sporné věci do vyřešení sporu. Cílem je nevytvářet **kolizní rozhodnutí**.
@@ -2476,6 +3891,52 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 
 **Typicky rozhodné důkazy / podklady:** oznámení o zahájení EBA dispute resolution, vymezení předmětu sporu, korespondence mezi orgány, notifikační dokumentace passportingu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3bac81bce6a6b6547584 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 240
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> Probíhá-li mezi Českou národní bankou a orgánem dohledu jiného členského státu proces urovnání sporu podle přímo použitelného předpisu Evropské unie upravujícího zřízení Evropského orgánu dohledu (Evropského orgánu pro bankovnictví)7) (dále jen „Evropský orgán pro bankovnictví“), který se týká výkonu činnosti platební instituce nebo zahraniční platební instituce v hostitelském členském státě nebo spolupráce mezi těmito orgány v oblasti dohledu, nevydá Česká národní banka ve věci, které se urovnání sporu týká, do doby urovnání sporu rozhodnutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3bac81bce6a6b6547584 -->
+
 ### § 241 — Kontrola na místě
 
 **Výklad:** **On-site inspection**. ČNB může kontrolu provést u: (i) PSP a jeho pověřeného zástupce, (ii) outsourcing-providera, (iii) v jiném ČS u českých PSP (s notifikací orgánu hostitelského ČS), (iv) recipročně u zahraničních PSP v ČR (s notifikací ČNB), (v) u **podezřelého z neoprávněného poskytování platebních služeb**. Procesně se použije subsidiárně **kontrolní řád**.
@@ -2515,6 +3976,58 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 - [ ] Zjištění z kontroly převést do případného opatření k nápravě (§ 242).
 
 **Typicky rozhodné důkazy / podklady:** outsourcingové smlouvy, evidence safeguarded funds, seznam pověřených zástupců, kontrolní protokol, notifikace přeshraniční kontroly.
+
+
+<!-- LEGAL-REVISION:BEGIN id=7dc14b440f880b39916c generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 241 — Kontrola na místě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka může vykonat kontrolu na místě u osoby podléhající jejímu dohledu, u jejího pověřeného zástupce nebo u jiné osoby, jejímž prostřednictvím tato osoba vykonává provozní činnosti vztahující se k činnostem, které je oprávněna vykonávat podle tohoto zákona.
+>
+> (2) Česká národní banka může v jiném členském státě provést kontrolu na místě u osoby podléhající jejímu dohledu, u jejího pověřeného zástupce nebo u jiné osoby, jejímž prostřednictvím tato osoba vykonává provozní činnosti vztahující se k činnostem, které je oprávněna vykonávat podle tohoto zákona, jestliže to oznámí orgánu dohledu tohoto jiného členského státu. Na žádost České národní banky může tuto kontrolu na místě provést rovněž tento orgán dohledu jiného členského státu.
+>
+> (3) Orgán dohledu jiného členského státu může v České republice provést kontrolu na místě u osoby podléhající jeho dohledu, u jejího pověřeného zástupce nebo u jiné osoby, jejímž prostřednictvím tato osoba vykonává provozní činnosti vztahující se k činnostem, které je oprávněna vykonávat podle tohoto zákona, jestliže to oznámí České národní bance. Na žádost orgánu dohledu jiného členského státu může tuto kontrolu na místě provést Česká národní banka.
+>
+> (4) U toho, kdo je důvodně podezřelý, že neoprávněně poskytuje platební služby nebo neoprávněně vydává elektronické peníze, může Česká národní banka provést kontrolu na místě v rozsahu, který je nezbytný ke zjištění skutkového stavu týkajícího se činnosti, která toto podezření zakládá.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7dc14b440f880b39916c -->
 
 ### § 242 — Opatření k nápravě
 
@@ -2581,6 +4094,72 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 
 **Typicky rozhodné důkazy / podklady:** výpisy a evidence safeguarded funds, doklady o předchozích výtkách a jejich (ne)splnění, organizační a personální dokumentace, mimořádné auditní zprávy.
 
+
+<!-- LEGAL-REVISION:BEGIN id=66683b2599c2b2095320 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 242 — Opatření k nápravě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Poruší-li osoba podléhající dohledu České národní banky povinnost stanovenou tímto zákonem nebo jiným právním předpisem upravujícím postup při výkonu činností, které je tato osoba oprávněna vykonávat podle tohoto zákona, může Česká národní banka podle závažnosti a následků zjištěného nedostatku uložit této osobě, aby
+>
+> - a) ve stanovené lhůtě zjednala nápravu,
+>
+> - b) nevykonávala činnosti, které je oprávněna vykonávat podle tohoto zákona, nebo některé z nich, dokud nezjedná nápravu,
+>
+> - c) nechala na své náklady provést mimořádný audit,
+>
+> - d) vyměnila auditora,
+>
+> - e) vyměnila svoji vedoucí osobu,
+>
+> - f) nevykonávala činnosti, které je oprávněna vykonávat podle tohoto zákona, prostřednictvím pověřeného zástupce,
+>
+> - g) nevykonávala činnosti, které je oprávněna vykonávat podle tohoto zákona, prostřednictvím pobočky v hostitelském členském státě,
+>
+> - h) omezila výkon některých provozních činností vztahujících se k činnostem, které je oprávněna vykonávat podle tohoto zákona, prostřednictvím jiné osoby, nebo aby tyto činnosti prostřednictvím jiné osoby nevykonávala, nebo
+>
+> - i) nakládala s peněžními prostředky, které jí byly svěřeny k provedení platební transakce nebo proti jejichž přijetí byly vydány elektronické peníze, pouze stanoveným způsobem.
+>
+> (2) Osoba podléhající dohledu České národní banky, které Česká národní banka uložila opatření k nápravě podle odstavce 1, informuje Českou národní banku bez zbytečného odkladu o odstranění nedostatku a o způsobu zjednání nápravy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=66683b2599c2b2095320 -->
+
 ### § 243 — Opatření k nápravě zahraniční osobě
 
 **Výklad:** **Host-country emergency measures**: pokud zahraniční PI / IEP / AISP **závažně ohrožuje zájmy uživatelů v ČR** a domovský orgán neumí situaci řešit (§ 239 odst. 3), může ČNB sama uložit opatření na pobočce / pověřeném zástupci. Předem (nebo bez zbytečného odkladu po) informuje **domovský orgán + ostatní dotčené orgány + EBA + Komisi**. Opatření musí být **přiměřené** a směrovat **k ochraně uživatelů v ČR**, nemůže diskriminovat uživatele v jiných ČS.
@@ -2620,6 +4199,70 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 - [ ] Zachovat dočasnou povahu opatření a připravit se na případnou EBA mediaci (§ 240).
 
 **Typicky rozhodné důkazy / podklady:** stížnosti českých klientů, doklady o stavu a ohrožení prostředků na pobočce, korespondence s domovským orgánem prokazující jeho nečinnost, notifikace EBA a Komisi.
+
+
+<!-- LEGAL-REVISION:BEGIN id=4cae8445c2e5ab7d0ba1 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 243 — Opatření k nápravě uložené zahraniční osobě při poskytování platebních služeb v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Ohrožuje-li zahraniční platební instituce, zahraniční správce informací o platebním účtu nebo zahraniční instituce elektronických peněz, kteří mají sídlo v jiném členském státě a poskytují platební služby v České republice prostřednictvím pověřeného zástupce nebo pobočky, závažným způsobem zájmy uživatelů v České republice a toto ohrožení není možné odvrátit postupem podle § 239 odst. 3, může Česká národní banka uložit této osobě vzhledem k činnostem vykonávaným v České republice prostřednictvím pobočky nebo pověřeného zástupce, aby
+>
+> - a) ve stanovené lhůtě zjednala nápravu,
+>
+> - b) tyto platební služby nebo některé z nich nevykonávala, dokud nezjedná nápravu,
+>
+> - c) tyto platební služby nevykonávala prostřednictvím pověřeného zástupce,
+>
+> - d) omezila výkon některých provozních činností prostřednictvím jiné osoby, nebo aby tyto činnosti prostřednictvím jiné osoby nevykonávala, nebo
+>
+> - e) nakládala s peněžními prostředky, které jí byly svěřeny k provedení platební transakce nebo proti jejichž přijetí byly vydány elektronické peníze, pouze stanoveným způsobem.
+>
+> (2) Má-li Česká národní banka v úmyslu uložit opatření podle odstavce 1, informuje o tom orgán dohledu domovského členského státu, orgány dohledu ostatních dotčených členských států, Evropský orgán pro bankovnictví a Evropskou komisi; není-li to možné, informuje Česká národní banka uvedené orgány bez zbytečného odkladu po uložení tohoto opatření. Česká národní banka zároveň sdělí uvedeným orgánům důvody pro uložení opatření podle odstavce 1.
+>
+> (3) Opatření uložené podle odstavce 1 musí být přiměřené povaze ohrožení, nesmí znevýhodňovat uživatele v jiných členských státech a musí směřovat k ochraně zájmů uživatelů v České republice.
+>
+> (4) Česká národní banka opatření podle odstavce 1 zruší, pominou-li podmínky pro jeho uložení.
+>
+> (5) Zahraniční platební instituce, zahraniční správce informací o platebním účtu nebo zahraniční instituce elektronických peněz, kteří mají sídlo v jiném členském státě a kterým Česká národní banka uložila opatření k nápravě podle odstavce 1, informují Českou národní banku bez zbytečného odkladu o odstranění nedostatku a o způsobu zjednání nápravy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 239
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4cae8445c2e5ab7d0ba1 -->
 
 ### § 244 — Odnětí povolení
 
@@ -2703,6 +4346,84 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 
 **Typicky rozhodné důkazy / podklady:** doklady o (ne)poskytování služeb v rozhodném období, původní žádost o povolení a podklady prokazující nepravdivost údajů, evidence předchozích porušení a opatření k nápravě.
 
+
+<!-- LEGAL-REVISION:BEGIN id=dedbed0a004ef4d12aeb generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 244 — Odnětí povolení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka odejme povolení udělené podle tohoto zákona, jestliže
+>
+> - a) o to osoba, jíž bylo povolení uděleno, požádá, nebo
+>
+> - b) osoba, jíž bylo povolení uděleno, závažným způsobem porušila povinnost stanovenou tímto zákonem nebo jiným právním předpisem upravujícím postup při výkonu činností, které lze vykonávat na základě uděleného povolení.
+>
+> (2) Česká národní banka může odejmout povolení udělené podle tohoto zákona, jestliže
+>
+> - a) osoba, jíž bylo povolení uděleno, nesplňuje podmínky pro jeho udělení,
+>
+> - b) platební systém s neodvolatelností zúčtování nesplňuje podmínky uvedené v § 110 odst. 1 písm. a), b) nebo c),
+>
+> - c) platební instituce nebo poskytovatel platebních služeb malého rozsahu nezačali do 12 měsíců ode dne udělení povolení k činnosti poskytovat platební služby,
+>
+> - d) povolení bylo uděleno na základě nepravdivých nebo neúplných údajů nebo v důsledku jiného nedovoleného postupu osoby, jíž bylo povolení uděleno,
+>
+> - e) instituce elektronických peněz nebo vydavatel elektronických peněz malého rozsahu nezačali do 12 měsíců ode dne udělení povolení k činnosti vydávat elektronické peníze ani poskytovat služby týkající se elektronických peněz,
+>
+> - f) správce informací o platebním účtu nezačal do 12 měsíců ode dne udělení povolení k činnosti poskytovat službu informování o platebním účtu,
+>
+> - g) platební instituce neposkytovala platební služby po dobu delší než 6 měsíců,
+>
+> - h) instituce elektronických peněz nevydávala elektronické peníze ani neposkytovala platební služby týkající se elektronických peněz po dobu delší než 6 měsíců,
+>
+> - i) správce informací o platebním účtu neposkytoval službu informování o platebním účtu po dobu delší než 6 měsíců,
+>
+> - j) poskytovatel platebních služeb malého rozsahu neposkytoval platební služby v České republice po dobu delší než 6 měsíců,
+>
+> - k) vydavatel elektronických peněz malého rozsahu nevydával elektronické peníze ani neposkytoval platební služby týkající se elektronických peněz v České republice po dobu delší než 6 měsíců, nebo
+>
+> - l) osoba, jíž bylo povolení uděleno, opakovaně porušila povinnost stanovenou tímto zákonem nebo jiným právním předpisem upravujícím postup při výkonu činností, které lze vykonávat na základě uděleného povolení.
+>
+> (3) Česká národní banka informuje o důvodech odnětí povolení Evropský orgán pro bankovnictví.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 110
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dedbed0a004ef4d12aeb -->
+
 ### § 245 — Zúžení povolení
 
 **Výklad:** Mezistupeň mezi opatřením k nápravě a úplným odnětím — ČNB **zúží rozsah platebních služeb**, k jejichž poskytování má PI licenci (např. odebere PIS-povolení, ponechá ostatní). Žádost (obligatorní) nebo závažné porušení / nepravdivé údaje (fakultativní).
@@ -2742,6 +4463,60 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 - [ ] Promítnout zúžení do veřejných seznamů (§ 249–250) a poučit o možnosti pozdějšího rozšíření.
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o uděleném povolení a jeho rozsah, zjištění o porušení vztažená ke konkrétní službě, evidence dotčených transakcí.
+
+
+<!-- LEGAL-REVISION:BEGIN id=d8d79c019a0a4234243b generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 245 — Zúžení povolení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka zúží rozsah platebních služeb, na které se povolení k činnosti vztahuje, jestliže o to osoba, jíž bylo povolení k činnosti uděleno, požádá.
+>
+> (2) Česká národní banka může zúžit rozsah platebních služeb, na které se povolení vztahuje, jestliže
+>
+> - a) osoba, jíž bylo povolení k činnosti uděleno, nesplňuje podmínky pro udělení povolení k poskytování některé platební služby, nebo
+>
+> - b) povolení k činnosti bylo uděleno na základě nepravdivých nebo neúplných údajů nebo v důsledku jiného nedovoleného postupu osoby, jíž bylo povolení k činnosti uděleno.
+>
+> (3) Na zúžení povolení k činnosti poskytovatele platebních služeb malého rozsahu nebo vydavatele elektronických peněz malého rozsahu o poskytování spotřebitelského úvěru se odstavce 1 a [[#§ 2|2]] použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d8d79c019a0a4234243b -->
 
 ### § 246 — Zrušení zápisu pověřeného zástupce
 
@@ -2783,6 +4558,56 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 
 **Typicky rozhodné důkazy / podklady:** zápis agenta v seznamu, rozhodnutí o zákazu činnosti přes agenta (§ 242), oznámení o ukončení spolupráce, doklady o porušení agenta.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3e03490201dac5cee410 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 246 — Zrušení zápisu pověřeného zástupce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka zruší zápis pověřeného zástupce v seznamu platebních institucí nebo institucí elektronických peněz na základě oznámení platební instituce, instituce elektronických peněz nebo pověřeného zástupce.
+>
+> (2) Česká národní banka může platební instituci nebo instituci elektronických peněz zakázat poskytovat platební služby prostřednictvím pověřeného zástupce, jestliže platební instituce nebo instituce elektronických peněz při poskytování platebních služeb prostřednictvím pověřeného zástupce opakovaně nebo závažným způsobem porušila povinnost stanovenou tímto zákonem nebo jiným právním předpisem upravujícím postup při výkonu činnosti, které je platební instituce nebo instituce elektronických peněz oprávněna vykonávat podle tohoto zákona.
+>
+> (3) Česká národní banka společně se zákazem podle odstavce 2 zruší zápis pověřeného zástupce u příslušné platební instituce nebo instituce elektronických peněz v seznamu platebních institucí nebo institucí elektronických peněz.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3e03490201dac5cee410 -->
+
 ### § 247 — Odnětí souhlasu k passportu (host-state activity)
 
 **Výklad:** Souhlas k **přeshraniční činnosti** přes agenta / pobočku v hostitelském ČS (passporting) lze odejmout obdobně jako základní povolení.
@@ -2822,6 +4647,60 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 - [ ] Promítnout změnu do veřejných seznamů a jednoznačně vymezit rozsah odnětí.
 
 **Typicky rozhodné důkazy / podklady:** notifikace a podněty hostitelského orgánu, doklady o porušení passportované pobočky/agenta, podmínky uděleného souhlasu k přeshraniční činnosti.
+
+
+<!-- LEGAL-REVISION:BEGIN id=7f644d048e3bc2a59fee generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 247 — Odnětí souhlasu k poskytování platebních služeb prostřednictvím pověřeného zástupce nebo pobočky v hostitelském členském státě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka poskytovateli nebo vydavateli, jemuž byl udělen souhlas k poskytování platebních služeb nebo vydávání anebo distribuci elektronických peněz v hostitelském členském státě prostřednictvím pověřeného zástupce nebo pobočky, odejme tento souhlas, jestliže o to poskytovatel nebo vydavatel, jemuž byl souhlas udělen, nebo pověřený zástupce požádá.
+>
+> (2) Česká národní banka může osobě, jíž byl udělen souhlas k poskytování platebních služeb nebo vydávání anebo distribuci elektronických peněz v hostitelském členském státě prostřednictvím pověřeného zástupce nebo pobočky, odejmout tento souhlas, jestliže
+>
+> - a) osoba, jíž byl souhlas udělen, při výkonu činností, které lze na základě uděleného souhlasu vykonávat prostřednictvím pověřeného zástupce nebo pobočky, opakovaně nebo závažným způsobem porušila povinnost stanovenou tímto zákonem nebo jiným právním předpisem upravujícím postup při výkonu činností, které je osoba, jíž byl souhlas udělen, oprávněna vykonávat podle tohoto zákona,
+>
+> - b) osoba, jíž byl souhlas udělen, nesplňuje podmínky pro udělení tohoto souhlasu, nebo
+>
+> - c) souhlas byl udělen na základě nepravdivých nebo neúplných údajů nebo v důsledku jiného nedovoleného postupu osoby, jíž byl souhlas udělen.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7f644d048e3bc2a59fee -->
 
 ### § 248 — Přijímání podnětů
 
@@ -2868,6 +4747,52 @@ Odst. 3 obsahuje **informační povinnost** všech regulovaných osob + **šetř
 **Typicky rozhodné důkazy / podklady:** samotný podnět a datum jeho přijetí, podklady k tvrzenému porušení (smlouva, výpisy, reklamace), evidence odpovědi ČNB a poučení o mimosoudním řešení sporu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dde6f3bbe4407fd9bf84 generator=2026-07-17.4 source_sha256=f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0 -->
+#### Revizní doplnění k § 248 — Přijímání podnětů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 10. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/370-2017 Zákon o platebním styku.md`; identifikátor verze: `SB-2017-00370_2025-10-01`; SHA-256: `f1b255f06a1aec7f052efbd281fadca6d494664b3ffb30fcdf7b44aacd0776f0`.
+
+##### Znění ustanovení
+
+> Přijme-li Česká národní banka podnět k zahájení řízení z moci úřední ve věci porušení povinnosti poskytovatele nebo vydavatele stanovené tímto zákonem, obdobnými ustanoveními právních předpisů jiného členského státu, jimiž se řídí závazek ze smlouvy o platebních službách nebo ze smlouvy o vydání elektronických peněz, přímo použitelným předpisem Evropské unie upravujícím přeshraniční platby v Evropské unii2) nebo přímo použitelným předpisem Evropské unie upravujícím požadavky pro úhrady a inkasa v eurech2), odpoví na něj do 60 dnů ode dne, kdy podnět přijala, i když o to ten, kdo podnět podal, nepožádal. Připadá-li to v úvahu, informuje jej Česká národní banka zároveň o možnosti mimosoudního řešení sporů mezi uživateli a poskytovateli nebo mezi držiteli a vydavateli podle jiného právního předpisu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dde6f3bbe4407fd9bf84 -->
 
 ## ČÁST DEVÁTÁ — Ustanovení společná, přechodná a závěrečná (§§ 249–280)
 
